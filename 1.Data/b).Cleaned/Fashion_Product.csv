@@ -1,0 +1,796 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Color,Size,Material,Price,Cost,Season,Launch_Date
+P0300,StyleCo Black Belt,Accessories,Belt,StyleCo,Black,XS,Blend,22.16,8.09,Fall/Winter 2023,9/10/2023 0:00
+P0264,UrbanChic White Belt,Accessories,Belt,UrbanChic,White,M,Blend,23.95,10.93,Fall/Winter 2023,8/11/2023 0:00
+P0643,TrendWear Beige Jeans,Bottoms,Jeans,TrendWear,Beige,M,Denim,50.85,24.1,Spring/Summer 2023,3/26/2023 0:00
+P0393,TrendWear Black Leggings,Activewear,Leggings,TrendWear,Black,L,Denim,43.85,20.51,Spring/Summer 2024,2/20/2024 0:00
+P0585,TrendWear White Cocktail Dress,Dresses,Cocktail Dress,TrendWear,White,XXL,Blend,71.07,27.44,Spring/Summer 2023,3/21/2023 0:00
+P0500,UrbanChic Gray Jeans,Bottoms,Jeans,UrbanChic,Gray,XL,Silk,43.25,15.15,Spring/Summer 2024,3/22/2024 0:00
+P0037,TrendWear Black Maxi Dress,Dresses,Maxi Dress,TrendWear,Black,S,Silk,70.75,27.03,Fall/Winter 2023,8/27/2023 0:00
+P0513,StyleCo Pink Cocktail Dress,Dresses,Cocktail Dress,StyleCo,Pink,S,Blend,69.68,26.75,Spring/Summer 2024,2/29/2024 0:00
+P0079,UrbanChic Green Midi Dress,Dresses,Mini Dress,UrbanChic,Green,S,Polyester,53.34,21.73,Spring/Summer 2023,2/9/2023 0:00
+P0474,TrendWear Navy Scarf,Accessories,Scarf,TrendWear,Navy,M,Polyester,18.73,8.75,Spring/Summer 2023,2/1/2023 0:00
+P0148,ClassicMode Gray Belt,Accessories,Belt,ClassicMode,Gray,M,Blend,26.72,10.37,Fall/Winter 2023,8/15/2023 0:00
+P0135,ModaVibe Yellow Shorts,Bottoms,Shorts,ModaVibe,Yellow,S,Denim,38.61,17.72,Spring/Summer 2024,3/24/2024 0:00
+P0317,ModaVibe Blue Bag,Accessories,Bag,ModaVibe,Blue,M,Cotton,22.45,10.4,Fall/Winter 2023,9/18/2023 0:00
+P0051,StyleCo White Hat,Accessories,Hat,StyleCo,White,S,Cotton,25.97,10.17,Spring/Summer 2023,3/13/2023 0:00
+P0619,StyleCo White Scarf,Accessories,Scarf,StyleCo,White,L,Denim,22.31,9.96,Spring/Summer 2024,2/29/2024 0:00
+P0268,StyleCo Blue Maxi Dress,Dresses,Maxi Dress,StyleCo,Blue,M,Denim,56.46,24.61,Spring/Summer 2024,3/13/2024 0:00
+P0704,ClassicMode Black Hat,Accessories,Hat,ClassicMode,Black,S,Denim,21.1,7.8,Spring/Summer 2024,2/29/2024 0:00
+P0714,TrendWear Brown Scarf,Accessories,Scarf,TrendWear,Brown,M,Wool,23.77,10.65,Spring/Summer 2024,2/15/2024 0:00
+P0767,ModaVibe Navy Midi Dress,Dresses,Mini Dress,ModaVibe,Navy,L,Polyester,47.46,19.14,Fall/Winter 2023,8/7/2023 0:00
+P0333,ModaVibe Black Hat,Accessories,Hat,ModaVibe,Black,XXL,Wool,23.54,8.74,Spring/Summer 2024,2/16/2024 0:00
+P0351,TrendWear Beige Bag,Accessories,Bag,TrendWear,Beige,XL,Wool,18.18,8.67,Spring/Summer 2023,3/6/2023 0:00
+P0754,ClassicMode Brown Sweater,Tops,Sweater,ClassicMode,Brown,M,Cotton,34.76,15.33,Spring/Summer 2024,2/4/2024 0:00
+P0447,TrendWear Black Maxi Dress,Dresses,Maxi Dress,TrendWear,Black,S,,68.09,28.46,Spring/Summer 2023,4/1/2023 0:00
+P0044,TrendWear Gray Shorts,Bottoms,Shorts,TrendWear,Gray,S,Wool,50.19,18.55,Spring/Summer 2024,2/16/2024 0:00
+P0369,ModaVibe White Scarf,Accessories,Scarf,ModaVibe,White,M,Blend,22.43,8.1,Spring/Summer 2024,3/23/2024 0:00
+P0218,UrbanChic Blue Shorts,Bottoms,Shorts,UrbanChic,Blue,L,Silk,47.92,23.58,Fall/Winter 2023,9/30/2023 0:00
+P0231,ClassicMode Gray Sweater,Tops,Sweater,ClassicMode,Gray,M,Polyester,26.72,10.38,Spring/Summer 2023,3/30/2023 0:00
+P0404,TrendWear Gray Scarf,Accessories,Scarf,TrendWear,Gray,M,Blend,22.27,8.19,Spring/Summer 2024,2/8/2024 0:00
+P0563,ClassicMode Beige Belt,Accessories,Belt,ClassicMode,Beige,M,Polyester,21.99,10.95,Spring/Summer 2023,2/15/2023 0:00
+P0787,ClassicMode Black Jeans,Bottoms,Jeans,ClassicMode,Black,XS,Wool,45.99,18.06,Spring/Summer 2023,2/17/2023 0:00
+P0521,ModaVibe White T-Shirt,Tops,T-Shirt,ModaVibe,White,L,Denim,36.1,13.44,Fall/Winter 2024,8/8/2024 0:00
+P0504,UrbanChic Brown Tank,Activewear,Tank Top,UrbanChic,Brown,L,Polyester,43.81,21.17,Spring/Summer 2023,2/5/2023 0:00
+P0577,UrbanChic Red Leggings,Activewear,Leggings,UrbanChic,Red,S,Silk,35.6,14.6,Spring/Summer 2024,2/12/2024 0:00
+P0796,ModaVibe Gray Pants,Bottoms,Pants,ModaVibe,Gray,M,Blend,49.08,18.3,Fall/Winter 2023,8/27/2023 0:00
+P0790,ClassicMode Navy Skirt,Bottoms,Skirt,ClassicMode,Navy,L,Denim,52.38,25.14,Spring/Summer 2023,3/30/2023 0:00
+P0510,TrendWear Brown Sweater,Tops,Sweater,TrendWear,Brown,M,Cotton,30.29,13.5,Spring/Summer 2023,2/2/2023 0:00
+P0690,ClassicMode White Sweater,Tops,Sweater,ClassicMode,White,S,Wool,27.76,10,Spring/Summer 2023,3/3/2023 0:00
+P0626,StyleCo Blue Jeans,Bottoms,Jeans,StyleCo,Blue,M,Polyester,49.58,17.88,Fall/Winter 2023,9/20/2023 0:00
+P0370,ClassicMode Pink Sports Bra,Activewear,Sports Bra,ClassicMode,Pink,S,Cotton,45.53,18.4,Fall/Winter 2023,9/17/2023 0:00
+P0353,StyleCo Gray Sports Bra,Activewear,Sports Bra,StyleCo,Gray,M,Wool,47.92,17.21,Fall/Winter 2023,9/2/2023 0:00
+P0685,StyleCo Neon Pink Maxi Dress,Dresses,Maxi Dress,StyleCo,Neon Pink,L,Denim,60.29,28.61,Spring/Summer 2023,3/8/2023 0:00
+P0564,ModaVibe White Leggings,Activewear,Leggings,ModaVibe,White,M,Cotton,44.7,20.01,Fall/Winter 2023,8/8/2023 0:00
+P0254,UrbanChic White Leggings,Activewear,Leggings,UrbanChic,White,S,Blend,47.57,23.76,Spring/Summer 2024,3/17/2024 0:00
+P0078,TrendWear Blue Pants,Bottoms,Pants,TrendWear,Blue,M,Blend,41.91,16.46,Spring/Summer 2024,2/29/2024 0:00
+P0228,ModaVibe White Sweater,Tops,Sweater,ModaVibe,White,L,Polyester,35.31,12.79,Spring/Summer 2024,2/16/2024 0:00
+P0195,StyleCo Navy Shorts,Bottoms,Shorts,StyleCo,Navy,M,Polyester,81.82,29.31,Fall/Winter 2023,8/26/2023 0:00
+P0509,TrendWear White Pants,Bottoms,Pants,TrendWear,White,S,Wool,38.67,14.04,Spring/Summer 2023,2/24/2023 0:00
+P0544,TrendWear Green Skirt,Bottoms,Skirt,TrendWear,Green,S,Denim,41,19.62,Fall/Winter 2023,9/27/2023 0:00
+P0593,UrbanChic Gray Blazer,Outerwear,Blazer,UrbanChic,Gray,S,Silk,74.58,36.14,Spring/Summer 2024,3/16/2024 0:00
+P0197,ClassicMode White Cocktail Dress,Dresses,Cocktail Dress,ClassicMode,White,S,Denim,65.27,29.73,Fall/Winter 2023,8/9/2023 0:00
+P0602,TrendWear Navy Blouse,Tops,Blouse,TrendWear,Navy,L,Wool,34.17,15.41,Spring/Summer 2024,3/15/2024 0:00
+P0566,StyleCo Black Maxi Dress,Dresses,Maxi Dress,StyleCo,Black,S,Blend,68.6,25.28,Spring/Summer 2023,2/27/2023 0:00
+P0069,ClassicMode Black Skirt,Bottoms,Skirt,ClassicMode,Black,S,Denim,57.94,26.15,Spring/Summer 2024,3/1/2024 0:00
+P0518,TrendWear Brown Skirt,Bottoms,Skirt,TrendWear,Brown,XL,Silk,57.13,28.46,Fall/Winter 2023,8/3/2023 0:00
+P0378,ClassicMode Black Skirt,Bottoms,Skirt,ClassicMode,Black,S,Blend,51.9,25.55,Spring/Summer 2023,2/9/2023 0:00
+P0319,ModaVibe Gray Blouse,Tops,Blouse,ModaVibe,Gray,M,Cotton,33.69,14.42,Fall/Winter 2023,8/11/2023 0:00
+P0678,UrbanChic Beige Pants,Bottoms,Pants,UrbanChic,Beige,XXL,Cotton,55.62,24.77,Spring/Summer 2023,2/11/2023 0:00
+P0553,ModaVibe Navy Pants,Bottoms,Pants,ModaVibe,Navy,M,Polyester,40.88,19.55,Spring/Summer 2024,2/27/2024 0:00
+P0491,TrendWear Green Shorts,Bottoms,Shorts,TrendWear,Green,XL,Polyester,39.46,17.28,Spring/Summer 2024,2/4/2024 0:00
+P0541,ModaVibe Black Pants,Bottoms,Pants,ModaVibe,Black,M,Blend,61.01,27.42,Spring/Summer 2023,2/1/2023 0:00
+P0460,ModaVibe Navy Shorts,Bottoms,Shorts,ModaVibe,Navy,M,,54.7,27.12,Fall/Winter 2023,8/30/2023 0:00
+P0046,StyleCo Beige T-Shirt,Tops,T-Shirt,StyleCo,Beige,L,Cotton,31.93,15.65,Fall/Winter 2023,9/2/2023 0:00
+P0064,UrbanChic Black Mini Dress,Dresses,Mini Dress,UrbanChic,Black,XL,Denim,68.17,29.18,Spring/Summer 2023,3/18/2023 0:00
+P0777,StyleCo Black Blazer,Outerwear,Blazer,StyleCo,Black,S,Polyester,99.52,45.25,Fall/Winter 2024,9/2/2024 0:00
+P0277,TrendWear Beige Cardigan,Outerwear,Cardigan,TrendWear,Beige,S,Silk,93.32,33.37,Fall/Winter 2023,9/7/2023 0:00
+P0665,ClassicMode Black Pants,Bottoms,Pants,ClassicMode,Black,L,Denim,39.23,16.81,Fall/Winter 2023,8/7/2023 0:00
+P0200,ClassicMode White Maxi Dress,Dresses,Maxi Dress,ClassicMode,White,XS,Silk,54.44,26.79,Spring/Summer 2023,2/21/2023 0:00
+P0600,ClassicMode Black Midi Dress,Dresses,Mini Dress,ClassicMode,Black,XS,Silk,69.05,25.55,Spring/Summer 2024,2/19/2024 0:00
+P0693,ModaVibe Beige Maxi Dress,Dresses,Maxi Dress,ModaVibe,Beige,XXL,Denim,61.82,23.66,Fall/Winter 2023,8/31/2023 0:00
+P0115,UrbanChic Gray Mini Dress,Dresses,Mini Dress,UrbanChic,Gray,M,Polyester,57.97,25.09,Spring/Summer 2023,2/11/2023 0:00
+P0296,UrbanChic Red Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Red,S,Silk,51.84,23.41,Spring/Summer 2024,2/19/2024 0:00
+P0762,UrbanChic Black Midi Dress,Dresses,Mini Dress,UrbanChic,Black,S,Silk,64.83,30.12,Spring/Summer 2024,3/26/2024 0:00
+P0107,StyleCo White Midi Dress,Dresses,Mini Dress,StyleCo,White,M,Cotton,57.33,21.61,Fall/Winter 2023,8/19/2023 0:00
+P0757,ModaVibe Beige Midi Dress,Dresses,Mini Dress,ModaVibe,Beige,S,Polyester,49.16,19.45,Spring/Summer 2023,3/19/2023 0:00
+P0297,UrbanChic White Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,White,L,Cotton,47.69,23.53,Fall/Winter 2023,8/19/2023 0:00
+P0096,ClassicMode Beige Mini Dress,Dresses,Mini Dress,ClassicMode,Beige,M,Denim,72.63,32.51,Fall/Winter 2023,9/16/2023 0:00
+P0532,ClassicMode Green Maxi Dress,Dresses,Maxi Dress,ClassicMode,Green,M,Blend,64.24,24.4,Spring/Summer 2023,3/31/2023 0:00
+P0392,UrbanChic Red Blouse,Tops,Blouse,UrbanChic,Red,M,Cotton,27.43,11.31,Spring/Summer 2023,3/3/2023 0:00
+P0208,ModaVibe Gray Midi Dress,Dresses,Mini Dress,ModaVibe,Gray,M,Blend,69.51,24.72,Spring/Summer 2023,2/20/2023 0:00
+P0614,ClassicMode Gray Midi Dress,Dresses,Mini Dress,ClassicMode,Gray,M,Cotton,53.49,21.31,Fall/Winter 2023,8/3/2023 0:00
+P0766,TrendWear White Midi Dress,Dresses,Mini Dress,TrendWear,White,XS,Wool,61.88,28.82,Fall/Winter 2023,9/24/2023 0:00
+P0357,UrbanChic Navy Tank Top,Tops,Tank Top,UrbanChic,Navy,S,Silk,35.61,14.46,Spring/Summer 2024,3/22/2024 0:00
+P0528,ClassicMode Blue Tank Top,Tops,Tank Top,ClassicMode,Blue,M,Silk,36.87,17.96,Spring/Summer 2023,2/13/2023 0:00
+P0571,TrendWear Black Cocktail Dress,Dresses,Cocktail Dress,TrendWear,Black,L,Cotton,57.69,20.3,Fall/Winter 2024,8/22/2024 0:00
+P0008,ModaVibe Navy Midi Dress,Dresses,Mini Dress,ModaVibe,Navy,M,Blend,49.12,22.06,Fall/Winter 2023,9/15/2023 0:00
+P0013,StyleCo Black Blouse,Tops,Blouse,StyleCo,Black,L,,32,12.21,Spring/Summer 2024,2/26/2024 0:00
+P0629,StyleCo Beige Maxi Dress,Dresses,Maxi Dress,StyleCo,Beige,XS,Wool,71.65,28.19,Spring/Summer 2024,3/31/2024 0:00
+P0054,UrbanChic Navy Jacket,Outerwear,Jacket,UrbanChic,Navy,M,,76.19,30.19,Fall/Winter 2023,8/28/2023 0:00
+P0468,TrendWear Black Midi Dress,Dresses,Mini Dress,TrendWear,Black,L,Denim,56.04,26.17,Spring/Summer 2023,4/2/2023 0:00
+P0538,ClassicMode Blue Jacket,Outerwear,Jacket,ClassicMode,Blue,S,Polyester,79.66,37.45,Fall/Winter 2023,9/11/2023 0:00
+P0070,TrendWear Black Cardigan,Outerwear,Cardigan,TrendWear,Black,S,Blend,105.67,47.02,Spring/Summer 2023,2/19/2023 0:00
+P0423,ClassicMode Beige T-Shirt,Tops,T-Shirt,ClassicMode,Beige,M,Polyester,26.27,11.3,Spring/Summer 2024,3/26/2024 0:00
+P0793,StyleCo Brown Blouse,Tops,Blouse,StyleCo,Brown,M,,34.35,15.24,Spring/Summer 2024,3/15/2024 0:00
+P0252,ModaVibe Black T-Shirt,Tops,T-Shirt,ModaVibe,Black,L,,34.77,13.81,Fall/Winter 2023,9/3/2023 0:00
+P0545,UrbanChic Brown Cardigan,Outerwear,Cardigan,UrbanChic,Brown,XL,Blend,68.43,29.06,Fall/Winter 2023,9/16/2023 0:00
+P0260,ModaVibe Green Coat,Outerwear,Coat,ModaVibe,Green,M,Wool,90.01,45,Spring/Summer 2023,2/5/2023 0:00
+P0721,ClassicMode Red Cardigan,Outerwear,Cardigan,ClassicMode,Red,M,Wool,100.31,49.7,Spring/Summer 2024,3/7/2024 0:00
+P0560,UrbanChic White Blouse,Tops,Blouse,UrbanChic,,L,Blend,27.38,11.65,Spring/Summer 2024,2/9/2024 0:00
+P0366,StyleCo White Midi Dress,Dresses,Mini Dress,StyleCo,White,S,Denim,57.57,20.81,Spring/Summer 2023,2/28/2023 0:00
+P0511,StyleCo Red Sweater,Tops,Sweater,StyleCo,Red,L,Wool,35.63,15.08,Spring/Summer 2024,3/22/2024 0:00
+P0157,ModaVibe Neon Green Midi Dress,Dresses,Mini Dress,ModaVibe,Neon Green,XS,Silk,54.47,26.33,Spring/Summer 2024,3/25/2024 0:00
+P0450,UrbanChic Mustard Blouse,Tops,Blouse,UrbanChic,Mustard,XS,Cotton,46.37,18.1,Fall/Winter 2023,9/17/2023 0:00
+P0483,UrbanChic Yellow Cardigan,Outerwear,Cardigan,UrbanChic,Yellow,XL,Denim,87.05,30.81,Spring/Summer 2024,2/25/2024 0:00
+P0652,ModaVibe Mustard Jacket,Outerwear,Jacket,ModaVibe,Mustard,XL,Denim,122.89,53.68,Spring/Summer 2024,3/25/2024 0:00
+P0083,ClassicMode Neon Green Blouse,Tops,Blouse,ClassicMode,Neon Green,XXL,Blend,36.7,13,Fall/Winter 2023,8/18/2023 0:00
+P0149,ClassicMode Neon Pink Leggings,Activewear,Leggings,ClassicMode,Neon Pink,XXL,Blend,51.18,18.48,Spring/Summer 2024,3/15/2024 0:00
+P0445,UrbanChic Mustard Maxi Dress,Dresses,Maxi Dress,UrbanChic,,XXL,Polyester,93.39,46.34,Spring/Summer 2023,3/5/2023 0:00
+P0192,StyleCo Purple Jeans,Bottoms,Jeans,StyleCo,Purple,XL,Cotton,71.7,25.63,Fall/Winter 2023,8/11/2023 0:00
+P0255,TrendWear Green Cocktail Dress,Dresses,Cocktail Dress,TrendWear,Green,XS,Wool,89.85,37.54,Spring/Summer 2023,2/9/2023 0:00
+P0267,TrendWear Orange Coat,Outerwear,Coat,TrendWear,Orange,L,Cotton,136.72,48.7,Spring/Summer 2024,3/25/2024 0:00
+P0019,ModaVibe Orange Shorts,Bottoms,Shorts,ModaVibe,Orange,XS,Denim,70.21,31.75,Spring/Summer 2023,3/16/2023 0:00
+P0350,ClassicMode Purple Cocktail Dress,Dresses,Cocktail Dress,ClassicMode,Purple,XS,Wool,86.84,32.6,Fall/Winter 2023,9/16/2023 0:00
+P0102,ClassicMode Green Coat,Outerwear,Coat,ClassicMode,Green,XXL,Polyester,126.76,46.14,Fall/Winter 2024,8/29/2024 0:00
+P0622,ClassicMode Mustard Pants,Bottoms,Pants,ClassicMode,Mustard,XL,Denim,78.02,29.56,Spring/Summer 2023,2/19/2023 0:00
+P0374,UrbanChic Purple Maxi Dress,Dresses,Maxi Dress,UrbanChic,Purple,XXL,Denim,86.02,39.46,Fall/Winter 2024,8/25/2024 0:00
+P0354,ClassicMode Purple Pants,Bottoms,Pants,ClassicMode,Purple,XXL,Cotton,61.92,25.49,Spring/Summer 2023,2/1/2023 0:00
+P0311,TrendWear Yellow Maxi Dress,Dresses,Maxi Dress,TrendWear,Yellow,XXL,Blend,62.33,24.13,Fall/Winter 2023,8/31/2023 0:00
+P0791,TrendWear Yellow Jacket,Outerwear,Jacket,TrendWear,Yellow,L,Wool,139.98,60.77,Fall/Winter 2023,9/2/2023 0:00
+P0159,ModaVibe Mustard Pants,Bottoms,Pants,ModaVibe,Mustard,XS,Denim,73.29,25.8,Spring/Summer 2024,2/6/2024 0:00
+P0507,TrendWear Orange Midi Dress,Dresses,Mini Dress,TrendWear,Orange,XS,Wool,81.75,37.47,Fall/Winter 2023,8/27/2023 0:00
+P0517,ModaVibe Red Maxi Dress,Dresses,Maxi Dress,ModaVibe,Red,XXL,Polyester,94.86,39.59,Fall/Winter 2023,8/8/2023 0:00
+P0573,UrbanChic Pink Maxi Dress,Dresses,Maxi Dress,UrbanChic,Pink,XXL,Silk,96.91,38.22,Fall/Winter 2023,8/30/2023 0:00
+P0772,StyleCo Mustard Cardigan,Outerwear,Cardigan,StyleCo,Mustard,S,Cotton,116.11,51.13,Fall/Winter 2023,9/17/2023 0:00
+P0630,ModaVibe Green Midi Dress,Dresses,Mini Dress,ModaVibe,Green,XXL,Silk,85.29,35.45,Spring/Summer 2023,2/19/2023 0:00
+P0399,ClassicMode Purple Cocktail Dress,Dresses,Cocktail Dress,ClassicMode,Purple,XXL,Wool,56.67,22.2,Spring/Summer 2023,3/18/2023 0:00
+P0741,ModaVibe Blue Blazer,Outerwear,Blazer,ModaVibe,Blue,XS,Cotton,126.47,44.43,Spring/Summer 2023,2/26/2023 0:00
+P0666,TrendWear Neon Pink Cardigan,Outerwear,Cardigan,TrendWear,Neon Pink,XS,Cotton,102.67,45.4,Spring/Summer 2023,2/12/2023 0:00
+P0786,ModaVibe Orange Midi Dress,Dresses,Mini Dress,ModaVibe,Orange,XS,Wool,83.46,30.98,Fall/Winter 2024,9/9/2024 0:00
+P0026,ModaVibe Brown Blazer,Outerwear,Blazer,ModaVibe,Brown,XS,Wool,137.1,63.52,Fall/Winter 2024,8/14/2024 0:00
+P0531,TrendWear Mustard Jacket,Outerwear,Jacket,TrendWear,Mustard,S,Polyester,129.8,61.73,Fall/Winter 2023,9/26/2023 0:00
+P0729,UrbanChic Neon Pink Blazer,Outerwear,Blazer,UrbanChic,Neon Pink,XL,Polyester,80.79,29.11,Spring/Summer 2024,2/27/2024 0:00
+P0155,StyleCo Blue Coat,Outerwear,Coat,StyleCo,Blue,XXL,Blend,126.43,44.88,Spring/Summer 2023,2/20/2023 0:00
+P0047,UrbanChic Neon Green Blouse,Tops,Blouse,UrbanChic,Neon Green,XXL,Blend,36.77,15.87,Spring/Summer 2024,2/11/2024 0:00
+P0675,ModaVibe Black Bag,Accessories,Bag,ModaVibe,Black,M,Blend,24.9,10.79,Fall/Winter 2024,8/12/2024 0:00
+P0084,TrendWear Navy Bag,Accessories,Bag,TrendWear,Navy,M,Cotton,20.05,8.89,Fall/Winter 2024,9/28/2024 0:00
+P0670,ClassicMode Black Leggings,Activewear,Leggings,ClassicMode,Black,M,Cotton,48.68,18.74,Fall/Winter 2023,8/17/2023 0:00
+P0240,UrbanChic Black Scarf,Accessories,Scarf,UrbanChic,Black,L,Blend,33.32,16.09,Fall/Winter 2023,8/3/2023 0:00
+P0206,ModaVibe Black Bag,Accessories,Bag,ModaVibe,Black,S,Silk,36.92,14.67,Spring/Summer 2024,3/27/2024 0:00
+P0152,StyleCo Black Hat,Accessories,Hat,StyleCo,Black,M,Wool,17.66,8.47,Fall/Winter 2024,8/18/2024 0:00
+P0523,UrbanChic Black Cardigan,Outerwear,Cardigan,UrbanChic,,M,Cotton,103.4,45.64,Fall/Winter 2024,9/11/2024 0:00
+P0529,ModaVibe Black Bag,Accessories,Bag,ModaVibe,Black,L,Cotton,18.62,8.73,Spring/Summer 2024,3/24/2024 0:00
+P0088,UrbanChic Black Scarf,Accessories,Scarf,UrbanChic,Black,M,Cotton,18.87,9.31,Fall/Winter 2023,9/11/2023 0:00
+P0049,StyleCo Black Tank Top,Tops,Tank Top,StyleCo,Black,M,Denim,39.99,15.63,Spring/Summer 2023,3/20/2023 0:00
+P0698,ClassicMode White Hat,Accessories,Hat,ClassicMode,White,M,Polyester,35.82,14.04,Fall/Winter 2023,9/18/2023 0:00
+P0387,ModaVibe Black Bag,Accessories,Bag,ModaVibe,,L,,36.87,16.78,Spring/Summer 2023,3/23/2023 0:00
+P0165,ModaVibe White Sweater,Tops,Sweater,ModaVibe,White,M,Silk,36.12,13.18,Fall/Winter 2023,9/26/2023 0:00
+P0633,StyleCo White Shorts,Bottoms,Shorts,StyleCo,,M,Silk,40.34,17.58,Fall/Winter 2023,8/8/2023 0:00
+P0505,ModaVibe Black Scarf,Accessories,Scarf,ModaVibe,Black,S,Silk,29.38,12.99,Spring/Summer 2023,2/22/2023 0:00
+P0292,ModaVibe Black Sweater,Tops,Sweater,ModaVibe,Black,S,Denim,51.29,21.49,Fall/Winter 2024,8/21/2024 0:00
+P0284,UrbanChic Black Skirt,Bottoms,Skirt,UrbanChic,Black,L,Blend,55.79,24.69,Spring/Summer 2024,2/11/2024 0:00
+P0282,TrendWear Black Hat,Accessories,Hat,TrendWear,Black,M,Cotton,27.68,11.76,Fall/Winter 2023,9/8/2023 0:00
+P0295,UrbanChic Black Mini Dress,Dresses,Mini Dress,UrbanChic,Black,L,Blend,56.28,25.65,Spring/Summer 2024,3/17/2024 0:00
+P0014,TrendWear Black Tank Top,Tops,Tank Top,TrendWear,Black,M,Polyester,49.27,22,Fall/Winter 2024,8/26/2024 0:00
+P0137,ClassicMode Black Bag,Accessories,Bag,ClassicMode,Black,S,Denim,21.27,9.67,Spring/Summer 2024,3/27/2024 0:00
+P0226,TrendWear Black Scarf,Accessories,Scarf,TrendWear,Black,M,Silk,35.61,13.25,Spring/Summer 2024,2/29/2024 0:00
+P0637,ModaVibe Black Sweater,Tops,Sweater,ModaVibe,Black,S,Polyester,43.31,16.79,Spring/Summer 2023,2/19/2023 0:00
+P0481,ClassicMode Black Hat,Accessories,Hat,ClassicMode,Black,L,,21.49,10.37,Fall/Winter 2023,8/27/2023 0:00
+P0656,ModaVibe White Jeans,Bottoms,Jeans,ModaVibe,White,M,Denim,45.11,16.85,Spring/Summer 2024,2/14/2024 0:00
+P0425,ModaVibe Black Sports Bra,Activewear,Sports Bra,ModaVibe,Black,M,Cotton,43.87,19.85,Fall/Winter 2024,9/20/2024 0:00
+P0732,UrbanChic Black Jeans,Bottoms,Jeans,UrbanChic,Black,M,Polyester,69.97,32.12,Spring/Summer 2024,2/9/2024 0:00
+P0258,ModaVibe Black Tank,Activewear,Tank Top,ModaVibe,Black,M,Polyester,66.96,31.39,Fall/Winter 2023,8/8/2023 0:00
+P0418,TrendWear Black Jeans,Bottoms,Jeans,TrendWear,Black,S,,41.11,16.1,Fall/Winter 2024,9/28/2024 0:00
+P0361,ModaVibe Black Leggings,Activewear,Leggings,ModaVibe,Black,M,Denim,39.11,18.78,Spring/Summer 2023,2/15/2023 0:00
+P0259,StyleCo Black Hoodie,Activewear,Hoodie,StyleCo,Black,S,Denim,52.1,21.89,Spring/Summer 2024,3/7/2024 0:00
+P0286,UrbanChic Black Midi Dress,Dresses,Mini Dress,UrbanChic,Black,M,Wool,75.85,35.61,Spring/Summer 2023,2/27/2023 0:00
+P0222,ClassicMode Black Midi Dress,Dresses,Mini Dress,ClassicMode,Black,S,Silk,57.94,28.67,Fall/Winter 2023,9/4/2023 0:00
+P0344,ClassicMode Black Sports Bra,Activewear,Sports Bra,ClassicMode,Black,M,Silk,43.08,16.91,Fall/Winter 2023,9/5/2023 0:00
+P0574,StyleCo Black Maxi Dress,Dresses,Maxi Dress,StyleCo,Black,S,Wool,47.55,18.71,Fall/Winter 2023,9/25/2023 0:00
+P0635,ModaVibe Black Hoodie,Activewear,Hoodie,ModaVibe,Black,L,Blend,38.12,16.87,Fall/Winter 2023,8/11/2023 0:00
+P0654,ClassicMode Black Tank,Activewear,Tank Top,ClassicMode,Black,M,Blend,46.11,21.79,Fall/Winter 2023,9/3/2023 0:00
+P0588,UrbanChic Black Hoodie,Activewear,Hoodie,UrbanChic,Black,M,,58.33,20.57,Spring/Summer 2023,3/4/2023 0:00
+P0196,TrendWear Black Midi Dress,Dresses,Mini Dress,TrendWear,Black,S,Cotton,58.79,23.47,Fall/Winter 2023,9/18/2023 0:00
+P0479,TrendWear Black Mini Dress,Dresses,Mini Dress,TrendWear,Black,S,Denim,68.69,25.57,Spring/Summer 2024,2/18/2024 0:00
+P0212,ClassicMode Black Skirt,Bottoms,Skirt,ClassicMode,Black,M,,61.5,22.99,Fall/Winter 2024,9/3/2024 0:00
+P0770,ClassicMode Black Skirt,Bottoms,Skirt,ClassicMode,Black,S,Denim,66.76,23.74,Spring/Summer 2023,3/11/2023 0:00
+P0278,UrbanChic Black Pants,Bottoms,Pants,UrbanChic,Black,S,Blend,43.23,16,Spring/Summer 2023,3/27/2023 0:00
+P0789,UrbanChic Black Shorts,Bottoms,Shorts,UrbanChic,Black,S,Silk,51.37,24.79,Spring/Summer 2023,2/2/2023 0:00
+P0696,StyleCo Black Skirt,Bottoms,Skirt,StyleCo,Black,L,Silk,41.95,20.7,Spring/Summer 2023,3/31/2023 0:00
+P0050,UrbanChic Black Skirt,Bottoms,Skirt,UrbanChic,Black,S,Silk,66.41,25.87,Fall/Winter 2023,9/13/2023 0:00
+P0536,UrbanChic Black Jeans,Bottoms,Jeans,UrbanChic,Black,L,Polyester,40.68,19.45,Spring/Summer 2023,2/25/2023 0:00
+P0495,TrendWear Black Shorts,Bottoms,Shorts,TrendWear,Black,S,,52,23.57,Fall/Winter 2023,8/25/2023 0:00
+P0142,StyleCo Black Pants,Bottoms,Pants,StyleCo,Black,M,Blend,68.17,29.32,Spring/Summer 2024,3/26/2024 0:00
+P0034,StyleCo Black Maxi Dress,Dresses,Maxi Dress,StyleCo,Black,M,Polyester,63.14,30.26,Fall/Winter 2024,9/16/2024 0:00
+P0087,UrbanChic Black Pants,Bottoms,Pants,UrbanChic,Black,M,Wool,75.24,31.64,Fall/Winter 2024,8/17/2024 0:00
+P0420,ClassicMode Black Pants,Bottoms,Pants,ClassicMode,Black,M,Silk,66.33,29.46,Fall/Winter 2023,9/6/2023 0:00
+P0154,TrendWear Black Midi Dress,Dresses,Mini Dress,TrendWear,Black,M,Wool,58.53,27.12,Fall/Winter 2023,9/9/2023 0:00
+P0390,StyleCo Black Jeans,Bottoms,Jeans,StyleCo,Black,S,Denim,60.97,26.08,Spring/Summer 2024,2/15/2024 0:00
+P0376,ClassicMode Black Shorts,Bottoms,Shorts,ClassicMode,Black,M,Blend,45.86,17.95,Fall/Winter 2023,8/5/2023 0:00
+P0526,StyleCo Black Midi Dress,Dresses,Mini Dress,StyleCo,Black,M,Silk,86.77,34.42,Spring/Summer 2024,3/24/2024 0:00
+P0651,ClassicMode White Cocktail Dress,Dresses,Cocktail Dress,ClassicMode,,M,Blend,47.91,23.82,Fall/Winter 2024,9/26/2024 0:00
+P0232,StyleCo Black Cocktail Dress,Dresses,Cocktail Dress,StyleCo,Black,M,Silk,61.16,21.84,Spring/Summer 2024,2/16/2024 0:00
+P0309,StyleCo Black Blouse,Tops,Blouse,StyleCo,Black,S,Polyester,32.76,14.78,Spring/Summer 2024,3/22/2024 0:00
+P0020,UrbanChic Black Midi Dress,Dresses,Mini Dress,UrbanChic,Black,S,Wool,68.11,28.47,Spring/Summer 2023,2/19/2023 0:00
+P0711,ModaVibe Black Mini Dress,Dresses,Mini Dress,ModaVibe,,M,Denim,60.3,24.05,Fall/Winter 2023,9/19/2023 0:00
+P0202,ClassicMode Black Maxi Dress,Dresses,Maxi Dress,ClassicMode,Black,M,Polyester,63.15,25.26,Spring/Summer 2024,3/19/2024 0:00
+P0431,ModaVibe Black Blouse,Tops,Blouse,ModaVibe,,M,Cotton,24.73,9.93,Fall/Winter 2024,8/1/2024 0:00
+P0728,ClassicMode Black Cocktail Dress,Dresses,Cocktail Dress,ClassicMode,Black,S,Denim,49.62,22.02,Fall/Winter 2023,8/17/2023 0:00
+P0735,UrbanChic Black T-Shirt,Tops,T-Shirt,UrbanChic,Black,L,Blend,39.71,14.98,Fall/Winter 2024,8/5/2024 0:00
+P0406,ClassicMode Black Mini Dress,Dresses,Mini Dress,ClassicMode,Black,L,Polyester,54.18,21.31,Fall/Winter 2023,9/5/2023 0:00
+P0473,ClassicMode Black Maxi Dress,Dresses,Maxi Dress,ClassicMode,Black,M,Silk,84.4,32.7,Fall/Winter 2024,9/5/2024 0:00
+P0433,UrbanChic Black Maxi Dress,Dresses,Maxi Dress,UrbanChic,Black,M,Polyester,61.06,24.88,Spring/Summer 2024,3/28/2024 0:00
+P0780,StyleCo Black T-Shirt,Tops,T-Shirt,StyleCo,Black,M,Blend,34.73,13.15,Fall/Winter 2024,8/28/2024 0:00
+P0565,UrbanChic Black Sweater,Tops,Sweater,UrbanChic,Black,M,Wool,52.35,23.52,Spring/Summer 2023,3/11/2023 0:00
+P0569,UrbanChic Black T-Shirt,Tops,T-Shirt,UrbanChic,Black,M,Polyester,27.48,10.44,Spring/Summer 2023,3/23/2023 0:00
+P0095,StyleCo Black Sweater,Tops,Sweater,StyleCo,Black,M,,42.3,20.06,Fall/Winter 2024,8/24/2024 0:00
+P0334,ClassicMode White Blouse,Tops,Blouse,ClassicMode,White,M,Wool,26.21,12.9,Spring/Summer 2024,2/18/2024 0:00
+P0616,ModaVibe Black Mini Dress,Dresses,Mini Dress,ModaVibe,Black,S,Denim,71.77,29.6,Spring/Summer 2023,3/23/2023 0:00
+P0219,TrendWear Black Blouse,Tops,Blouse,TrendWear,Black,S,Cotton,26.66,12.71,Fall/Winter 2023,8/10/2023 0:00
+P0575,ClassicMode Black Tank Top,Tops,Tank Top,ClassicMode,Black,L,,48.33,23.37,Spring/Summer 2023,2/7/2023 0:00
+P0214,StyleCo Black Tank Top,Tops,Tank Top,StyleCo,Black,S,Blend,40.12,16.37,Spring/Summer 2024,2/7/2024 0:00
+P0211,StyleCo Purple Cardigan,Outerwear,Cardigan,StyleCo,Purple,M,Cotton,72.91,32.58,Spring/Summer 2024,3/17/2024 0:00
+P0315,StyleCo Yellow Blazer,Outerwear,Blazer,StyleCo,Yellow,S,Polyester,113.21,43.34,Spring/Summer 2024,2/24/2024 0:00
+P0253,StyleCo Blue Skirt,Bottoms,Skirt,StyleCo,Blue,XL,Denim,46.69,19.97,Spring/Summer 2023,3/20/2023 0:00
+P0171,ModaVibe Gray Skirt,Bottoms,Skirt,ModaVibe,Gray,XL,Polyester,76.27,28.35,Spring/Summer 2023,2/18/2023 0:00
+P0308,TrendWear Purple Shorts,Bottoms,Shorts,TrendWear,Purple,L,Blend,45.65,19.12,Spring/Summer 2023,2/22/2023 0:00
+P0428,TrendWear Blue Blazer,Outerwear,Blazer,TrendWear,Blue,XS,Blend,116.25,45.05,Spring/Summer 2024,2/6/2024 0:00
+P0407,ClassicMode Navy Blazer,Outerwear,Blazer,ClassicMode,Navy,XXL,Polyester,93.79,32.96,Spring/Summer 2023,3/28/2023 0:00
+P0179,ModaVibe Neon Pink Hoodie,Activewear,Hoodie,ModaVibe,Neon Pink,L,Wool,49.7,20.6,Spring/Summer 2024,3/1/2024 0:00
+P0173,ModaVibe Brown Blouse,Tops,Blouse,ModaVibe,Brown,XXL,Wool,29.38,10.51,Spring/Summer 2024,2/2/2024 0:00
+P0055,TrendWear Blue Blazer,Outerwear,Blazer,TrendWear,Blue,XS,Silk,74.31,34.7,Fall/Winter 2023,9/12/2023 0:00
+P0339,ClassicMode Orange Coat,Outerwear,Coat,ClassicMode,Orange,S,Silk,81.95,36.63,Fall/Winter 2023,8/17/2023 0:00
+P0108,UrbanChic Pink Coat,Outerwear,Coat,UrbanChic,Pink,S,Polyester,108.56,49.35,Spring/Summer 2023,2/4/2023 0:00
+P0093,UrbanChic Red Leggings,Activewear,Leggings,UrbanChic,Red,L,Blend,66.92,31.28,Spring/Summer 2023,3/23/2023 0:00
+P0674,ModaVibe Neon Green Cardigan,Outerwear,Cardigan,ModaVibe,Neon Green,M,Polyester,87.44,39.53,Spring/Summer 2024,3/11/2024 0:00
+P0634,UrbanChic Blue Leggings,Activewear,Leggings,UrbanChic,Blue,XS,Polyester,58.19,26.7,Fall/Winter 2023,9/17/2023 0:00
+P0217,ModaVibe Beige Sports Bra,Activewear,Sports Bra,ModaVibe,Beige,XS,Cotton,55.64,23.72,Spring/Summer 2023,3/14/2023 0:00
+P0318,ModaVibe White Cardigan,Outerwear,Cardigan,ModaVibe,White,XL,Denim,136.21,49.97,Spring/Summer 2024,2/5/2024 0:00
+P0415,TrendWear Yellow Hoodie,Activewear,Hoodie,TrendWear,Yellow,L,Cotton,38.94,14.84,Fall/Winter 2023,9/20/2023 0:00
+P0141,TrendWear Brown Hoodie,Activewear,Hoodie,TrendWear,Brown,XS,Denim,59.63,23.24,Spring/Summer 2023,3/3/2023 0:00
+P0086,StyleCo Neon Pink Skirt,Bottoms,Skirt,StyleCo,Neon Pink,L,Blend,52.9,22.12,Spring/Summer 2024,2/25/2024 0:00
+P0010,UrbanChic Blue Skirt,Bottoms,Skirt,UrbanChic,Blue,XS,Wool,67.99,30.95,Spring/Summer 2024,2/14/2024 0:00
+P0586,ModaVibe Neon Pink Leggings,Activewear,Leggings,ModaVibe,Neon Pink,M,Polyester,54.66,22.44,Fall/Winter 2023,9/5/2023 0:00
+P0687,UrbanChic Blue Jacket,Outerwear,Jacket,UrbanChic,Blue,XS,Denim,104.97,45.54,Fall/Winter 2023,8/27/2023 0:00
+P0043,ModaVibe Purple Leggings,Activewear,Leggings,ModaVibe,Purple,XS,Blend,55.17,23.99,Spring/Summer 2023,2/27/2023 0:00
+P0120,ClassicMode Neon Pink Shorts,Bottoms,Shorts,ClassicMode,Neon Pink,M,Blend,68.8,31.3,Spring/Summer 2023,3/2/2023 0:00
+P0018,ModaVibe Neon Pink Hoodie,Activewear,Hoodie,ModaVibe,Neon Pink,XL,Denim,45.24,22.59,Spring/Summer 2023,2/25/2023 0:00
+P0162,ModaVibe Blue Shorts,Bottoms,Shorts,ModaVibe,Blue,XL,Wool,41.28,19.55,Fall/Winter 2023,9/11/2023 0:00
+P0695,TrendWear Orange Shorts,Bottoms,Shorts,TrendWear,Orange,M,Blend,75.24,35.77,Fall/Winter 2023,8/13/2023 0:00
+P0250,StyleCo Orange Skirt,Bottoms,Skirt,StyleCo,Orange,M,Denim,66.89,27.05,Fall/Winter 2023,9/19/2023 0:00
+P0550,UrbanChic Brown Sports Bra,Activewear,Sports Bra,UrbanChic,Brown,L,,44.29,20.45,Spring/Summer 2023,2/15/2023 0:00
+P0620,StyleCo Yellow Skirt,Bottoms,Skirt,StyleCo,Yellow,L,Silk,78.8,38.75,Spring/Summer 2024,2/25/2024 0:00
+P0391,ClassicMode Mustard Skirt,Bottoms,Skirt,ClassicMode,Mustard,M,Wool,58.87,26.61,Spring/Summer 2024,2/26/2024 0:00
+P0625,StyleCo Yellow Pants,Bottoms,Pants,StyleCo,Yellow,L,Cotton,58.71,23.47,Fall/Winter 2023,8/2/2023 0:00
+P0265,StyleCo Red Shorts,Bottoms,Shorts,StyleCo,Red,XS,Polyester,66.44,28.74,Spring/Summer 2024,2/13/2024 0:00
+P0615,ClassicMode Red Tank Top,Tops,Tank Top,ClassicMode,Red,XL,Polyester,46.45,18.47,Spring/Summer 2024,2/5/2024 0:00
+P0071,TrendWear Pink Jeans,Bottoms,Jeans,TrendWear,Pink,L,Cotton,73.99,27.53,Spring/Summer 2024,2/15/2024 0:00
+P0185,StyleCo Blue Pants,Bottoms,Pants,StyleCo,Blue,XL,Denim,52.25,19.1,Spring/Summer 2024,3/10/2024 0:00
+P0273,TrendWear Gray Shorts,Bottoms,Shorts,TrendWear,Gray,XS,,50.27,19.46,Fall/Winter 2024,8/8/2024 0:00
+P0448,UrbanChic Purple Jeans,Bottoms,Jeans,UrbanChic,Purple,L,Cotton,39.06,14.47,Fall/Winter 2023,8/8/2023 0:00
+P0160,ClassicMode Neon Green Jeans,Bottoms,Jeans,ClassicMode,Neon Green,M,Silk,71.46,27.82,Spring/Summer 2024,3/15/2024 0:00
+P0052,TrendWear Mustard Shorts,Bottoms,Shorts,TrendWear,Mustard,S,Silk,71.11,30.77,Spring/Summer 2024,2/11/2024 0:00
+P0182,UrbanChic Red Blazer,Outerwear,Blazer,UrbanChic,Red,M,Cotton,136.65,49.2,Fall/Winter 2023,9/13/2023 0:00
+P0279,ClassicMode Gray Shorts,Bottoms,Shorts,ClassicMode,,XL,Polyester,56.13,24.45,Spring/Summer 2024,2/3/2024 0:00
+P0332,StyleCo Navy Skirt,Bottoms,Skirt,StyleCo,Navy,XS,Wool,82.21,31.66,Fall/Winter 2023,9/2/2023 0:00
+P0712,ClassicMode Pink Pants,Bottoms,Pants,ClassicMode,Pink,XL,Polyester,65.5,27.48,Spring/Summer 2023,2/25/2023 0:00
+P0329,TrendWear Beige Blazer,Outerwear,Blazer,TrendWear,Beige,L,Cotton,137.74,63.19,Spring/Summer 2024,2/13/2024 0:00
+P0708,ClassicMode Neon Green Jeans,Bottoms,Jeans,ClassicMode,Neon Green,M,Blend,45.69,17.47,Spring/Summer 2023,3/17/2023 0:00
+P0324,ClassicMode Pink Jeans,Bottoms,Jeans,ClassicMode,Pink,XL,,56.49,26.29,Spring/Summer 2023,2/19/2023 0:00
+P0403,ModaVibe Gray Cardigan,Outerwear,Cardigan,ModaVibe,Gray,S,Denim,117.69,55.33,Fall/Winter 2023,9/22/2023 0:00
+P0340,StyleCo Orange Shorts,Bottoms,Shorts,StyleCo,Orange,XS,Denim,50.31,22.69,Fall/Winter 2023,8/4/2023 0:00
+P0269,ClassicMode Green T-Shirt,Tops,T-Shirt,ClassicMode,Green,XL,Wool,51.29,21.67,Spring/Summer 2024,3/13/2024 0:00
+P0234,TrendWear Blue Skirt,Bottoms,Skirt,TrendWear,Blue,XS,Denim,38.57,15.54,Spring/Summer 2024,2/28/2024 0:00
+P0302,ClassicMode Gray Pants,Bottoms,Pants,ClassicMode,Gray,XL,Blend,47.28,23.38,Fall/Winter 2024,9/11/2024 0:00
+P0717,StyleCo Yellow Shorts,Bottoms,Shorts,StyleCo,Yellow,S,Silk,55.97,20.39,Fall/Winter 2023,8/11/2023 0:00
+P0454,TrendWear Orange Jeans,Bottoms,Jeans,TrendWear,Orange,S,Cotton,76.28,26.84,Spring/Summer 2023,2/3/2023 0:00
+P0001,StyleCo Neon Pink T-Shirt,Tops,T-Shirt,StyleCo,,L,Wool,30.75,14.16,Spring/Summer 2024,2/16/2024 0:00
+P0256,StyleCo Green Pants,Bottoms,Pants,StyleCo,Green,XL,Denim,53.79,19.35,Spring/Summer 2024,3/14/2024 0:00
+P0501,ClassicMode Beige Pants,Bottoms,Pants,ClassicMode,Beige,XS,Blend,56.72,27.35,Fall/Winter 2023,9/26/2023 0:00
+P0598,ModaVibe Beige Coat,Outerwear,Coat,ModaVibe,Beige,L,Wool,128.46,46.96,Fall/Winter 2023,9/16/2023 0:00
+P0746,UrbanChic Purple Pants,Bottoms,Pants,UrbanChic,Purple,S,Silk,78.04,32.99,Fall/Winter 2023,8/17/2023 0:00
+P0700,TrendWear Brown Cardigan,Outerwear,Cardigan,TrendWear,Brown,M,Wool,119.57,50.1,Fall/Winter 2024,8/8/2024 0:00
+P0469,TrendWear Beige Jacket,Outerwear,Jacket,TrendWear,Beige,L,Cotton,100.67,39.98,Spring/Summer 2023,2/11/2023 0:00
+P0624,TrendWear Brown Coat,Outerwear,Coat,TrendWear,Brown,S,,74.4,32.04,Fall/Winter 2024,9/23/2024 0:00
+P0336,ModaVibe Pink Cardigan,Outerwear,Cardigan,ModaVibe,Pink,L,Silk,98.14,36.55,Spring/Summer 2024,3/16/2024 0:00
+P0477,UrbanChic Purple Jacket,Outerwear,Jacket,UrbanChic,Purple,M,Denim,138.11,49.39,Spring/Summer 2023,2/3/2023 0:00
+P0664,TrendWear Green Blazer,Outerwear,Blazer,TrendWear,Green,S,Polyester,100.96,44.28,Spring/Summer 2024,3/31/2024 0:00
+P0053,StyleCo Green Jacket,Outerwear,Jacket,StyleCo,Green,S,Denim,133.62,64.88,Spring/Summer 2023,4/2/2023 0:00
+P0737,StyleCo Orange Blouse,Tops,Blouse,StyleCo,Orange,L,Wool,45.09,16.42,Fall/Winter 2023,8/30/2023 0:00
+P0525,ClassicMode Purple Jacket,Outerwear,Jacket,ClassicMode,Purple,S,Blend,84.56,39.06,Spring/Summer 2024,3/16/2024 0:00
+P0242,UrbanChic Blue Coat,Outerwear,Coat,UrbanChic,Blue,L,Blend,125.84,60.39,Spring/Summer 2024,3/27/2024 0:00
+P0432,TrendWear Brown Cardigan,Outerwear,Cardigan,TrendWear,Brown,S,Cotton,83.9,30.49,Fall/Winter 2024,8/5/2024 0:00
+P0129,ClassicMode Brown Cardigan,Outerwear,Cardigan,ClassicMode,Brown,S,Blend,86.8,32.09,Spring/Summer 2023,2/14/2023 0:00
+P0702,TrendWear Brown Blazer,Outerwear,Blazer,TrendWear,,S,Blend,86.98,42.95,Spring/Summer 2024,2/16/2024 0:00
+P0030,StyleCo Purple Jacket,Outerwear,Jacket,StyleCo,,M,Silk,105.58,41.36,Spring/Summer 2024,2/5/2024 0:00
+P0612,StyleCo Brown Coat,Outerwear,Coat,StyleCo,Brown,L,,122.37,45.02,Fall/Winter 2023,8/12/2023 0:00
+P0540,UrbanChic Blue Cardigan,Outerwear,Cardigan,UrbanChic,Blue,L,,83.08,32.84,Fall/Winter 2024,8/17/2024 0:00
+P0756,UrbanChic Blue Jacket,Outerwear,Jacket,UrbanChic,Blue,L,Denim,94.55,43.14,Fall/Winter 2024,9/22/2024 0:00
+P0419,TrendWear Gray Coat,Outerwear,Coat,TrendWear,Gray,S,Wool,120.57,57.18,Fall/Winter 2023,8/10/2023 0:00
+P0325,UrbanChic White Cardigan,Outerwear,Cardigan,UrbanChic,White,XS,Silk,132.59,64.44,Fall/Winter 2024,8/29/2024 0:00
+P0169,ModaVibe White Coat,Outerwear,Coat,ModaVibe,White,XL,Polyester,126.3,48.82,Spring/Summer 2023,2/4/2023 0:00
+P0341,StyleCo Navy Jacket,Outerwear,Jacket,StyleCo,Navy,XL,,124.39,57.05,Fall/Winter 2023,9/21/2023 0:00
+P0360,TrendWear White Jacket,Outerwear,Jacket,TrendWear,White,XL,Blend,130.75,58.41,Spring/Summer 2023,3/4/2023 0:00
+P0609,StyleCo Blue Blazer,Outerwear,Blazer,StyleCo,Blue,XS,Wool,98.16,45.96,Fall/Winter 2024,8/25/2024 0:00
+P0724,ClassicMode Pink Tank Top,Tops,Tank Top,ClassicMode,Pink,XS,Polyester,33,11.55,Spring/Summer 2024,2/10/2024 0:00
+P0452,ClassicMode Beige Jacket,Outerwear,Jacket,ClassicMode,Beige,XL,Denim,93.87,39.89,Fall/Winter 2024,9/2/2024 0:00
+P0395,UrbanChic Neon Pink Jacket,Outerwear,Jacket,UrbanChic,Neon Pink,S,Blend,120.52,42.59,Spring/Summer 2023,3/24/2023 0:00
+P0797,ClassicMode Pink Blazer,Outerwear,Blazer,ClassicMode,Pink,M,Wool,116.09,50.75,Fall/Winter 2023,8/14/2023 0:00
+P0639,TrendWear Green T-Shirt,Tops,T-Shirt,TrendWear,Green,XL,Blend,37.12,16.42,Spring/Summer 2024,3/3/2024 0:00
+P0383,ModaVibe Red Sports Bra,Activewear,Sports Bra,ModaVibe,Red,XL,Wool,59.13,20.93,Fall/Winter 2023,9/13/2023 0:00
+P0413,StyleCo Beige Hat,Accessories,Hat,StyleCo,Beige,XXL,Silk,24.47,11.56,Fall/Winter 2024,8/17/2024 0:00
+P0368,UrbanChic Purple Belt,Accessories,Belt,UrbanChic,Purple,XL,Silk,21.21,9.29,Fall/Winter 2024,8/28/2024 0:00
+P0274,UrbanChic Brown T-Shirt,Tops,T-Shirt,UrbanChic,Brown,XS,Polyester,41.73,16.16,Fall/Winter 2024,9/25/2024 0:00
+P0618,UrbanChic Purple Tank,Activewear,Tank Top,UrbanChic,Purple,L,Denim,58.6,25.17,Fall/Winter 2023,9/30/2023 0:00
+P0352,StyleCo Mustard Leggings,Activewear,Leggings,StyleCo,Mustard,M,,61.83,23.79,Fall/Winter 2024,8/9/2024 0:00
+P0091,TrendWear Brown Leggings,Activewear,Leggings,TrendWear,,XL,Denim,52.33,25.61,Spring/Summer 2024,2/7/2024 0:00
+P0567,TrendWear Blue Bag,Accessories,Bag,TrendWear,Blue,XXL,Silk,31.21,10.97,Fall/Winter 2023,9/14/2023 0:00
+P0396,TrendWear Pink Scarf,Accessories,Scarf,TrendWear,Pink,XS,Denim,20.99,7.85,Fall/Winter 2023,9/3/2023 0:00
+P0227,TrendWear Purple Scarf,Accessories,Scarf,TrendWear,Purple,L,Cotton,24.49,8.67,Fall/Winter 2024,9/26/2024 0:00
+P0012,ModaVibe Neon Green Hat,Accessories,Hat,ModaVibe,Neon Green,L,Cotton,23.99,11.16,Fall/Winter 2023,9/13/2023 0:00
+P0555,TrendWear Beige Hat,Accessories,Hat,TrendWear,Beige,XXL,Blend,24.15,12.03,Spring/Summer 2023,3/4/2023 0:00
+P0485,TrendWear Blue Belt,Accessories,Belt,TrendWear,Blue,XS,Wool,30.64,11.95,Spring/Summer 2023,2/16/2023 0:00
+P0081,ClassicMode Neon Pink Belt,Accessories,Belt,ClassicMode,Neon Pink,XL,Cotton,32.9,16.18,Fall/Winter 2024,9/27/2024 0:00
+P0175,ClassicMode Yellow Scarf,Accessories,Scarf,ClassicMode,Yellow,L,Wool,29.8,13.68,Fall/Winter 2023,9/30/2023 0:00
+P0776,UrbanChic Yellow Belt,Accessories,Belt,UrbanChic,Yellow,XS,Silk,28.93,10.34,Spring/Summer 2023,3/3/2023 0:00
+P0123,UrbanChic Orange Scarf,Accessories,Scarf,UrbanChic,Orange,S,Wool,32.63,13.72,Spring/Summer 2023,3/21/2023 0:00
+P0167,StyleCo Mustard Hat,Accessories,Hat,StyleCo,Mustard,L,Cotton,35.53,15.87,Spring/Summer 2024,3/6/2024 0:00
+P0745,UrbanChic Yellow Belt,Accessories,Belt,UrbanChic,Yellow,L,Cotton,35.34,16.26,Spring/Summer 2024,3/23/2024 0:00
+P0591,TrendWear Brown Jeans,Bottoms,Jeans,TrendWear,Brown,XL,Silk,63.15,27.97,Fall/Winter 2024,8/22/2024 0:00
+P0338,ClassicMode Neon Pink Belt,Accessories,Belt,ClassicMode,Neon Pink,XS,Denim,25.75,10.62,Spring/Summer 2023,3/8/2023 0:00
+P0539,ModaVibe Pink Tank Top,Tops,Tank Top,ModaVibe,Pink,XXL,Silk,51.58,23.03,Spring/Summer 2024,3/17/2024 0:00
+P0261,ModaVibe Blue Cardigan,Outerwear,Cardigan,ModaVibe,Blue,S,Polyester,97.62,42.59,Fall/Winter 2024,9/19/2024 0:00
+P0692,TrendWear Purple Hat,Accessories,Hat,TrendWear,Purple,XL,Blend,25.48,11.78,Spring/Summer 2024,2/6/2024 0:00
+P0722,ModaVibe Beige Sports Bra,Activewear,Sports Bra,ModaVibe,Beige,XXL,Silk,58.46,28.15,Fall/Winter 2024,9/10/2024 0:00
+P0397,ClassicMode Pink Sweater,Tops,Sweater,ClassicMode,Pink,XS,Wool,35.84,13.54,Fall/Winter 2023,9/21/2023 0:00
+P0470,TrendWear Blue Tank,Activewear,Tank Top,TrendWear,Blue,XL,Cotton,48.18,23.02,Fall/Winter 2024,8/20/2024 0:00
+P0170,StyleCo Neon Pink Sports Bra,Activewear,Sports Bra,StyleCo,Neon Pink,L,Blend,39.27,18.87,Fall/Winter 2023,9/7/2023 0:00
+P0794,StyleCo Yellow Tank,Activewear,Tank Top,StyleCo,Yellow,XL,Cotton,45.44,22.72,Spring/Summer 2024,3/28/2024 0:00
+P0094,UrbanChic Purple Hoodie,Activewear,Hoodie,UrbanChic,Purple,S,Silk,54.81,19.29,Spring/Summer 2023,3/5/2023 0:00
+P0150,ClassicMode Gray Tank,Activewear,Tank Top,ClassicMode,Gray,XS,Silk,61.93,23.53,Spring/Summer 2024,3/1/2024 0:00
+P0581,TrendWear Green Leggings,Activewear,Leggings,TrendWear,Green,L,Silk,49.07,23.71,Fall/Winter 2024,9/28/2024 0:00
+P0122,StyleCo Neon Pink Shorts,Bottoms,Shorts,StyleCo,Neon Pink,M,Denim,80.82,38.42,Spring/Summer 2023,2/15/2023 0:00
+P0730,StyleCo Brown Tank,Activewear,Tank Top,StyleCo,Brown,L,Silk,47.8,21.75,Fall/Winter 2024,9/9/2024 0:00
+P0645,ModaVibe Red Jeans,Bottoms,Jeans,ModaVibe,Red,L,Denim,64.46,31.32,Fall/Winter 2024,9/19/2024 0:00
+P0060,TrendWear Neon Pink T-Shirt,Tops,T-Shirt,TrendWear,Neon Pink,S,Blend,32.3,11.64,Fall/Winter 2024,8/22/2024 0:00
+P0734,ClassicMode Neon Green Tank Top,Tops,Tank Top,ClassicMode,Neon Green,S,Polyester,26.75,12.37,Spring/Summer 2023,2/22/2023 0:00
+P0744,UrbanChic Green T-Shirt,Tops,T-Shirt,UrbanChic,Green,XS,Silk,39.52,14.47,Fall/Winter 2023,9/14/2023 0:00
+P0104,ClassicMode Gray Tank Top,Tops,Tank Top,ClassicMode,Gray,XS,Blend,44.18,17.26,Spring/Summer 2024,2/23/2024 0:00
+P0116,ClassicMode Red Jeans,Bottoms,Jeans,ClassicMode,Red,XS,Polyester,64.63,25.44,Fall/Winter 2024,9/14/2024 0:00
+P0128,ModaVibe Red Jacket,Outerwear,Jacket,ModaVibe,Red,XL,Denim,70.62,30.21,Fall/Winter 2024,8/27/2024 0:00
+P0033,ClassicMode Gray Pants,Bottoms,Pants,ClassicMode,Gray,XS,Wool,70.58,31.83,Fall/Winter 2024,9/25/2024 0:00
+P0642,UrbanChic Brown Blouse,Tops,Blouse,UrbanChic,Brown,XS,Silk,36.97,17.24,Fall/Winter 2024,8/30/2024 0:00
+P0660,ModaVibe Purple T-Shirt,Tops,T-Shirt,ModaVibe,Purple,L,Denim,29.16,14.24,Fall/Winter 2023,8/4/2023 0:00
+P0785,UrbanChic Purple Jeans,Bottoms,Jeans,UrbanChic,Purple,L,Denim,62.17,23.66,Fall/Winter 2023,9/17/2023 0:00
+P0394,UrbanChic Neon Green Pants,Bottoms,Pants,UrbanChic,Neon Green,S,Blend,57.78,26.26,Fall/Winter 2024,8/7/2024 0:00
+P0760,ClassicMode Red Shorts,Bottoms,Shorts,ClassicMode,Red,XS,Denim,43.08,20.2,Fall/Winter 2024,9/26/2024 0:00
+P0561,StyleCo Neon Green Blouse,Tops,Blouse,StyleCo,Neon Green,M,Denim,51.06,21.36,Spring/Summer 2023,2/20/2023 0:00
+P0771,StyleCo Purple Pants,Bottoms,Pants,StyleCo,Purple,M,Silk,72.42,29.13,Spring/Summer 2023,3/31/2023 0:00
+P0774,ModaVibe Orange Tank Top,Tops,Tank Top,ModaVibe,Orange,L,Silk,25.91,11.91,Fall/Winter 2023,8/10/2023 0:00
+P0731,UrbanChic Orange Blouse,Tops,Blouse,UrbanChic,Orange,L,Polyester,25.89,11.14,Spring/Summer 2023,2/10/2023 0:00
+P0126,ClassicMode Yellow Tank Top,Tops,Tank Top,ClassicMode,Yellow,XS,Denim,43.05,17.65,Fall/Winter 2024,8/19/2024 0:00
+P0111,ClassicMode Green Sweater,Tops,Sweater,ClassicMode,Green,XS,,42.12,15.08,Spring/Summer 2023,3/9/2023 0:00
+P0190,TrendWear Orange T-Shirt,Tops,T-Shirt,TrendWear,Orange,S,Silk,45.39,17.35,Spring/Summer 2023,2/6/2023 0:00
+P0659,StyleCo Neon Pink Blouse,Tops,Blouse,StyleCo,Neon Pink,S,Denim,41.09,15.21,Fall/Winter 2023,9/6/2023 0:00
+P0166,UrbanChic Blue Sweater,Tops,Sweater,UrbanChic,Blue,XS,Polyester,34.87,14.52,Spring/Summer 2023,3/17/2023 0:00
+P0039,ClassicMode Purple Blazer,Outerwear,Blazer,ClassicMode,Purple,L,Cotton,80.93,30.97,Fall/Winter 2024,8/10/2024 0:00
+P0437,TrendWear Brown Tank Top,Tops,Tank Top,TrendWear,Brown,XS,Denim,42.55,16.48,Fall/Winter 2023,8/18/2023 0:00
+P0424,TrendWear Pink Sweater,Tops,Sweater,TrendWear,Pink,XL,Denim,33.54,13.17,Fall/Winter 2024,8/18/2024 0:00
+P0782,ClassicMode Neon Pink Blouse,Tops,Blouse,ClassicMode,Neon Pink,L,Blend,47.41,18.01,Spring/Summer 2023,4/1/2023 0:00
+P0239,ClassicMode Orange Sweater,Tops,Sweater,ClassicMode,Orange,L,Silk,28.28,12.94,Fall/Winter 2023,9/21/2023 0:00
+P0520,ClassicMode Yellow T-Shirt,Tops,T-Shirt,ClassicMode,Yellow,XL,Silk,33.63,13.16,Fall/Winter 2024,9/5/2024 0:00
+P0676,ModaVibe Green Tank Top,Tops,Tank Top,ModaVibe,Green,XXL,Wool,44.25,20.37,Spring/Summer 2024,3/21/2024 0:00
+P0326,ModaVibe Blue T-Shirt,Tops,T-Shirt,ModaVibe,Blue,XS,Denim,48.59,17.87,Fall/Winter 2023,9/11/2023 0:00
+P0673,UrbanChic Purple Sweater,Tops,Sweater,UrbanChic,Purple,XS,Blend,36.43,15.95,Spring/Summer 2023,2/10/2023 0:00
+P0482,ModaVibe Purple Blouse,Tops,Blouse,ModaVibe,Purple,S,Denim,46.39,18.74,Spring/Summer 2023,2/25/2023 0:00
+P0097,ClassicMode Blue Sweater,Tops,Sweater,ClassicMode,Blue,XS,Polyester,44.97,17.55,Fall/Winter 2024,9/22/2024 0:00
+P0490,ModaVibe Purple T-Shirt,Tops,T-Shirt,ModaVibe,Purple,L,Polyester,33.79,14.94,Fall/Winter 2024,8/1/2024 0:00
+P0066,StyleCo Green Tank Top,Tops,Tank Top,StyleCo,Green,XL,Silk,33.16,13.64,Spring/Summer 2024,3/4/2024 0:00
+P0648,TrendWear Brown T-Shirt,Tops,T-Shirt,TrendWear,Brown,L,Polyester,38.9,16.22,Fall/Winter 2023,9/18/2023 0:00
+P0194,UrbanChic Beige T-Shirt,Tops,T-Shirt,UrbanChic,Beige,XXL,Silk,32.43,14.65,Fall/Winter 2024,8/8/2024 0:00
+P0579,TrendWear Purple Maxi Dress,Dresses,Maxi Dress,TrendWear,Purple,M,,89.41,32.68,Spring/Summer 2023,4/2/2023 0:00
+P0764,UrbanChic Red Midi Dress,Dresses,Mini Dress,UrbanChic,Red,S,Cotton,95.41,33.4,Fall/Winter 2024,8/29/2024 0:00
+P0251,ModaVibe Neon Pink Maxi Dress,Dresses,Maxi Dress,ModaVibe,Neon Pink,M,Silk,68.9,27.95,Fall/Winter 2023,9/13/2023 0:00
+P0076,ClassicMode Neon Green Midi Dress,Dresses,Mini Dress,ClassicMode,,M,Polyester,92.66,38.63,Fall/Winter 2024,9/23/2024 0:00
+P0281,ModaVibe Pink Midi Dress,Dresses,Mini Dress,ModaVibe,Pink,S,Blend,96.2,39.35,Spring/Summer 2023,2/9/2023 0:00
+P0456,TrendWear Pink Cocktail Dress,Dresses,Cocktail Dress,TrendWear,Pink,XL,Blend,67.15,30.76,Spring/Summer 2024,2/16/2024 0:00
+P0098,UrbanChic Yellow Maxi Dress,Dresses,Maxi Dress,UrbanChic,Yellow,M,Wool,84.52,36.81,Fall/Winter 2024,8/16/2024 0:00
+P0290,UrbanChic Purple Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Purple,XL,Denim,66.97,25.49,Fall/Winter 2024,8/10/2024 0:00
+P0689,ClassicMode Brown Midi Dress,Dresses,Mini Dress,ClassicMode,Brown,S,Blend,70.65,27.31,Fall/Winter 2024,9/6/2024 0:00
+P0373,UrbanChic Purple Maxi Dress,Dresses,Maxi Dress,UrbanChic,Purple,S,Silk,76.6,30.54,Spring/Summer 2023,3/11/2023 0:00
+P0705,StyleCo Purple Mini Dress,Dresses,Mini Dress,StyleCo,Purple,L,Silk,57.76,23.96,Spring/Summer 2024,3/23/2024 0:00
+P0125,UrbanChic Pink Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Pink,XS,Polyester,62.2,22.75,Fall/Winter 2024,8/22/2024 0:00
+P0748,UrbanChic Blue Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Blue,XXL,Blend,73.12,30.52,Fall/Winter 2023,8/5/2023 0:00
+P0751,TrendWear Orange Cocktail Dress,Dresses,Cocktail Dress,TrendWear,Orange,L,Blend,74.18,32.78,Fall/Winter 2024,9/19/2024 0:00
+P0193,ClassicMode Orange Midi Dress,Dresses,Mini Dress,ClassicMode,Orange,M,Polyester,77.07,31.76,Fall/Winter 2024,9/1/2024 0:00
+P0023,ModaVibe Brown Maxi Dress,Dresses,Maxi Dress,ModaVibe,Brown,XS,Blend,46.51,22.76,Spring/Summer 2024,3/3/2024 0:00
+P0784,StyleCo Red Midi Dress,Dresses,Mini Dress,StyleCo,Red,XL,Silk,87.32,34.56,Spring/Summer 2024,3/16/2024 0:00
+P0243,StyleCo Brown Midi Dress,Dresses,Mini Dress,StyleCo,Brown,S,Silk,91.75,42.34,Spring/Summer 2024,2/28/2024 0:00
+P0119,StyleCo Red Mini Dress,Dresses,Mini Dress,StyleCo,Red,XS,Denim,86.72,38.09,Spring/Summer 2023,2/11/2023 0:00
+P0364,StyleCo Neon Pink Cocktail Dress,Dresses,Cocktail Dress,StyleCo,,M,Silk,74.83,32.55,Spring/Summer 2024,2/11/2024 0:00
+P0389,ModaVibe Brown Maxi Dress,Dresses,Maxi Dress,ModaVibe,Brown,L,,62.74,29.45,Fall/Winter 2024,9/18/2024 0:00
+P0031,ModaVibe Pink Mini Dress,Dresses,Mini Dress,ModaVibe,Pink,L,Silk,94.15,41.02,Fall/Winter 2023,9/16/2023 0:00
+P0543,UrbanChic Blue Midi Dress,Dresses,Mini Dress,UrbanChic,Blue,XS,Blend,82.48,39.91,Spring/Summer 2024,3/13/2024 0:00
+P0025,StyleCo Brown Cocktail Dress,Dresses,Cocktail Dress,StyleCo,Brown,L,Polyester,79.81,39.27,Fall/Winter 2023,8/9/2023 0:00
+P0283,TrendWear Mustard Maxi Dress,Dresses,Maxi Dress,TrendWear,Mustard,M,Denim,70.13,29.35,Spring/Summer 2024,3/23/2024 0:00
+P0015,TrendWear Orange Midi Dress,Dresses,Mini Dress,TrendWear,Orange,S,Denim,74.69,29.09,Fall/Winter 2023,9/17/2023 0:00
+P0682,TrendWear Purple Midi Dress,Dresses,Mini Dress,TrendWear,Purple,L,Polyester,76.67,32.77,Spring/Summer 2023,3/23/2023 0:00
+P0443,StyleCo Brown Maxi Dress,Dresses,Maxi Dress,StyleCo,Brown,L,Silk,60.4,27.6,Fall/Winter 2024,9/2/2024 0:00
+P0576,TrendWear Beige Mini Dress,Dresses,Mini Dress,TrendWear,Beige,XXL,,92.02,45.39,Spring/Summer 2024,2/23/2024 0:00
+P0472,UrbanChic Blue Mini Dress,Dresses,Mini Dress,UrbanChic,Blue,XL,Polyester,48.05,18.97,Fall/Winter 2024,9/2/2024 0:00
+P0725,UrbanChic Yellow Midi Dress,Dresses,Mini Dress,UrbanChic,,S,Silk,45.93,22.43,Fall/Winter 2024,9/4/2024 0:00
+P0537,TrendWear Blue Mini Dress,Dresses,Mini Dress,TrendWear,Blue,XL,Wool,79.38,33.89,Fall/Winter 2023,8/18/2023 0:00
+P0045,ClassicMode Navy Midi Dress,Dresses,Mini Dress,ClassicMode,Navy,XL,,84.6,30.53,Spring/Summer 2024,3/31/2024 0:00
+P0414,TrendWear Purple Maxi Dress,Dresses,Maxi Dress,TrendWear,,L,Wool,83.86,38.02,Fall/Winter 2023,9/21/2023 0:00
+P0604,ModaVibe Pink Cocktail Dress,Dresses,Cocktail Dress,ModaVibe,Pink,L,Denim,89.56,42.2,Spring/Summer 2024,3/28/2024 0:00
+P0285,ModaVibe Purple Midi Dress,Dresses,Mini Dress,ModaVibe,Purple,S,Cotton,74.77,31.5,Fall/Winter 2024,9/15/2024 0:00
+P0461,TrendWear Gray Mini Dress,Dresses,Mini Dress,TrendWear,Gray,XXL,Blend,66.82,25.72,Spring/Summer 2023,4/1/2023 0:00
+P0506,ClassicMode Red Maxi Dress,Dresses,Maxi Dress,ClassicMode,Red,XL,Cotton,91.77,34.28,Fall/Winter 2023,9/8/2023 0:00
+P0177,ClassicMode Purple Maxi Dress,Dresses,Maxi Dress,ClassicMode,Purple,L,Polyester,92.26,36.75,Fall/Winter 2024,8/5/2024 0:00
+P0105,StyleCo Neon Green Mini Dress,Dresses,Mini Dress,StyleCo,Neon Green,L,,51.72,22.26,Fall/Winter 2023,8/21/2023 0:00
+P0713,UrbanChic Green Mini Dress,Dresses,Mini Dress,UrbanChic,Green,S,Cotton,77.34,31.76,Fall/Winter 2024,9/10/2024 0:00
+P0405,ModaVibe Brown Mini Dress,Dresses,Mini Dress,ModaVibe,Brown,L,Silk,76.51,33.38,Fall/Winter 2024,8/27/2024 0:00
+P0778,ModaVibe Red Cocktail Dress,Dresses,Cocktail Dress,ModaVibe,Red,L,Denim,66.06,28.78,Fall/Winter 2023,9/1/2023 0:00
+P0038,TrendWear Orange Maxi Dress,Dresses,Maxi Dress,TrendWear,Orange,L,,96.74,37.71,Fall/Winter 2024,8/1/2024 0:00
+P0636,StyleCo Neon Pink Mini Dress,Dresses,Mini Dress,StyleCo,Neon Pink,M,Denim,87.08,41.61,Fall/Winter 2023,9/12/2023 0:00
+P0313,UrbanChic Orange Maxi Dress,Dresses,Maxi Dress,UrbanChic,Orange,S,,57.79,26.02,Spring/Summer 2024,3/16/2024 0:00
+P0249,StyleCo Purple Mini Dress,Dresses,Mini Dress,StyleCo,Purple,M,Cotton,77.09,36.02,Fall/Winter 2023,9/24/2023 0:00
+P0668,ModaVibe Orange Cocktail Dress,Dresses,Cocktail Dress,ModaVibe,Orange,S,Silk,90.99,41.37,Fall/Winter 2024,8/24/2024 0:00
+P0570,ModaVibe Red Midi Dress,Dresses,Mini Dress,ModaVibe,Red,L,Cotton,82.08,32.36,Fall/Winter 2023,8/23/2023 0:00
+P0632,TrendWear Blue Midi Dress,Dresses,Mini Dress,TrendWear,Blue,L,Wool,91.62,45.33,Spring/Summer 2024,3/15/2024 0:00
+P0718,StyleCo Pink Maxi Dress,Dresses,Maxi Dress,StyleCo,Pink,L,Blend,85.28,30.91,Fall/Winter 2024,9/3/2024 0:00
+P0442,ClassicMode Neon Green Mini Dress,Dresses,Mini Dress,ClassicMode,Neon Green,S,Polyester,76.04,26.77,Spring/Summer 2023,2/2/2023 0:00
+P0153,ModaVibe Beige Maxi Dress,Dresses,Maxi Dress,ModaVibe,Beige,XS,Polyester,92.52,36.35,Fall/Winter 2024,9/23/2024 0:00
+P0100,UrbanChic Red Midi Dress,Dresses,Mini Dress,UrbanChic,Red,XS,Blend,91.28,41.55,Spring/Summer 2024,2/18/2024 0:00
+P0408,ClassicMode Gray Mini Dress,Dresses,Mini Dress,ClassicMode,Gray,XL,Silk,81.1,33.44,Fall/Winter 2024,8/27/2024 0:00
+P0765,ModaVibe Beige Midi Dress,Dresses,Mini Dress,ModaVibe,Beige,XS,Cotton,52.52,25.4,Spring/Summer 2023,3/6/2023 0:00
+P0535,UrbanChic Navy Midi Dress,Dresses,Mini Dress,UrbanChic,Navy,XS,,92.01,42.54,Fall/Winter 2023,9/23/2023 0:00
+P0707,ModaVibe Purple Mini Dress,Dresses,Mini Dress,ModaVibe,Purple,L,Denim,70.8,27.45,Spring/Summer 2024,3/22/2024 0:00
+P0003,ModaVibe Purple Maxi Dress,Dresses,Maxi Dress,ModaVibe,Purple,M,Polyester,79.29,34.23,Fall/Winter 2023,9/15/2023 0:00
+P0057,UrbanChic Blue Mini Dress,Dresses,Mini Dress,UrbanChic,Blue,L,Polyester,80.34,36.98,Fall/Winter 2024,9/21/2024 0:00
+P0608,ModaVibe Red Mini Dress,Dresses,Mini Dress,ModaVibe,Red,L,Wool,72.07,33.84,Fall/Winter 2024,8/16/2024 0:00
+P0130,ClassicMode Green Cocktail Dress,Dresses,Cocktail Dress,ClassicMode,Green,L,,96.1,42.41,Spring/Summer 2023,2/2/2023 0:00
+P0040,UrbanChic Purple Maxi Dress,Dresses,Maxi Dress,UrbanChic,Purple,M,,75.88,32.28,Spring/Summer 2023,2/4/2023 0:00
+P0435,TrendWear Blue Mini Dress,Dresses,Mini Dress,TrendWear,Blue,L,Cotton,81.2,38.89,Fall/Winter 2024,9/9/2024 0:00
+P0572,ModaVibe Black Jeans,Bottoms,Jeans,ModaVibe,Black,XXL,Cotton,80.28,37.49,Fall/Winter 2024,8/10/2024 0:00
+P0186,TrendWear Black Blouse,Tops,Blouse,TrendWear,Black,XS,Denim,48.22,19.41,Fall/Winter 2024,8/15/2024 0:00
+P0241,ModaVibe White Hat,Accessories,Hat,ModaVibe,White,XS,Wool,28.36,11,Fall/Winter 2024,9/22/2024 0:00
+P0386,StyleCo White Hoodie,Activewear,Hoodie,StyleCo,White,XL,Denim,48.75,19.99,Fall/Winter 2024,9/8/2024 0:00
+P0158,UrbanChic Black Hat,Accessories,Hat,UrbanChic,Black,XL,Polyester,36.76,13.64,Spring/Summer 2023,3/2/2023 0:00
+P0749,ClassicMode Beige Hat,Accessories,Hat,ClassicMode,Beige,XS,Polyester,30.26,12.31,Spring/Summer 2023,3/22/2023 0:00
+P0172,TrendWear Black Hat,Accessories,Hat,TrendWear,Black,XS,Blend,34.83,12.88,Spring/Summer 2023,3/15/2023 0:00
+P0694,TrendWear Black Tank,Activewear,Tank Top,TrendWear,Black,XS,Polyester,58.04,22.36,Fall/Winter 2023,9/1/2023 0:00
+P0136,TrendWear Gray Bag,Accessories,Bag,TrendWear,Gray,XS,Denim,27.19,10.87,Fall/Winter 2024,9/4/2024 0:00
+P0556,StyleCo White Scarf,Accessories,Scarf,StyleCo,White,XL,Denim,21.69,10.11,Fall/Winter 2024,8/18/2024 0:00
+P0769,ModaVibe Gray Bag,Accessories,Bag,ModaVibe,Gray,XS,Silk,19.04,7.59,Fall/Winter 2023,9/16/2023 0:00
+P0426,StyleCo White Maxi Dress,Dresses,Maxi Dress,StyleCo,White,XXL,Silk,51.96,24.87,Fall/Winter 2024,8/2/2024 0:00
+P0307,ClassicMode Black Tank,Activewear,Tank Top,ClassicMode,Black,XL,Silk,65.29,31.19,Fall/Winter 2024,9/26/2024 0:00
+P0132,StyleCo Navy Hoodie,Activewear,Hoodie,StyleCo,Navy,XL,Wool,65.08,25.63,Fall/Winter 2023,9/1/2023 0:00
+P0489,TrendWear Black Hat,Accessories,Hat,TrendWear,Black,XXL,,19.31,7.43,Fall/Winter 2024,8/3/2024 0:00
+P0163,ClassicMode Navy Midi Dress,Dresses,Mini Dress,ClassicMode,Navy,XXL,Silk,47.86,17.02,Spring/Summer 2023,2/9/2023 0:00
+P0736,StyleCo Navy Bag,Accessories,Bag,StyleCo,Navy,XL,Silk,31.79,12.96,Spring/Summer 2023,3/22/2023 0:00
+P0515,ModaVibe White Skirt,Bottoms,Skirt,ModaVibe,White,XXL,Denim,55.53,23.79,Spring/Summer 2023,3/26/2023 0:00
+P0476,StyleCo Black Hat,Accessories,Hat,StyleCo,Black,XXL,Polyester,21.46,9.59,Spring/Summer 2023,2/5/2023 0:00
+P0464,UrbanChic White Skirt,Bottoms,Skirt,UrbanChic,White,XS,Denim,79.04,38.3,Spring/Summer 2023,2/3/2023 0:00
+P0328,ClassicMode Black Tank,Activewear,Tank Top,ClassicMode,Black,XS,Silk,45.15,17.36,Fall/Winter 2024,9/4/2024 0:00
+P0184,ModaVibe Beige Leggings,Activewear,Leggings,ModaVibe,Beige,XL,Wool,35.9,14.47,Spring/Summer 2024,3/14/2024 0:00
+P0594,ClassicMode Black Sports Bra,Activewear,Sports Bra,ClassicMode,Black,XL,Silk,53.49,20.23,Spring/Summer 2023,2/17/2023 0:00
+P0401,ClassicMode Black Sports Bra,Activewear,Sports Bra,ClassicMode,Black,XS,Wool,55.65,23.56,Spring/Summer 2023,2/17/2023 0:00
+P0562,ClassicMode Black Tank,Activewear,Tank Top,ClassicMode,Black,XL,Polyester,67.36,28.53,Fall/Winter 2023,8/22/2023 0:00
+P0367,UrbanChic Navy Hoodie,Activewear,Hoodie,UrbanChic,Navy,XS,Silk,41.34,20.62,Spring/Summer 2023,3/13/2023 0:00
+P0559,UrbanChic Navy Leggings,Activewear,Leggings,UrbanChic,Navy,XS,Polyester,55.86,24.8,Fall/Winter 2023,8/2/2023 0:00
+P0781,UrbanChic Black Leggings,Activewear,Leggings,UrbanChic,Black,XS,Silk,53.68,26.76,Fall/Winter 2023,8/23/2023 0:00
+P0647,TrendWear Black Shorts,Bottoms,Shorts,TrendWear,Black,XS,Denim,60.96,24.96,Fall/Winter 2024,9/2/2024 0:00
+P0463,StyleCo Black Tank,Activewear,Tank Top,StyleCo,Black,XXL,Cotton,66.89,27.62,Fall/Winter 2023,9/3/2023 0:00
+P0134,ModaVibe Black Sports Bra,Activewear,Sports Bra,ModaVibe,Black,XL,Silk,34.01,15.85,Fall/Winter 2023,9/25/2023 0:00
+P0738,ClassicMode Black Sports Bra,Activewear,Sports Bra,ClassicMode,Black,XXL,Polyester,66.1,32.42,Fall/Winter 2024,9/13/2024 0:00
+P0363,TrendWear White Jeans,Bottoms,Jeans,TrendWear,White,XXL,Wool,80.8,35.39,Spring/Summer 2024,2/2/2024 0:00
+P0457,ModaVibe White Maxi Dress,Dresses,Maxi Dress,ModaVibe,White,XXL,Polyester,71.61,34.75,Spring/Summer 2024,2/8/2024 0:00
+P0205,StyleCo Black Skirt,Bottoms,Skirt,StyleCo,Black,XL,Denim,72.51,30.75,Fall/Winter 2023,9/30/2023 0:00
+P0605,StyleCo Black T-Shirt,Tops,T-Shirt,StyleCo,Black,XS,Blend,25.99,9.32,Fall/Winter 2024,8/10/2024 0:00
+P0262,StyleCo White Tank Top,Tops,Tank Top,StyleCo,White,XL,Denim,43.54,17.49,Fall/Winter 2024,8/30/2024 0:00
+P0035,TrendWear Beige Blouse,Tops,Blouse,TrendWear,Beige,XL,Polyester,36.31,14.23,Fall/Winter 2024,8/9/2024 0:00
+P0416,ModaVibe Black Shorts,Bottoms,Shorts,ModaVibe,Black,XS,Wool,62.21,24.79,Spring/Summer 2024,3/10/2024 0:00
+P0430,StyleCo Black Sweater,Tops,Sweater,StyleCo,Black,XS,Denim,30.48,11.02,Spring/Summer 2023,2/1/2023 0:00
+P0028,StyleCo Navy Pants,Bottoms,Pants,StyleCo,Navy,XS,Denim,41.32,14.59,Fall/Winter 2023,8/15/2023 0:00
+P0662,TrendWear Black Jeans,Bottoms,Jeans,TrendWear,Black,XS,Polyester,82.18,39.45,Fall/Winter 2024,9/8/2024 0:00
+P0156,StyleCo Navy Blouse,Tops,Blouse,StyleCo,Navy,XL,Polyester,45.43,17.1,Spring/Summer 2024,2/21/2024 0:00
+P0011,ModaVibe White Jeans,Bottoms,Jeans,ModaVibe,White,XS,Silk,70.58,26.43,Fall/Winter 2023,9/4/2023 0:00
+P0422,ClassicMode Black Pants,Bottoms,Pants,ClassicMode,Black,XS,Wool,38.61,18,Spring/Summer 2024,3/9/2024 0:00
+P0017,StyleCo White Pants,Bottoms,Pants,StyleCo,White,XXL,Wool,43.32,19.24,Spring/Summer 2023,3/28/2023 0:00
+P0027,UrbanChic Black Blouse,Tops,Blouse,UrbanChic,Black,XL,Denim,42.7,17.75,Fall/Winter 2024,9/12/2024 0:00
+P0379,UrbanChic Black Cardigan,Outerwear,Cardigan,UrbanChic,Black,XL,Wool,99.23,46.99,Fall/Winter 2024,8/22/2024 0:00
+P0145,TrendWear Black Pants,Bottoms,Pants,TrendWear,Black,XS,Cotton,39.77,15.85,Spring/Summer 2024,3/29/2024 0:00
+P0382,UrbanChic White Skirt,Bottoms,Skirt,UrbanChic,White,XL,Cotton,74.43,30.44,Fall/Winter 2024,8/18/2024 0:00
+P0533,ModaVibe Black Sweater,Tops,Sweater,ModaVibe,Black,XS,Polyester,50.35,22.77,Fall/Winter 2024,9/10/2024 0:00
+P0671,ModaVibe Black Midi Dress,Dresses,Mini Dress,ModaVibe,Black,XL,Cotton,55.33,25.25,Fall/Winter 2024,8/17/2024 0:00
+P0345,UrbanChic Black Midi Dress,Dresses,Mini Dress,UrbanChic,Black,XS,Cotton,72.17,30.64,Spring/Summer 2024,2/24/2024 0:00
+P0235,TrendWear Black Sweater,Tops,Sweater,TrendWear,Black,XS,Denim,51.79,18.65,Spring/Summer 2023,3/6/2023 0:00
+P0552,StyleCo Black Sweater,Tops,Sweater,StyleCo,Black,XL,Wool,49.4,21,Spring/Summer 2023,3/3/2023 0:00
+P0124,UrbanChic Black Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Black,XS,Cotton,68.17,32.19,Fall/Winter 2023,9/7/2023 0:00
+P0441,UrbanChic White Midi Dress,Dresses,Mini Dress,UrbanChic,White,XL,,90.26,39.29,Fall/Winter 2023,8/25/2023 0:00
+P0316,TrendWear Black Cocktail Dress,Dresses,Cocktail Dress,TrendWear,Black,XL,Wool,96.92,39.35,Fall/Winter 2024,9/17/2024 0:00
+P0475,TrendWear Black Mini Dress,Dresses,Mini Dress,TrendWear,Black,XXL,Cotton,81.19,39.83,Fall/Winter 2024,8/24/2024 0:00
+P0613,UrbanChic Navy Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Navy,XL,Cotton,53.87,25.69,Spring/Summer 2024,2/9/2024 0:00
+P0224,TrendWear White Sweater,Tops,Sweater,TrendWear,White,XL,Cotton,41.43,19.93,Fall/Winter 2023,9/21/2023 0:00
+P0188,ModaVibe Black Maxi Dress,Dresses,Maxi Dress,ModaVibe,Black,XS,Blend,54.88,24.99,Spring/Summer 2024,2/2/2024 0:00
+P0068,ModaVibe White Mini Dress,Dresses,Mini Dress,ModaVibe,White,XL,Blend,73.99,25.9,Spring/Summer 2024,2/26/2024 0:00
+P0440,StyleCo Black Cardigan,Outerwear,Cardigan,StyleCo,Black,XS,Cotton,114.99,41.47,Fall/Winter 2023,9/1/2023 0:00
+P0082,ClassicMode Black Sweater,Tops,Sweater,ClassicMode,Black,XL,Silk,34.35,15.9,Spring/Summer 2023,4/2/2023 0:00
+P0112,StyleCo Black Midi Dress,Dresses,Mini Dress,StyleCo,,XS,Denim,74.52,30.73,Fall/Winter 2023,8/8/2023 0:00
+P0358,ModaVibe Black Cocktail Dress,Dresses,Cocktail Dress,ModaVibe,Black,XS,Cotton,57.24,25.91,Fall/Winter 2023,9/14/2023 0:00
+P0434,StyleCo Black Coat,Outerwear,Coat,StyleCo,Black,XL,Wool,115.9,48.22,Spring/Summer 2023,3/12/2023 0:00
+P0147,TrendWear Black Coat,Outerwear,Coat,TrendWear,Black,XS,Wool,112.82,45.96,Fall/Winter 2023,8/6/2023 0:00
+P0657,TrendWear Black T-Shirt,Tops,T-Shirt,TrendWear,Black,XS,Wool,33.75,12.39,Fall/Winter 2024,9/21/2024 0:00
+P0429,StyleCo Beige Blouse,Tops,Blouse,StyleCo,Beige,XS,Polyester,33.05,15.03,Fall/Winter 2024,9/10/2024 0:00
+P0498,ClassicMode White T-Shirt,Tops,T-Shirt,ClassicMode,White,XS,Blend,45.37,17.5,Fall/Winter 2023,8/22/2023 0:00
+P0004,ModaVibe Black Cardigan,Outerwear,Cardigan,ModaVibe,Black,XXL,Polyester,132.57,61.49,Spring/Summer 2024,3/23/2024 0:00
+P0061,ModaVibe Black Tank Top,Tops,Tank Top,ModaVibe,Black,XL,Cotton,51.97,22.37,Fall/Winter 2024,9/13/2024 0:00
+P0306,StyleCo Navy T-Shirt,Tops,T-Shirt,StyleCo,Navy,XL,Blend,41.38,20.25,Spring/Summer 2024,3/8/2024 0:00
+P0146,UrbanChic Black Blazer,Outerwear,Blazer,UrbanChic,Black,L,,77.56,33.33,Spring/Summer 2024,2/28/2024 0:00
+P0417,UrbanChic Red Hat,Accessories,Hat,UrbanChic,Red,L,Wool,34.66,17.25,Spring/Summer 2024,4/1/2024 0:00
+P0335,ClassicMode Green Belt,Accessories,Belt,ClassicMode,Green,L,Wool,36.95,18.15,Fall/Winter 2024,8/4/2024 0:00
+P0486,TrendWear Pink Scarf,Accessories,Scarf,TrendWear,Pink,L,Polyester,36.2,18.05,Fall/Winter 2024,8/23/2024 0:00
+P0381,ClassicMode Navy Sports Bra,Activewear,Sports Bra,ClassicMode,Navy,L,Denim,57.96,25.79,Spring/Summer 2024,2/19/2024 0:00
+P0187,StyleCo Red Tank,Activewear,Tank Top,StyleCo,Red,L,Denim,39.64,16.43,Spring/Summer 2024,3/8/2024 0:00
+P0627,ClassicMode Blue Tank Top,Tops,Tank Top,ClassicMode,Blue,L,Cotton,42.15,17.49,Fall/Winter 2024,8/29/2024 0:00
+P0436,TrendWear Pink Scarf,Accessories,Scarf,TrendWear,Pink,L,Silk,32.1,12.93,Spring/Summer 2023,3/10/2023 0:00
+P0237,UrbanChic Pink T-Shirt,Tops,T-Shirt,UrbanChic,Pink,L,Cotton,31.25,14.02,Spring/Summer 2023,2/23/2023 0:00
+P0199,UrbanChic Beige Scarf,Accessories,Scarf,UrbanChic,Beige,L,Blend,25.59,11.41,Fall/Winter 2024,9/6/2024 0:00
+P0236,ClassicMode Navy Scarf,Accessories,Scarf,ClassicMode,Navy,L,Blend,30.21,15.02,Fall/Winter 2024,8/3/2024 0:00
+P0438,StyleCo Blue Hat,Accessories,Hat,StyleCo,Blue,L,Wool,27.85,11.88,Spring/Summer 2024,2/14/2024 0:00
+P0133,ClassicMode Gray Hat,Accessories,Hat,ClassicMode,Gray,L,Silk,22.37,9.68,Fall/Winter 2024,8/31/2024 0:00
+P0375,ModaVibe Brown Belt,Accessories,Belt,ModaVibe,Brown,L,Blend,25.11,9.31,Fall/Winter 2023,9/13/2023 0:00
+P0720,TrendWear Beige Blouse,Tops,Blouse,TrendWear,Beige,L,Blend,25.48,10.28,Fall/Winter 2023,8/2/2023 0:00
+P0542,UrbanChic White Hat,Accessories,Hat,UrbanChic,White,L,Wool,18.78,9.36,Spring/Summer 2023,3/3/2023 0:00
+P0036,ClassicMode Gray Maxi Dress,Dresses,Maxi Dress,ClassicMode,Gray,L,Cotton,79.41,34.23,Spring/Summer 2023,2/4/2023 0:00
+P0246,UrbanChic Gray Hat,Accessories,Hat,UrbanChic,Gray,L,Silk,24.06,9.49,Spring/Summer 2023,2/6/2023 0:00
+P0384,TrendWear Pink Bag,Accessories,Bag,TrendWear,Pink,L,Silk,23.33,10.59,Fall/Winter 2024,9/21/2024 0:00
+P0606,UrbanChic Navy Belt,Accessories,Belt,UrbanChic,Navy,L,Blend,34.29,15.55,Spring/Summer 2024,2/10/2024 0:00
+P0089,TrendWear Green Scarf,Accessories,Scarf,TrendWear,Green,L,Polyester,17.91,6.68,Fall/Winter 2023,9/23/2023 0:00
+P0216,TrendWear Blue Bag,Accessories,Bag,TrendWear,Blue,L,Blend,28.68,12.81,Spring/Summer 2023,2/20/2023 0:00
+P0628,StyleCo Red Bag,Accessories,Bag,StyleCo,Red,L,Wool,31.91,11.47,Spring/Summer 2023,3/14/2023 0:00
+P0077,ClassicMode Red Bag,Accessories,Bag,ClassicMode,Red,L,Denim,22.44,10,Spring/Summer 2024,3/20/2024 0:00
+P0747,ModaVibe White Midi Dress,Dresses,Mini Dress,ModaVibe,White,L,Blend,74.97,32.35,Fall/Winter 2024,8/13/2024 0:00
+P0558,ClassicMode Purple Bag,Accessories,Bag,ClassicMode,Purple,L,Blend,18.25,6.93,Fall/Winter 2024,8/1/2024 0:00
+P0759,ModaVibe Red Belt,Accessories,Belt,ModaVibe,Red,L,Cotton,32.48,13.39,Fall/Winter 2023,9/5/2023 0:00
+P0103,TrendWear Navy Pants,Bottoms,Pants,TrendWear,Navy,L,Denim,64.09,26.98,Spring/Summer 2024,3/14/2024 0:00
+P0062,UrbanChic White Scarf,Accessories,Scarf,UrbanChic,White,L,Cotton,36.75,14.33,Fall/Winter 2023,9/7/2023 0:00
+P0697,ModaVibe Gray Leggings,Activewear,Leggings,ModaVibe,Gray,L,Silk,48.86,21.65,Spring/Summer 2023,3/27/2023 0:00
+P0646,ModaVibe White Tank,Activewear,Tank Top,ModaVibe,White,L,Polyester,59.41,24.05,Fall/Winter 2024,9/11/2024 0:00
+P0388,StyleCo Navy Maxi Dress,Dresses,Maxi Dress,StyleCo,Navy,L,Denim,80.06,30.02,Fall/Winter 2023,9/12/2023 0:00
+P0492,ModaVibe Navy T-Shirt,Tops,T-Shirt,ModaVibe,Navy,L,Silk,34.96,17.18,Spring/Summer 2024,2/5/2024 0:00
+P0493,UrbanChic Green Leggings,Activewear,Leggings,UrbanChic,Green,L,Silk,36.41,13.6,Spring/Summer 2024,2/21/2024 0:00
+P0204,TrendWear Black Blazer,Outerwear,Blazer,TrendWear,Black,L,Denim,77.63,29.47,Fall/Winter 2023,8/7/2023 0:00
+P0168,UrbanChic Navy Pants,Bottoms,Pants,UrbanChic,Navy,L,,80.26,38.01,Fall/Winter 2023,8/8/2023 0:00
+P0530,ModaVibe Gray Tank Top,Tops,Tank Top,ModaVibe,Gray,L,Denim,46.35,19.87,Fall/Winter 2024,8/9/2024 0:00
+P0599,ModaVibe Black Midi Dress,Dresses,Mini Dress,ModaVibe,Black,L,Polyester,96.43,47,Fall/Winter 2024,8/27/2024 0:00
+P0444,ClassicMode Blue Pants,Bottoms,Pants,ClassicMode,,L,Blend,62.11,27.48,Spring/Summer 2023,3/13/2023 0:00
+P0455,UrbanChic Red Pants,Bottoms,Pants,UrbanChic,Red,L,Cotton,45.1,22.08,Fall/Winter 2024,9/28/2024 0:00
+P0758,StyleCo Beige T-Shirt,Tops,T-Shirt,StyleCo,Beige,L,Wool,35.29,13.37,Fall/Winter 2023,9/4/2023 0:00
+P0346,UrbanChic Navy Cardigan,Outerwear,Cardigan,UrbanChic,Navy,L,,90.28,32.22,Fall/Winter 2023,8/24/2023 0:00
+P0595,ClassicMode Red Skirt,Bottoms,Skirt,ClassicMode,Red,L,Cotton,53.37,24.74,Fall/Winter 2023,9/15/2023 0:00
+P0739,ModaVibe Navy Jacket,Outerwear,Jacket,ModaVibe,Navy,L,Blend,103.07,40.69,Spring/Summer 2023,2/17/2023 0:00
+P0478,ClassicMode Beige Pants,Bottoms,Pants,ClassicMode,Beige,L,Blend,55.34,22.91,Fall/Winter 2024,8/2/2024 0:00
+P0287,ModaVibe Black Jeans,Bottoms,Jeans,ModaVibe,Black,L,Denim,81.05,37.89,Fall/Winter 2024,8/17/2024 0:00
+P0488,UrbanChic Black Jacket,Outerwear,Jacket,UrbanChic,Black,L,Silk,138.58,65.9,Fall/Winter 2023,9/6/2023 0:00
+P0330,ClassicMode White T-Shirt,Tops,T-Shirt,ClassicMode,White,L,Cotton,30.27,11.05,Spring/Summer 2023,2/16/2023 0:00
+P0775,ModaVibe Navy Pants,Bottoms,Pants,ModaVibe,Navy,L,Polyester,57.51,26.91,Spring/Summer 2023,2/15/2023 0:00
+P0723,UrbanChic Black Blazer,Outerwear,Blazer,UrbanChic,Black,L,Blend,83.76,30.44,Fall/Winter 2024,9/4/2024 0:00
+P0583,UrbanChic White Mini Dress,Dresses,Mini Dress,UrbanChic,White,L,Blend,79.91,30.95,Spring/Summer 2023,2/28/2023 0:00
+P0320,ModaVibe White Mini Dress,Dresses,Mini Dress,ModaVibe,White,L,Cotton,92.24,38.45,Fall/Winter 2024,8/6/2024 0:00
+P0244,TrendWear White Midi Dress,Dresses,Mini Dress,TrendWear,White,L,Denim,71.37,34.87,Fall/Winter 2024,9/14/2024 0:00
+P0589,StyleCo Navy Cocktail Dress,Dresses,Cocktail Dress,StyleCo,Navy,L,Denim,50.23,22.13,Spring/Summer 2023,3/25/2023 0:00
+P0294,ModaVibe White Midi Dress,Dresses,Mini Dress,ModaVibe,White,L,Blend,95.28,37.34,Fall/Winter 2024,8/13/2024 0:00
+P0099,UrbanChic Beige Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Beige,L,Polyester,89.75,33.86,Spring/Summer 2023,3/4/2023 0:00
+P0021,ModaVibe Navy Tank Top,Tops,Tank Top,ModaVibe,Navy,L,Blend,50.05,24.05,Fall/Winter 2023,9/2/2023 0:00
+P0029,ModaVibe Navy Blouse,Tops,Blouse,ModaVibe,Navy,L,Polyester,26.49,11.78,Fall/Winter 2023,8/1/2023 0:00
+P0377,StyleCo White Sweater,Tops,Sweater,StyleCo,White,L,Silk,50.94,23.34,Spring/Summer 2024,2/17/2024 0:00
+P0631,ClassicMode Gray Maxi Dress,Dresses,Maxi Dress,ClassicMode,Gray,L,Denim,56.93,26.3,Fall/Winter 2023,9/4/2023 0:00
+P0480,UrbanChic White Coat,Outerwear,Coat,UrbanChic,White,L,Cotton,133.59,56.36,Fall/Winter 2024,8/27/2024 0:00
+P0144,StyleCo Black Mini Dress,Dresses,Mini Dress,StyleCo,Black,L,Cotton,85.04,38.74,Fall/Winter 2024,8/7/2024 0:00
+P0446,ClassicMode White Blazer,Outerwear,Blazer,ClassicMode,White,L,Polyester,119.6,54.96,Spring/Summer 2023,2/20/2023 0:00
+P0496,StyleCo Gray Blouse,Tops,Blouse,StyleCo,Gray,L,Cotton,52.34,25.9,Fall/Winter 2024,9/24/2024 0:00
+P0059,ClassicMode White Coat,Outerwear,Coat,ClassicMode,White,L,Polyester,128.86,61.94,Spring/Summer 2024,2/20/2024 0:00
+P0402,ModaVibe Beige Tank Top,Tops,Tank Top,ModaVibe,Beige,L,Blend,35.49,13.03,Fall/Winter 2024,9/9/2024 0:00
+P0140,ClassicMode Pink T-Shirt,Tops,T-Shirt,ClassicMode,Pink,L,Polyester,49.99,17.61,Spring/Summer 2023,3/6/2023 0:00
+P0230,StyleCo Green Blouse,Tops,Blouse,StyleCo,Green,S,Polyester,47.73,21.69,Spring/Summer 2024,3/30/2024 0:00
+P0024,StyleCo Brown Belt,Accessories,Belt,StyleCo,Brown,S,Wool,28.85,10.44,Fall/Winter 2023,9/26/2023 0:00
+P0795,TrendWear Gray Hat,Accessories,Hat,TrendWear,Gray,S,Cotton,35.44,15.9,Fall/Winter 2023,8/22/2023 0:00
+P0210,ClassicMode Black Jacket,Outerwear,Jacket,ClassicMode,Black,S,Cotton,108.56,47.83,Fall/Winter 2023,8/21/2023 0:00
+P0118,ClassicMode Red Belt,Accessories,Belt,ClassicMode,Red,S,Blend,22,8.19,Spring/Summer 2023,3/7/2023 0:00
+P0056,TrendWear Navy Sports Bra,Activewear,Sports Bra,TrendWear,Navy,S,Cotton,60.69,29.27,Fall/Winter 2023,9/21/2023 0:00
+P0207,ClassicMode Green Leggings,Activewear,Leggings,ClassicMode,Green,S,Cotton,42.4,16.59,Fall/Winter 2024,9/10/2024 0:00
+P0058,TrendWear Beige Midi Dress,Dresses,Mini Dress,TrendWear,Beige,S,Polyester,90.85,43.5,Spring/Summer 2023,2/25/2023 0:00
+P0270,UrbanChic Beige Bag,Accessories,Bag,UrbanChic,Beige,S,Silk,31.27,11.69,Fall/Winter 2024,8/5/2024 0:00
+P0534,ClassicMode White Hat,Accessories,Hat,ClassicMode,White,S,Denim,36.71,15.46,Fall/Winter 2024,8/12/2024 0:00
+P0343,TrendWear Yellow Belt,Accessories,Belt,TrendWear,Yellow,S,Polyester,37.49,15.81,Spring/Summer 2023,3/20/2023 0:00
+P0617,StyleCo Red Bag,Accessories,Bag,StyleCo,Red,S,Blend,35.17,15.81,Spring/Summer 2024,2/15/2024 0:00
+P0623,StyleCo White Maxi Dress,Dresses,Maxi Dress,StyleCo,White,S,Cotton,73.47,25.8,Fall/Winter 2023,9/19/2023 0:00
+P0798,TrendWear Gray Mini Dress,Dresses,Mini Dress,TrendWear,Gray,S,Polyester,82.17,35.22,Spring/Summer 2024,3/16/2024 0:00
+P0453,UrbanChic Gray Belt,Accessories,Belt,UrbanChic,Gray,S,Wool,32.97,15.96,Fall/Winter 2023,8/17/2023 0:00
+P0201,StyleCo Navy Midi Dress,Dresses,Mini Dress,StyleCo,Navy,S,Silk,51,21.18,Fall/Winter 2024,9/24/2024 0:00
+P0304,TrendWear Blue T-Shirt,Tops,T-Shirt,TrendWear,Blue,S,Cotton,47.95,23.5,Fall/Winter 2024,9/26/2024 0:00
+P0271,ClassicMode Yellow Bag,Accessories,Bag,ClassicMode,Yellow,S,Wool,29.63,11.76,Fall/Winter 2023,8/22/2023 0:00
+P0005,UrbanChic White Hoodie,Activewear,Hoodie,UrbanChic,White,S,Cotton,39.25,18.23,Spring/Summer 2024,2/10/2024 0:00
+P0276,ClassicMode Navy Bag,Accessories,Bag,ClassicMode,Navy,S,Denim,17.96,8.83,Spring/Summer 2024,3/3/2024 0:00
+P0181,ClassicMode Red Bag,Accessories,Bag,ClassicMode,Red,S,Wool,19.4,8.03,Fall/Winter 2024,9/16/2024 0:00
+P0065,UrbanChic Red Belt,Accessories,Belt,UrbanChic,,S,Denim,36.48,17.81,Fall/Winter 2024,8/5/2024 0:00
+P0719,StyleCo White Mini Dress,Dresses,Mini Dress,StyleCo,White,S,,57.43,26.45,Fall/Winter 2024,8/20/2024 0:00
+P0139,TrendWear Gray Cardigan,Outerwear,Cardigan,TrendWear,Gray,S,,76.09,37.65,Fall/Winter 2024,8/3/2024 0:00
+P0703,TrendWear Orange Hat,Accessories,Hat,TrendWear,Orange,S,Blend,21.71,9.88,Fall/Winter 2024,8/28/2024 0:00
+P0075,StyleCo Navy Mini Dress,Dresses,Mini Dress,StyleCo,Navy,S,Denim,87.17,39.24,Fall/Winter 2024,8/9/2024 0:00
+P0349,ModaVibe Red Bag,Accessories,Bag,ModaVibe,Red,S,,32.77,13.87,Spring/Summer 2024,2/17/2024 0:00
+P0799,TrendWear Navy Bag,Accessories,Bag,TrendWear,Navy,S,Wool,18.86,8.11,Fall/Winter 2023,8/21/2023 0:00
+P0085,ModaVibe Navy Bag,Accessories,Bag,ModaVibe,,S,Silk,30.35,11.24,Spring/Summer 2023,2/6/2023 0:00
+P0508,UrbanChic Navy Hat,Accessories,Hat,UrbanChic,Navy,S,Denim,19.42,7.94,Spring/Summer 2024,2/16/2024 0:00
+P0701,StyleCo Blue Scarf,Accessories,Scarf,StyleCo,Blue,S,Denim,29.12,11.61,Fall/Winter 2023,8/25/2023 0:00
+P0400,ModaVibe Green Scarf,Accessories,Scarf,ModaVibe,Green,S,Blend,34.94,13.21,Spring/Summer 2023,3/24/2023 0:00
+P0610,ModaVibe Brown Hat,Accessories,Hat,ModaVibe,Brown,S,Silk,32.37,12.32,Spring/Summer 2023,2/1/2023 0:00
+P0527,TrendWear Blue Jeans,Bottoms,Jeans,TrendWear,Blue,S,Blend,81.37,33.89,Fall/Winter 2023,8/20/2023 0:00
+P0592,ClassicMode Brown Hat,Accessories,Hat,ClassicMode,Brown,S,Blend,32.69,12.53,Spring/Summer 2023,2/7/2023 0:00
+P0233,StyleCo Blue Sweater,Tops,Sweater,StyleCo,Blue,S,Cotton,49.84,21.91,Spring/Summer 2023,3/26/2023 0:00
+P0753,StyleCo Gray Skirt,Bottoms,Skirt,StyleCo,Gray,S,Denim,59.86,21.84,Fall/Winter 2023,8/7/2023 0:00
+P0041,StyleCo Purple Sports Bra,Activewear,Sports Bra,StyleCo,Purple,S,Wool,38.19,16.78,Spring/Summer 2023,3/27/2023 0:00
+P0691,TrendWear Beige Sports Bra,Activewear,Sports Bra,TrendWear,Beige,S,Cotton,65.9,28.17,Spring/Summer 2024,2/27/2024 0:00
+P0080,StyleCo Red Mini Dress,Dresses,Mini Dress,StyleCo,Red,S,Cotton,62.71,26.33,Fall/Winter 2024,8/27/2024 0:00
+P0303,StyleCo Navy Tank,Activewear,Tank Top,StyleCo,Navy,S,Wool,52.17,22.45,Spring/Summer 2023,3/14/2023 0:00
+P0750,ModaVibe Blue Leggings,Activewear,Leggings,ModaVibe,Blue,S,,53.83,21.43,Spring/Summer 2024,3/21/2024 0:00
+P0127,ClassicMode Navy Leggings,Activewear,Leggings,ClassicMode,Navy,S,Silk,40.59,14.91,Spring/Summer 2023,2/21/2023 0:00
+P0621,ModaVibe Red Tank,Activewear,Tank Top,ModaVibe,Red,S,Blend,64.31,30.44,Spring/Summer 2024,2/2/2024 0:00
+P0331,ModaVibe Pink Hoodie,Activewear,Hoodie,ModaVibe,Pink,S,Polyester,58.16,23.87,Spring/Summer 2023,2/16/2023 0:00
+P0371,UrbanChic White Leggings,Activewear,Leggings,UrbanChic,White,S,Cotton,58.91,21.52,Fall/Winter 2024,8/24/2024 0:00
+P0337,ModaVibe Beige Mini Dress,Dresses,Mini Dress,ModaVibe,Beige,S,Wool,89.67,35.43,Fall/Winter 2024,8/16/2024 0:00
+P0301,StyleCo Black Cocktail Dress,Dresses,Cocktail Dress,StyleCo,Black,S,Polyester,95.65,47.51,Fall/Winter 2023,8/1/2023 0:00
+P0546,ClassicMode Gray Midi Dress,Dresses,Mini Dress,ClassicMode,Gray,S,Denim,83.81,36.66,Fall/Winter 2024,8/25/2024 0:00
+P0727,TrendWear Beige Blazer,Outerwear,Blazer,TrendWear,Beige,S,Polyester,109.1,44.65,Fall/Winter 2024,9/26/2024 0:00
+P0310,ModaVibe Red Skirt,Bottoms,Skirt,ModaVibe,Red,S,Silk,57.32,22.88,Fall/Winter 2024,9/22/2024 0:00
+P0549,UrbanChic Green Mini Dress,Dresses,Mini Dress,UrbanChic,,S,Denim,52.15,20.28,Spring/Summer 2023,3/3/2023 0:00
+P0312,TrendWear White Pants,Bottoms,Pants,TrendWear,White,S,Denim,50.25,20.07,Fall/Winter 2024,9/18/2024 0:00
+P0327,ModaVibe Blue Pants,Bottoms,Pants,ModaVibe,Blue,S,Cotton,81.56,38.76,Fall/Winter 2023,9/16/2023 0:00
+P0176,ClassicMode Gray Shorts,Bottoms,Shorts,ClassicMode,Gray,S,Silk,82.44,39.33,Spring/Summer 2023,2/4/2023 0:00
+P0524,UrbanChic Blue Skirt,Bottoms,Skirt,UrbanChic,Blue,S,Silk,65.7,29.7,Fall/Winter 2024,8/10/2024 0:00
+P0514,TrendWear Pink Jeans,Bottoms,Jeans,TrendWear,Pink,S,Silk,67.9,32,Spring/Summer 2023,2/6/2023 0:00
+P0365,ClassicMode Beige Shorts,Bottoms,Shorts,ClassicMode,Beige,S,Denim,81.99,37.6,Fall/Winter 2023,9/20/2023 0:00
+P0213,ClassicMode White Shorts,Bottoms,Shorts,ClassicMode,White,S,Wool,53.39,23.47,Fall/Winter 2024,9/19/2024 0:00
+P0467,UrbanChic Pink Shorts,Bottoms,Shorts,UrbanChic,Pink,S,Silk,75.1,29.96,Fall/Winter 2024,9/14/2024 0:00
+P0449,ClassicMode Gray Coat,Outerwear,Coat,ClassicMode,Gray,S,Blend,105.81,50.09,Spring/Summer 2024,3/5/2024 0:00
+P0471,UrbanChic Black Mini Dress,Dresses,Mini Dress,UrbanChic,Black,S,Cotton,88.97,35.51,Spring/Summer 2023,2/14/2023 0:00
+P0009,TrendWear Brown Jeans,Bottoms,Jeans,TrendWear,,S,Blend,50.73,22.59,Spring/Summer 2023,2/25/2023 0:00
+P0768,UrbanChic Beige Shorts,Bottoms,Shorts,UrbanChic,Beige,S,Denim,49.77,19.66,Fall/Winter 2023,8/15/2023 0:00
+P0679,ClassicMode Navy Skirt,Bottoms,Skirt,ClassicMode,Navy,S,Cotton,41.32,15.84,Fall/Winter 2024,8/6/2024 0:00
+P0002,ModaVibe White Jeans,Bottoms,Jeans,ModaVibe,White,S,,39.81,15.24,Fall/Winter 2024,8/3/2024 0:00
+P0607,ModaVibe Gray Skirt,Bottoms,Skirt,ModaVibe,Gray,S,Wool,74.32,27.15,Spring/Summer 2023,2/23/2023 0:00
+P0110,StyleCo Gray Skirt,Bottoms,Skirt,StyleCo,Gray,S,Cotton,76.42,28.05,Spring/Summer 2024,4/1/2024 0:00
+P0677,TrendWear Red T-Shirt,Tops,T-Shirt,TrendWear,Red,S,Polyester,44.08,16.5,Fall/Winter 2024,9/20/2024 0:00
+P0584,TrendWear Blue Cocktail Dress,Dresses,Cocktail Dress,TrendWear,Blue,S,Silk,78.96,29.49,Spring/Summer 2023,2/1/2023 0:00
+P0512,StyleCo Gray Tank Top,Tops,Tank Top,StyleCo,Gray,S,Polyester,34.89,14.21,Fall/Winter 2024,8/12/2024 0:00
+P0321,TrendWear Red Cocktail Dress,Dresses,Cocktail Dress,TrendWear,Red,S,Wool,74.82,32.46,Fall/Winter 2024,8/30/2024 0:00
+P0667,StyleCo Navy Maxi Dress,Dresses,Maxi Dress,StyleCo,Navy,S,Cotton,52.28,23.03,Fall/Winter 2024,9/12/2024 0:00
+P0551,UrbanChic Navy Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Navy,S,Cotton,75.95,31.87,Spring/Summer 2024,2/17/2024 0:00
+P0740,TrendWear Purple T-Shirt,Tops,T-Shirt,TrendWear,Purple,S,Polyester,42.22,16.83,Spring/Summer 2023,2/16/2023 0:00
+P0106,TrendWear Gray Coat,Outerwear,Coat,TrendWear,Gray,S,Denim,103.3,47.38,Fall/Winter 2023,9/17/2023 0:00
+P0462,UrbanChic Red T-Shirt,Tops,T-Shirt,UrbanChic,Red,S,Wool,42.9,20.48,Spring/Summer 2023,3/21/2023 0:00
+P0465,UrbanChic Beige Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Beige,S,Polyester,49.91,18.18,Fall/Winter 2024,9/17/2024 0:00
+P0180,ModaVibe Beige Maxi Dress,Dresses,Maxi Dress,ModaVibe,Beige,S,Blend,68.98,26.51,Fall/Winter 2023,8/28/2023 0:00
+P0299,ModaVibe White Blazer,Outerwear,Blazer,ModaVibe,White,S,,74.8,34.49,Spring/Summer 2024,2/9/2024 0:00
+P0257,UrbanChic Yellow Tank Top,Tops,Tank Top,UrbanChic,Yellow,S,Polyester,44.37,20.19,Fall/Winter 2023,9/15/2023 0:00
+P0090,StyleCo Navy Cardigan,Outerwear,Cardigan,StyleCo,Navy,S,,119.66,55.65,Fall/Winter 2023,8/30/2023 0:00
+P0680,ClassicMode White Maxi Dress,Dresses,Maxi Dress,ClassicMode,White,S,Denim,79.62,31.29,Fall/Winter 2024,9/9/2024 0:00
+P0072,ClassicMode Pink Mini Dress,Dresses,Mini Dress,ClassicMode,Pink,S,,67.05,29.8,Spring/Summer 2023,3/2/2023 0:00
+P0215,UrbanChic Navy Mini Dress,Dresses,Mini Dress,UrbanChic,Navy,S,Blend,80.01,39.01,Spring/Summer 2023,3/10/2023 0:00
+P0289,TrendWear Blue Blouse,Tops,Blouse,TrendWear,Blue,S,Cotton,51.05,18.71,Spring/Summer 2023,3/9/2023 0:00
+P0223,UrbanChic White Mini Dress,Dresses,Mini Dress,UrbanChic,White,S,Denim,85.51,39.91,Fall/Winter 2024,8/30/2024 0:00
+P0597,ModaVibe Beige Maxi Dress,Dresses,Maxi Dress,ModaVibe,Beige,S,Silk,94.14,44.79,Spring/Summer 2023,3/8/2023 0:00
+P0603,ModaVibe White Coat,Outerwear,Coat,ClassicMode,White,S,Silk,75.27,30.32,Spring/Summer 2024,3/17/2024 0:00
+P0356,StyleCo White Coat,Outerwear,Coat,StyleCo,White,S,Denim,77.82,29.48,Spring/Summer 2023,3/6/2023 0:00
+P0198,StyleCo White Blazer,Outerwear,Blazer,StyleCo,White,S,Silk,122.9,51.06,Fall/Winter 2024,9/25/2024 0:00
+P0497,ModaVibe Gray Blouse,Tops,Blouse,ModaVibe,Gray,S,Wool,47.15,20.83,Spring/Summer 2024,3/30/2024 0:00
+P0743,ModaVibe Blue T-Shirt,Tops,T-Shirt,ModaVibe,Blue,S,Cotton,51.65,23.96,Spring/Summer 2024,3/31/2024 0:00
+P0494,UrbanChic Brown Sweater,Tops,Sweater,UrbanChic,Brown,S,Denim,51.62,23.44,Fall/Winter 2023,9/15/2023 0:00
+P0421,StyleCo Brown Sweater,Tops,Sweater,StyleCo,Brown,S,Blend,38.94,15.25,Spring/Summer 2023,2/26/2023 0:00
+P0048,ModaVibe Beige T-Shirt,Tops,T-Shirt,ModaVibe,Beige,S,Polyester,43.07,21.14,Spring/Summer 2024,3/31/2024 0:00
+P0792,StyleCo Pink T-Shirt,Tops,T-Shirt,StyleCo,Pink,S,Silk,39.32,15.73,Fall/Winter 2023,9/29/2023 0:00
+P0203,ModaVibe Navy Maxi Dress,Dresses,Maxi Dress,ModaVibe,Navy,M,Blend,69.22,34.99,Spring/Summer 2023,3/6/2023 0:00
+P0638,UrbanChic Mustard Bag,Accessories,Bag,UrbanChic,Mustard,M,Blend,30.93,11.91,Spring/Summer 2024,2/9/2024 0:00
+P0178,TrendWear Mustard Scarf,Accessories,Scarf,TrendWear,Mustard,M,Blend,30.16,13.04,Spring/Summer 2024,3/11/2024 0:00
+P0385,TrendWear Pink Cardigan,Outerwear,Cardigan,TrendWear,Pink,M,Silk,85.7,31.98,Spring/Summer 2024,2/16/2024 0:00
+P0355,ModaVibe Gray Tank,Activewear,Tank Top,ModaVibe,Gray,M,Silk,49.58,22.54,Spring/Summer 2024,2/2/2024 0:00
+P0788,StyleCo Navy Tank Top,Tops,Tank Top,StyleCo,Navy,M,,50.96,18.35,Fall/Winter 2024,9/11/2024 0:00
+P0380,UrbanChic Beige Skirt,Bottoms,Skirt,UrbanChic,Beige,M,Blend,80.18,30.48,Spring/Summer 2024,3/10/2024 0:00
+P0101,ModaVibe Blue Maxi Dress,Dresses,Maxi Dress,ModaVibe,Blue,M,Denim,58.05,23.86,Fall/Winter 2023,8/6/2023 0:00
+P0266,ModaVibe Neon Pink Hat,Accessories,Hat,ModaVibe,Neon Pink,M,Denim,30.32,13.3,Spring/Summer 2023,3/5/2023 0:00
+P0229,UrbanChic Blue Scarf,Accessories,Scarf,UrbanChic,Blue,M,Polyester,31.79,12.73,Spring/Summer 2023,3/26/2023 0:00
+P0601,ModaVibe Green Hat,Accessories,Hat,ModaVibe,Green,M,Polyester,32.24,13.96,Spring/Summer 2024,3/17/2024 0:00
+P0238,TrendWear Beige Shorts,Bottoms,Shorts,TrendWear,Beige,M,Polyester,62.52,29.51,Spring/Summer 2023,2/23/2023 0:00
+P0499,StyleCo Pink Skirt,Bottoms,Skirt,StyleCo,Pink,M,Wool,39,14.88,Spring/Summer 2024,2/29/2024 0:00
+P0298,ClassicMode Yellow Hat,Accessories,Hat,ClassicMode,Yellow,M,Denim,27.08,10.3,Spring/Summer 2024,3/19/2024 0:00
+P0275,ModaVibe Gray Tank Top,Tops,Tank Top,ModaVibe,Gray,M,,45.87,19.48,Spring/Summer 2024,2/13/2024 0:00
+P0092,ClassicMode Beige Bag,Accessories,Bag,ClassicMode,Beige,M,Polyester,29.34,13.92,Fall/Winter 2023,8/5/2023 0:00
+P0661,ModaVibe Brown Cocktail Dress,Dresses,Cocktail Dress,ModaVibe,Brown,M,Blend,82.92,37.25,Spring/Summer 2023,3/29/2023 0:00
+P0164,StyleCo Beige Scarf,Accessories,Scarf,StyleCo,Beige,M,,28.25,11.53,Fall/Winter 2023,9/26/2023 0:00
+P0272,UrbanChic Purple Hat,Accessories,Hat,UrbanChic,Purple,M,,32.71,13.98,Fall/Winter 2024,8/9/2024 0:00
+P0409,TrendWear Red Sweater,Tops,Sweater,TrendWear,Red,M,Blend,25.36,11.77,Spring/Summer 2023,3/9/2023 0:00
+P0681,TrendWear Blue Scarf,Accessories,Scarf,TrendWear,Blue,M,Denim,17.71,8.46,Fall/Winter 2024,8/29/2024 0:00
+P0669,ClassicMode Green Blouse,Tops,Blouse,ClassicMode,Green,M,Wool,40.99,18.9,Fall/Winter 2024,8/23/2024 0:00
+P0359,StyleCo Gray Scarf,Accessories,Scarf,StyleCo,Gray,M,Wool,25.04,10.55,Fall/Winter 2024,8/25/2024 0:00
+P0042,ClassicMode White Mini Dress,Dresses,Mini Dress,ClassicMode,White,M,Denim,91.79,35.52,Spring/Summer 2023,4/2/2023 0:00
+P0640,ModaVibe Gray Skirt,Bottoms,Skirt,ModaVibe,Gray,M,Cotton,52.42,21.71,Spring/Summer 2024,3/23/2024 0:00
+P0554,UrbanChic Red Blouse,Tops,Blouse,UrbanChic,Red,M,Polyester,49.5,24.65,Fall/Winter 2024,9/6/2024 0:00
+P0644,UrbanChic Blue Mini Dress,Dresses,Mini Dress,UrbanChic,Blue,M,Denim,49.42,17.44,Spring/Summer 2023,3/19/2023 0:00
+P0590,ModaVibe Gray Shorts,Bottoms,Shorts,ModaVibe,Gray,M,Blend,68.04,33.51,Fall/Winter 2023,9/11/2023 0:00
+P0557,ClassicMode Brown Mini Dress,Dresses,Mini Dress,ClassicMode,Brown,M,Silk,77.45,34.47,Spring/Summer 2023,2/9/2023 0:00
+P0067,ModaVibe Brown Hat,Accessories,Hat,ModaVibe,Brown,M,Wool,25.91,12.72,Fall/Winter 2023,8/13/2023 0:00
+P0568,ModaVibe Navy T-Shirt,Tops,T-Shirt,ModaVibe,Navy,M,Cotton,41.46,15.36,Spring/Summer 2024,3/11/2024 0:00
+P0342,ClassicMode Neon Pink Belt,Accessories,Belt,ClassicMode,Neon Pink,M,,35.64,14.09,Fall/Winter 2023,9/25/2023 0:00
+P0716,ClassicMode Beige Hoodie,Activewear,Hoodie,ClassicMode,Beige,M,Polyester,62.25,22.96,Fall/Winter 2023,8/12/2023 0:00
+P0596,ClassicMode Red Scarf,Accessories,Scarf,ClassicMode,Red,M,Silk,29.29,12.47,Fall/Winter 2024,9/12/2024 0:00
+P0113,ModaVibe Pink Belt,Accessories,Belt,ModaVibe,Pink,M,Denim,35.67,14.08,Fall/Winter 2024,8/29/2024 0:00
+P0709,StyleCo Pink Bag,Accessories,Bag,StyleCo,Pink,M,Denim,24.19,9.78,Fall/Winter 2024,9/17/2024 0:00
+P0109,StyleCo Green Bag,Accessories,Bag,StyleCo,Green,M,Blend,23.19,9.78,Spring/Summer 2023,3/9/2023 0:00
+P0362,UrbanChic Neon Pink Bag,Accessories,Bag,UrbanChic,Neon Pink,M,Denim,18.99,9.28,Spring/Summer 2023,4/1/2023 0:00
+P0649,ClassicMode Beige Sports Bra,Activewear,Sports Bra,ClassicMode,Beige,M,Cotton,39.38,16.66,Spring/Summer 2024,2/3/2024 0:00
+P0755,TrendWear Gray Scarf,Accessories,Scarf,TrendWear,Gray,M,Wool,35.3,12.78,Fall/Winter 2024,9/29/2024 0:00
+P0138,TrendWear Neon Pink Bag,Accessories,Bag,TrendWear,Neon Pink,M,Silk,23.86,10.04,Fall/Winter 2024,8/3/2024 0:00
+P0763,ModaVibe Navy Hat,Accessories,Hat,ModaVibe,Navy,M,Denim,28.41,11.54,Fall/Winter 2023,9/6/2023 0:00
+P0522,StyleCo Yellow T-Shirt,Tops,T-Shirt,StyleCo,Yellow,M,Blend,32.51,13.99,Spring/Summer 2023,3/23/2023 0:00
+P0451,UrbanChic Blue Scarf,Accessories,Scarf,UrbanChic,Blue,M,Denim,27.98,10.9,Fall/Winter 2024,8/18/2024 0:00
+P0547,UrbanChic Orange Belt,Accessories,Belt,UrbanChic,Orange,M,Wool,28.19,13.19,Fall/Winter 2023,9/13/2023 0:00
+P0247,TrendWear Gray Sweater,Tops,Sweater,TrendWear,Gray,M,Blend,37.02,16.99,Fall/Winter 2024,8/23/2024 0:00
+P0699,StyleCo Brown Blouse,Tops,Blouse,StyleCo,Brown,M,Blend,50.81,18.03,Fall/Winter 2024,8/31/2024 0:00
+P0398,ClassicMode Navy Pants,Bottoms,Pants,ClassicMode,Navy,M,Denim,65.52,24.87,Spring/Summer 2023,3/20/2023 0:00
+P0131,UrbanChic Gray Belt,Accessories,Belt,UrbanChic,Gray,M,Cotton,25.66,9.85,Spring/Summer 2023,3/8/2023 0:00
+P0688,UrbanChic Brown Shorts,Bottoms,Shorts,UrbanChic,Brown,M,Denim,61.08,23.74,Spring/Summer 2023,3/24/2023 0:00
+P0611,UrbanChic Red Belt,Accessories,Belt,UrbanChic,Red,M,Silk,32,12.13,Fall/Winter 2023,9/19/2023 0:00
+P0006,ClassicMode Navy Maxi Dress,Dresses,Maxi Dress,ClassicMode,Navy,M,Cotton,89.57,39.46,Spring/Summer 2023,2/23/2023 0:00
+P0189,UrbanChic Blue Tank Top,Tops,Tank Top,UrbanChic,Blue,M,Silk,48.86,21.25,Spring/Summer 2023,2/12/2023 0:00
+P0726,StyleCo Navy Tank,Activewear,Tank Top,StyleCo,Navy,M,Cotton,42.05,16.18,Fall/Winter 2024,9/21/2024 0:00
+P0663,ClassicMode Beige Coat,Outerwear,Coat,ClassicMode,Beige,M,Denim,110.78,51.53,Fall/Winter 2023,9/20/2023 0:00
+P0686,UrbanChic Beige Blazer,Outerwear,Blazer,UrbanChic,Beige,M,Silk,112.58,42.69,Spring/Summer 2024,2/15/2024 0:00
+P0752,UrbanChic Purple Hoodie,Activewear,Hoodie,UrbanChic,Purple,M,Polyester,50.34,18.12,Spring/Summer 2023,2/7/2023 0:00
+P0655,ClassicMode Gray Hoodie,Activewear,Hoodie,ClassicMode,Gray,M,,63.25,26.31,Spring/Summer 2023,3/5/2023 0:00
+P0063,UrbanChic Blue Hoodie,Activewear,Hoodie,UrbanChic,Blue,M,Silk,53.32,22.75,Spring/Summer 2024,2/28/2024 0:00
+P0151,StyleCo Blue Hoodie,Activewear,Hoodie,StyleCo,Blue,M,Wool,52.09,22.72,Fall/Winter 2023,8/25/2023 0:00
+P0548,ModaVibe Beige Tank,Activewear,Tank Top,ModaVibe,Beige,M,Denim,37.62,16.88,Spring/Summer 2024,3/26/2024 0:00
+P0348,TrendWear Navy Tank,Activewear,Tank Top,TrendWear,Navy,M,Polyester,39.78,17.32,Fall/Winter 2023,8/22/2023 0:00
+P0641,TrendWear Black Blazer,Outerwear,Blazer,TrendWear,Black,M,Blend,122.73,50.98,Fall/Winter 2023,9/15/2023 0:00
+P0074,TrendWear Red Hoodie,Activewear,Hoodie,TrendWear,Red,M,Cotton,65.99,28.22,Fall/Winter 2023,9/21/2023 0:00
+P0658,ClassicMode Navy Hoodie,Activewear,Hoodie,ClassicMode,Navy,M,Cotton,37.3,17.72,Fall/Winter 2023,9/7/2023 0:00
+P0183,ClassicMode Pink Maxi Dress,Dresses,Maxi Dress,ClassicMode,Pink,M,Denim,83.92,39.59,Spring/Summer 2023,3/20/2023 0:00
+P0427,StyleCo Beige Cocktail Dress,Dresses,Cocktail Dress,StyleCo,Beige,M,Wool,97.28,47.32,Fall/Winter 2024,8/13/2024 0:00
+P0578,ClassicMode Beige Shorts,Bottoms,Shorts,ClassicMode,Beige,M,Polyester,57.06,27.56,Fall/Winter 2024,9/21/2024 0:00
+P0305,ClassicMode Gray Pants,Bottoms,Pants,ClassicMode,Gray,M,Blend,71.46,34.36,Fall/Winter 2023,9/29/2023 0:00
+P0458,ModaVibe Yellow Mini Dress,Dresses,Mini Dress,ModaVibe,Yellow,M,Blend,49.08,20.6,Spring/Summer 2023,2/26/2023 0:00
+P0653,ClassicMode Gray Coat,Outerwear,Coat,ClassicMode,Gray,M,Cotton,111.16,53.88,Fall/Winter 2024,8/24/2024 0:00
+P0209,StyleCo Navy Shorts,Bottoms,Shorts,StyleCo,Navy,M,Denim,64.64,26.35,Spring/Summer 2023,3/12/2023 0:00
+P0372,ClassicMode Blue Skirt,Bottoms,Skirt,ClassicMode,Blue,M,Cotton,62.91,25.87,Fall/Winter 2024,9/5/2024 0:00
+P0773,StyleCo Gray Sweater,Tops,Sweater,StyleCo,Gray,M,Polyester,25.65,11.05,Spring/Summer 2024,3/5/2024 0:00
+P0650,UrbanChic Navy Midi Dress,Dresses,Mini Dress,UrbanChic,,M,Blend,80.27,34.33,Fall/Winter 2023,8/3/2023 0:00
+P0032,ClassicMode Brown Skirt,Bottoms,Skirt,ClassicMode,Brown,M,Blend,42.65,19.14,Fall/Winter 2024,8/13/2024 0:00
+P0288,StyleCo Beige Skirt,Bottoms,Skirt,StyleCo,Beige,M,Silk,61.57,28.21,Fall/Winter 2024,8/11/2024 0:00
+P0263,TrendWear Gray Skirt,Bottoms,Skirt,TrendWear,Gray,M,Cotton,78.57,28.15,Fall/Winter 2024,9/2/2024 0:00
+P0459,UrbanChic Purple Midi Dress,Dresses,Mini Dress,UrbanChic,Purple,M,Blend,69.25,28.07,Spring/Summer 2023,3/8/2023 0:00
+P0121,ClassicMode Red Sweater,Tops,Sweater,ClassicMode,Red,M,Blend,25.62,10.63,Spring/Summer 2023,3/11/2023 0:00
+P0280,ModaVibe Blue Tank Top,Tops,Tank Top,ModaVibe,Blue,M,Denim,35.32,14.75,Spring/Summer 2024,2/5/2024 0:00
+P0516,ModaVibe Brown Pants,Bottoms,Pants,ModaVibe,Brown,M,Wool,51.65,21.14,Fall/Winter 2023,8/31/2023 0:00
+P0587,ClassicMode Blue Maxi Dress,Dresses,Maxi Dress,ClassicMode,Blue,M,Silk,75.3,27.35,Fall/Winter 2024,9/21/2024 0:00
+P0191,UrbanChic Brown Pants,Bottoms,Pants,UrbanChic,Brown,M,Denim,52.21,20.81,Fall/Winter 2023,8/24/2023 0:00
+P0706,TrendWear Gray Mini Dress,Dresses,Mini Dress,TrendWear,Gray,M,Silk,87.39,32.9,Fall/Winter 2023,8/31/2023 0:00
+P0672,ModaVibe Blue Maxi Dress,Dresses,Maxi Dress,ModaVibe,Blue,M,Blend,79.54,36.04,Spring/Summer 2023,2/25/2023 0:00
+P0683,StyleCo Pink Mini Dress,Dresses,Mini Dress,StyleCo,Pink,M,Cotton,79.56,39.49,Spring/Summer 2024,2/16/2024 0:00
+P0314,TrendWear Navy Shorts,Bottoms,Shorts,TrendWear,Navy,M,Wool,60.61,29.35,Fall/Winter 2024,9/13/2024 0:00
+P0143,ModaVibe Purple Sweater,Tops,Sweater,ModaVibe,Purple,M,Blend,26.42,11.75,Spring/Summer 2023,3/12/2023 0:00
+P0503,TrendWear Blue Skirt,Bottoms,Skirt,TrendWear,Blue,M,Cotton,73.66,26.15,Fall/Winter 2024,8/5/2024 0:00
+P0439,UrbanChic Red Pants,Bottoms,Pants,UrbanChic,Red,M,Silk,78.01,38.47,Spring/Summer 2023,3/23/2023 0:00
+P0347,StyleCo Navy Mini Dress,Dresses,Mini Dress,StyleCo,Navy,M,Silk,94.11,41.11,Spring/Summer 2024,3/7/2024 0:00
+P0161,StyleCo Pink Shorts,Bottoms,Shorts,StyleCo,Pink,M,Denim,39.6,19.11,Fall/Winter 2023,8/31/2023 0:00
+P0016,ModaVibe Navy Cardigan,Outerwear,Cardigan,ModaVibe,Navy,M,Denim,83.17,41.55,Fall/Winter 2024,8/24/2024 0:00
+P0117,UrbanChic Red Tank Top,Tops,Tank Top,UrbanChic,Red,M,Wool,43.75,21.38,Fall/Winter 2024,8/5/2024 0:00
+P0073,ClassicMode Green Sweater,Tops,Sweater,ClassicMode,Green,M,Cotton,28.63,12.97,Fall/Winter 2024,8/16/2024 0:00
+P0733,TrendWear Purple Jeans,Bottoms,Jeans,TrendWear,Purple,M,Silk,48.06,19.85,Spring/Summer 2023,3/4/2023 0:00
+P0225,UrbanChic Beige Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Beige,M,Blend,89.49,42.75,Spring/Summer 2023,3/18/2023 0:00
+P0582,StyleCo Gray Maxi Dress,Dresses,Maxi Dress,StyleCo,Gray,M,Wool,61.84,28.18,Spring/Summer 2024,3/13/2024 0:00
+P0710,UrbanChic Purple Midi Dress,Dresses,Mini Dress,UrbanChic,Purple,M,Denim,51.8,24.87,Spring/Summer 2023,2/27/2023 0:00
+P0684,ClassicMode Beige Midi Dress,Dresses,Mini Dress,ClassicMode,Beige,M,,66.05,28.92,Spring/Summer 2024,3/14/2024 0:00
+P0800,TrendWear Red Maxi Dress,Dresses,Maxi Dress,TrendWear,Red,M,Blend,91.24,41.88,Spring/Summer 2024,3/25/2024 0:00
+P0022,TrendWear Navy Blouse,Tops,Blouse,TrendWear,Navy,M,,29.02,14.31,Spring/Summer 2024,3/20/2024 0:00
+P0580,ModaVibe Navy Cocktail Dress,Dresses,Cocktail Dress,ModaVibe,Navy,M,Denim,77.29,36.08,Fall/Winter 2024,8/12/2024 0:00
+P0220,UrbanChic Red T-Shirt,Tops,T-Shirt,UrbanChic,Red,M,Wool,35.05,13.12,Fall/Winter 2023,9/8/2023 0:00
+P0174,ModaVibe Blue Cocktail Dress,Dresses,Cocktail Dress,ModaVibe,Blue,M,Blend,48.81,20.37,Spring/Summer 2023,3/20/2023 0:00
+P0519,TrendWear White Mini Dress,Dresses,Mini Dress,TrendWear,White,M,Cotton,92.86,45.23,Spring/Summer 2024,2/21/2024 0:00
+P0487,TrendWear Red Mini Dress,Dresses,Mini Dress,TrendWear,Red,M,Denim,83.88,33.87,Spring/Summer 2024,3/23/2024 0:00
+P0412,ClassicMode Red Maxi Dress,Dresses,Maxi Dress,ClassicMode,Red,M,Polyester,50.83,24.12,Fall/Winter 2023,8/28/2023 0:00
+P0114,UrbanChic Beige Cocktail Dress,Dresses,Cocktail Dress,UrbanChic,Beige,M,Polyester,95.43,34.82,Spring/Summer 2023,3/12/2023 0:00
+P0484,StyleCo Beige Coat,Outerwear,Coat,StyleCo,Beige,M,Blend,127.96,53.84,Spring/Summer 2024,2/4/2024 0:00
+P0007,ModaVibe Navy Sweater,Tops,Sweater,ModaVibe,Navy,M,,35.1,15.19,Spring/Summer 2023,4/1/2023 0:00
+P0761,ModaVibe Navy Sweater,Tops,Sweater,ModaVibe,Navy,M,Silk,28.93,14.46,Spring/Summer 2024,3/14/2024 0:00
+P0502,StyleCo Gray Sweater,Tops,Sweater,StyleCo,Gray,M,Wool,48.69,21.8,Fall/Winter 2024,9/20/2024 0:00
+P0779,TrendWear Gray Mini Dress,Dresses,Mini Dress,TrendWear,Gray,M,Denim,85.89,34.23,Spring/Summer 2023,2/18/2023 0:00
+P0248,UrbanChic Green Sweater,Tops,Sweater,UrbanChic,Green,M,Denim,43.29,17.79,Spring/Summer 2023,2/5/2023 0:00
+P0245,StyleCo Beige Blazer,Outerwear,Blazer,StyleCo,Beige,M,Polyester,99.23,49.54,Fall/Winter 2024,8/6/2024 0:00
+P0221,ClassicMode Mustard Blouse,Tops,Blouse,ClassicMode,Mustard,M,Silk,34.7,15.89,Spring/Summer 2023,2/27/2023 0:00
+P0783,StyleCo Navy Coat,Outerwear,Coat,StyleCo,Navy,M,Polyester,70.64,34.78,Spring/Summer 2023,3/20/2023 0:00
+P0322,StyleCo Navy Tank Top,Tops,Tank Top,StyleCo,Navy,M,Denim,47.36,21.87,Fall/Winter 2024,8/17/2024 0:00
+P0291,StyleCo Navy Sweater,Tops,Sweater,StyleCo,Navy,M,Wool,30.31,12.09,Fall/Winter 2023,9/3/2023 0:00
+P0410,UrbanChic Mustard T-Shirt,Tops,T-Shirt,UrbanChic,Mustard,M,Denim,32.58,15.22,Fall/Winter 2023,9/4/2023 0:00
+P0323,StyleCo Navy Jacket,Outerwear,Jacket,StyleCo,Navy,M,,119.73,51.62,Fall/Winter 2024,8/23/2024 0:00

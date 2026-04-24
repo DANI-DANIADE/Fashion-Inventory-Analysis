@@ -1,0 +1,801 @@
+Product_ID,Stock_Ordered,Units_Sold,Stock_Remaining,Sell_Through_Rate,Days_In_Stock,Markdown_Loss,Markdown_Category,Status,Risk_Score,Risk_Category
+P0146,112,97,15,86.61,307,822.22,Critical,Active,3,Safe
+P0572,120,38,82,31.67,143,200.71,Medium,Deadstock,18.6,Safe
+P0230,81,47,34,58.02,276,214.79,Medium,Slow Moving,27,Safe
+P0203,97,65,32,67.01,666,424.91,High,Active,9.4,Safe
+P0186,77,50,27,64.94,138,188.07,Low,Slow Moving,7.1,Safe
+P0211,83,55,28,66.27,289,459.27,High,Active,30.6,Moderate
+P0157,113,44,69,38.94,281,259.5,Medium,Deadstock,53.8,Risky
+P0643,62,62,0,100,185,274.58,Medium,Sold Out,12.2,Safe
+P0241,81,26,55,32.1,100,39.72,Low,Deadstock,13.7,Safe
+P0638,98,41,57,41.84,326,145.37,Low,Deadstock,29.2,Safe
+P0274,86,31,55,36.05,97,104.33,Low,Slow Moving,40.8,Moderate
+P0385,101,81,20,80.2,319,694.17,High,Active,26.1,Safe
+P0210,63,52,11,82.54,498,674.9,High,Active,5,Safe
+P0486,120,37,83,30.83,130,61.54,Low,Deadstock,26.2,Safe
+P0118,98,73,25,74.49,665,145.2,Low,Active,18.4,Safe
+P0240,93,56,37,60.22,516,199.89,Low,Slow Moving,-5.8,Very Safe
+P0585,66,66,0,100,207,433.51,High,Sold Out,27.2,Safe
+P0500,72,72,0,100,171,259.46,Medium,Sold Out,30.6,Moderate
+P0058,88,46,42,52.27,675,454.25,High,Slow Moving,25.2,Safe
+P0788,65,49,16,75.38,111,234.45,Medium,Active,5.2,Safe
+P0579,112,30,82,26.79,639,196.68,Low,Deadstock,33.9,Moderate
+P0380,115,60,55,52.17,296,497.13,High,Slow Moving,18,Safe
+P0315,87,57,30,65.52,311,701.84,Critical,Active,43.6,Moderate
+P0091,67,42,25,62.69,328,177.92,Low,Slow Moving,43,Moderate
+P0715,95,50,45,52.63,135,736.82,Critical,Slow Moving,21.8,Safe
+P0037,69,69,0,100,153,282.99,Medium,Sold Out,-3.3,Very Safe
+P0513,68,68,0,100,147,320.57,Medium,Sold Out,27.9,Safe
+P0101,71,70,1,98.59,513,452.92,High,Active,17.1,Safe
+P0079,75,75,0,100,241,319.99,Medium,Sold Out,28.2,Safe
+P0627,102,32,70,31.37,124,113.81,Low,Deadstock,23.9,Safe
+P0253,110,65,45,59.09,652,266.19,Medium,Slow Moving,34.8,Moderate
+P0264,78,78,0,100,206,191.72,Low,Sold Out,-7.2,Very Safe
+P0450,60,25,35,41.67,471,153.01,Low,Deadstock,52.3,Risky
+P0523,102,62,40,60.78,111,475.64,High,Slow Moving,-1.8,Very Safe
+P0171,60,57,3,95,682,533.86,High,Active,37.3,Moderate
+P0601,81,59,22,72.84,289,170.87,Low,Active,18.9,Safe
+P0049,77,59,18,76.62,652,252,Medium,Active,-14.5,Very Safe
+P0238,118,53,65,44.92,677,362.57,Medium,Deadstock,14.5,Safe
+P0764,89,40,49,44.94,124,228.96,Medium,Slow Moving,33.1,Moderate
+P0499,90,77,13,85.56,306,300.3,Medium,Active,16.8,Safe
+P0617,104,52,52,50,320,172.31,Low,Slow Moving,21,Safe
+P0237,72,71,1,98.61,677,187.55,Low,Active,25.2,Safe
+P0675,157,71,86,45.22,141,117.03,Low,Slow Moving,-17.5,Very Safe
+P0308,63,58,5,92.06,678,273.91,Medium,Active,35.1,Moderate
+P0275,79,58,21,73.42,322,275.19,Medium,Active,11.2,Safe
+P0135,60,60,0,100,128,177.56,Low,Sold Out,28.7,Safe
+P0092,100,56,44,56,514,205.33,Medium,Slow Moving,7.9,Safe
+P0056,66,49,17,74.24,467,261.01,Medium,Active,12.1,Safe
+P0661,63,46,17,73.02,643,472.64,High,Active,29.1,Safe
+P0623,119,54,65,45.38,469,308.59,Medium,Deadstock,7.7,Safe
+P0798,106,50,56,47.17,290,484.78,High,Deadstock,23.4,Safe
+P0694,120,45,75,37.5,487,243.77,Medium,Deadstock,9.1,Safe
+P0483,104,63,41,60.58,310,539.82,High,Slow Moving,53.4,Risky
+P0375,110,85,25,77.27,475,198.29,Low,Active,27.5,Safe
+P0165,108,79,29,73.15,462,245.54,Medium,Active,-4.8,Very Safe
+P0720,99,70,29,70.71,517,236.95,Medium,Active,17.1,Safe
+P0633,88,84,4,95.45,511,318.63,Medium,Active,-3.9,Very Safe
+P0201,64,50,14,78.12,98,142.8,Low,Active,10.2,Safe
+P0304,108,38,70,35.19,96,129.44,Low,Slow Moving,20.1,Safe
+P0428,79,40,39,50.63,329,511.48,High,Slow Moving,48.8,Moderate
+P0409,100,69,31,69,663,185.2,Low,Active,14.1,Safe
+P0407,118,75,43,63.56,644,759.78,Critical,Slow Moving,38.8,Moderate
+P0669,72,39,33,54.17,130,110.7,Low,Slow Moving,20.7,Safe
+P0005,107,87,20,81.31,325,313.99,Medium,Active,0.9,Safe
+P0036,78,58,20,74.36,696,563.74,High,Active,27.9,Safe
+P0268,76,76,0,100,181,468.67,High,Sold Out,16.8,Safe
+P0042,79,44,35,55.7,639,339.66,Medium,Slow Moving,6.4,Safe
+P0719,111,84,27,75.68,133,367.56,Medium,Active,4.5,Safe
+P0139,61,59,2,96.72,150,517.48,High,Active,22.2,Safe
+P0148,62,62,0,100,150,144.28,Low,Sold Out,7.3,Safe
+P0251,100,63,37,63,475,385.84,Medium,Slow Moving,33.3,Moderate
+P0393,71,71,0,100,101,210.38,Medium,Sold Out,-3.7,Very Safe
+P0640,95,66,29,69.47,283,324.98,Medium,Active,12.5,Safe
+P0076,92,30,62,32.61,99,166.79,Low,Deadstock,41.5,Moderate
+P0178,91,28,63,30.77,295,63.35,Low,Deadstock,29,Safe
+P0075,104,42,62,40.38,144,331.23,Medium,Slow Moving,17.4,Safe
+P0554,91,39,52,42.86,116,89.1,Low,Slow Moving,18.9,Safe
+P0644,91,74,17,81.32,653,326.16,Medium,Active,15.4,Safe
+P0767,65,65,0,100,200,294.3,Medium,Sold Out,14.5,Safe
+P0590,115,46,69,40,477,380.99,Medium,Deadstock,15.6,Safe
+P0557,84,58,26,69.05,691,433.82,High,Active,28,Safe
+P0172,118,60,58,50.85,657,209.04,Medium,Slow Moving,4.5,Safe
+P0293,117,32,85,27.35,291,400.54,High,Deadstock,54,Risky
+P0438,118,47,71,39.83,321,128.03,Low,Deadstock,21.1,Safe
+P0012,97,59,38,60.82,475,144,Low,Slow Moving,37.8,Moderate
+P0426,89,54,35,60.67,151,239.05,Medium,Slow Moving,23.4,Safe
+P0568,62,52,10,83.87,295,211.49,Medium,Active,3.3,Safe
+P0716,80,58,22,72.5,507,429.64,High,Active,14.5,Safe
+P0179,76,46,30,60.53,305,233.59,Medium,Slow Moving,39.4,Moderate
+P0292,87,38,49,43.68,132,138.51,Low,Slow Moving,-7.2,Very Safe
+P0652,66,20,46,30.3,281,393.28,Medium,Deadstock,67.6,Risky
+P0754,65,65,0,100,136,191.22,Low,Sold Out,19.5,Safe
+P0281,107,51,56,47.66,691,509.86,High,Deadstock,33.2,Moderate
+P0173,83,69,14,83.13,333,217.41,Medium,Active,43.4,Moderate
+P0591,102,31,71,30.39,131,138.92,Low,Deadstock,45.1,Moderate
+P0649,100,92,8,92,332,366.23,Medium,Active,9.9,Safe
+P0284,71,69,2,97.18,324,491.04,High,Active,-1.3,Very Safe
+P0295,94,79,15,84.04,289,461.51,High,Active,-1.2,Very Safe
+P0014,85,34,51,40,127,113.35,Low,Slow Moving,-12.6,Very Safe
+P0307,104,32,72,30.77,96,104.48,Low,Deadstock,10.6,Safe
+P0456,75,73,2,97.33,319,469.96,High,Active,42.4,Moderate
+P0132,87,41,46,47.13,487,357.94,Medium,Deadstock,28,Safe
+P0447,63,63,0,100,153,388.17,Medium,Sold Out,-3.9,Very Safe
+P0539,102,33,69,32.35,289,175.37,Low,Deadstock,44.3,Moderate
+P0055,104,79,25,75.96,476,646.41,High,Active,40.4,Moderate
+P0261,68,39,29,57.35,103,175.69,Low,Slow Moving,30,Moderate
+P0522,85,69,16,81.18,649,227.5,Medium,Active,22.5,Safe
+P0339,90,64,26,71.11,502,532.67,High,Active,40.9,Moderate
+P0098,88,26,62,29.55,137,177.49,Low,Deadstock,32.9,Moderate
+P0637,110,65,45,59.09,681,337.74,Medium,Slow Moving,-8.8,Very Safe
+P0400,62,46,16,74.19,648,171.18,Low,Active,24.5,Safe
+P0044,89,89,0,100,255,562.24,High,Sold Out,17,Safe
+P0527,91,61,30,67.03,499,642.73,High,Active,26.8,Safe
+P0163,83,78,5,93.98,691,411.67,High,Active,29.6,Safe
+P0628,112,46,66,41.07,658,105.27,Low,Deadstock,25.4,Safe
+P0352,90,31,59,34.44,144,166.95,Low,Deadstock,35.4,Moderate
+P0247,107,66,41,61.68,130,162.83,Low,Slow Moving,9.4,Safe
+P0699,101,35,66,34.65,122,167.64,Low,Deadstock,22.7,Safe
+P0747,87,44,43,50.57,140,149.93,Low,Slow Moving,13,Safe
+P0218,70,70,0,100,180,287.49,Medium,Sold Out,25.1,Safe
+P0398,104,42,62,40.38,652,288.29,Medium,Deadstock,8.1,Safe
+P0515,119,68,51,57.14,646,427.61,High,Slow Moving,24.1,Safe
+P0688,70,51,19,72.86,648,360.37,Medium,Active,24.7,Safe
+P0231,75,75,0,100,183,181.69,Low,Sold Out,7.3,Safe
+P0233,84,43,41,51.19,646,249.18,Medium,Slow Moving,20.5,Safe
+P0103,94,41,53,43.62,292,326.91,Medium,Deadstock,17.8,Safe
+P0006,87,55,32,63.22,677,555.27,High,Slow Moving,12.9,Safe
+P0189,72,61,11,84.72,688,376.25,Medium,Active,15.3,Safe
+P0656,116,76,40,65.52,321,369.82,Medium,Active,-3,Very Safe
+P0108,88,52,36,59.09,696,618.81,High,Slow Moving,35.7,Moderate
+P0290,105,34,71,32.38,143,160.72,Low,Deadstock,49.4,Moderate
+P0397,100,59,41,59,467,179.19,Low,Slow Moving,36.2,Moderate
+P0787,62,62,0,100,168,308.2,Medium,Sold Out,6.7,Safe
+P0464,94,37,57,39.36,697,268.7,Medium,Deadstock,23.8,Safe
+P0753,120,55,65,45.83,512,371.15,Medium,Deadstock,19,Safe
+P0674,75,70,5,93.33,295,533.35,High,Active,40.5,Moderate
+P0521,72,72,0,100,121,137.18,Low,Sold Out,5.2,Safe
+P0663,80,47,33,58.75,468,432.06,High,Slow Moving,24.2,Safe
+P0270,92,41,51,44.57,148,115.68,Low,Slow Moving,13.3,Safe
+P0732,67,57,10,85.07,326,279.88,Medium,Active,-8.5,Very Safe
+P0567,111,18,93,16.22,474,62.4,Low,Deadstock,36.7,Moderate
+P0689,89,49,40,55.06,116,211.91,Medium,Slow Moving,31.6,Moderate
+P0726,120,62,58,51.67,101,130.38,Low,Slow Moving,3.4,Safe
+P0686,64,53,11,82.81,320,776.86,Critical,Active,24.5,Safe
+P0418,115,57,58,49.57,94,119.19,Low,Slow Moving,-9.3,Very Safe
+P0670,98,96,2,97.96,502,423.57,High,Active,-12.8,Very Safe
+P0796,79,79,0,100,179,323.96,Medium,Sold Out,11.8,Safe
+P0167,88,28,60,31.82,300,135.05,Low,Deadstock,40.1,Moderate
+P0317,67,67,0,100,122,116.81,Low,Sold Out,10,Safe
+P0080,108,57,51,52.78,126,275.88,Medium,Slow Moving,26.5,Safe
+P0790,76,76,0,100,213,392.89,Medium,Sold Out,15.5,Safe
+P0759,101,47,54,46.53,483,178.63,Low,Deadstock,25.5,Safe
+P0051,61,61,0,100,191,155.79,Low,Sold Out,-1.8,Very Safe
+P0510,88,88,0,100,256,254.52,Medium,Sold Out,18.6,Safe
+P0373,105,28,77,26.67,661,191.5,Low,Deadstock,36.3,Moderate
+P0705,114,63,51,55.26,283,392.81,Medium,Slow Moving,37.6,Moderate
+P0318,78,51,27,65.38,330,599.28,High,Active,35.2,Moderate
+P0151,103,48,55,46.6,494,234.45,Medium,Deadstock,15.9,Safe
+P0271,64,46,18,71.88,497,145.2,Low,Active,26.9,Safe
+P0388,114,54,60,47.37,476,616.52,High,Deadstock,21,Safe
+P0086,120,44,76,36.67,310,285.66,Medium,Deadstock,40.1,Moderate
+P0690,63,63,0,100,79,83.28,Low,Sold Out,-1.4,Very Safe
+P0133,83,63,20,75.9,122,82.77,Low,Active,16.5,Safe
+P0704,81,81,0,100,203,164.58,Low,Sold Out,-13.3,Very Safe
+P0010,81,44,37,54.32,321,258.4,Medium,Slow Moving,39.1,Moderate
+P0687,106,60,46,56.6,492,640.29,High,Slow Moving,46.5,Moderate
+P0286,74,60,14,81.08,673,493.03,High,Active,-7.3,Very Safe
+P0492,111,78,33,70.27,330,339.18,Medium,Active,12,Safe
+P0083,68,46,22,67.65,501,157.81,Low,Active,55.3,Risky
+P0065,71,44,27,61.97,148,80.29,Low,Slow Moving,21.3,Safe
+P0470,85,55,30,64.71,133,197.54,Low,Slow Moving,35.1,Moderate
+P0647,108,35,73,32.41,120,146.31,Low,Deadstock,9.7,Safe
+P0222,99,74,25,74.75,484,509.83,High,Active,-5.9,Very Safe
+P0463,98,44,54,44.9,485,321.12,Medium,Deadstock,15.9,Safe
+P0606,96,43,53,44.79,325,150.92,Low,Deadstock,11.9,Safe
+P0120,64,33,31,51.56,670,227.04,Medium,Slow Moving,33.3,Moderate
+P0626,76,76,0,100,206,421.41,High,Sold Out,15.4,Safe
+P0445,116,31,85,26.72,667,410.96,High,Deadstock,66.7,Risky
+P0204,95,94,1,98.95,512,815.18,Critical,Active,3,Safe
+P0641,101,69,32,68.32,473,883.68,Critical,Active,2,Safe
+P0227,93,27,66,29.03,96,34.3,Low,Deadstock,30.9,Moderate
+P0685,61,61,0,100,191,379.89,Medium,Sold Out,41.6,Moderate
+P0300,67,67,0,100,172,130.8,Low,Sold Out,1.9,Safe
+P0574,91,76,15,83.52,463,318.52,Medium,Active,-8,Very Safe
+P0122,112,26,86,23.21,685,137.4,Low,Deadstock,35.7,Moderate
+P0337,91,23,68,25.27,137,152.43,Low,Deadstock,24.9,Safe
+P0162,99,60,39,60.61,477,280.75,Medium,Slow Moving,33.8,Moderate
+P0168,96,50,46,52.08,511,409.35,High,Slow Moving,21.1,Safe
+P0370,72,72,0,100,190,332.39,Medium,Sold Out,23.1,Safe
+P0645,91,24,67,26.37,103,122.48,Low,Deadstock,31.9,Moderate
+P0301,83,70,13,84.34,518,803.48,Critical,Active,1.6,Safe
+P0152,142,66,76,46.48,135,104.21,Low,Slow Moving,-19,Very Safe
+P0183,73,61,12,83.56,652,520.33,High,Active,25.8,Safe
+P0427,115,50,65,43.48,140,359.94,Medium,Slow Moving,21.5,Safe
+P0060,98,34,64,34.69,131,100.13,Low,Deadstock,31,Moderate
+P0578,103,56,47,54.37,101,211.16,Medium,Slow Moving,13.4,Safe
+P0196,107,71,36,66.36,470,270.48,Medium,Active,-5.7,Very Safe
+P0041,96,55,41,57.29,645,168.08,Low,Slow Moving,28.6,Safe
+P0695,96,37,59,38.54,506,331,Medium,Deadstock,34.5,Moderate
+P0250,117,36,81,30.77,469,274.29,Medium,Deadstock,32.9,Moderate
+P0363,94,59,35,62.77,333,460.56,High,Slow Moving,29.2,Safe
+P0479,115,88,27,76.52,317,741.96,Critical,Active,-3.8,Very Safe
+P0458,85,80,5,94.12,674,402.45,High,Active,25.8,Safe
+P0530,71,41,30,57.75,144,185.32,Low,Slow Moving,21.3,Safe
+P0653,78,45,33,57.69,129,444.68,High,Slow Moving,24.2,Safe
+P0457,97,70,27,72.16,327,544.16,High,Active,27.3,Safe
+P0396,93,63,30,67.74,485,136.5,Low,Active,33.2,Moderate
+P0125,106,50,56,47.17,131,217.7,Medium,Slow Moving,41.4,Moderate
+P0605,79,65,14,82.28,143,91,Low,Active,2.7,Safe
+P0773,118,79,39,66.95,301,254.01,Medium,Active,7.1,Safe
+P0625,120,67,53,55.83,517,422.64,High,Slow Moving,37.7,Moderate
+P0262,74,25,49,33.78,123,52.25,Low,Deadstock,16.7,Safe
+P0748,119,38,81,31.93,514,307.09,Medium,Deadstock,45.1,Moderate
+P0170,82,38,44,46.34,481,137.41,Low,Deadstock,37.4,Moderate
+P0255,70,39,31,55.71,691,413.38,High,Slow Moving,50.5,Risky
+P0611,93,44,49,47.31,469,160,Low,Deadstock,15.4,Safe
+P0035,119,61,58,51.26,144,141.57,Low,Slow Moving,29.3,Safe
+P0228,73,73,0,100,178,254.16,Medium,Sold Out,5.1,Safe
+P0542,91,84,7,92.31,669,172.85,Low,Active,1.8,Safe
+P0734,103,57,46,55.34,678,136.51,Low,Slow Moving,33.4,Moderate
+P0615,112,46,66,41.07,330,236.8,Medium,Deadstock,38.3,Moderate
+P0164,71,64,7,90.14,462,203.41,Medium,Active,7.6,Safe
+P0650,62,59,3,95.16,516,433.47,High,Active,11.1,Safe
+P0599,119,37,82,31.09,126,250.73,Medium,Deadstock,6.8,Safe
+P0032,83,75,8,90.36,140,290.12,Medium,Active,21,Safe
+P0184,103,60,43,58.25,292,283.61,Medium,Slow Moving,29.2,Safe
+P0744,71,42,29,59.15,474,162.01,Low,Slow Moving,40.4,Moderate
+P0592,119,43,76,36.13,693,137.34,Low,Deadstock,24,Safe
+P0546,116,43,73,37.07,128,175.98,Low,Slow Moving,23.8,Safe
+P0416,64,51,13,79.69,296,416.74,High,Active,9.9,Safe
+P0593,72,72,0,100,224,596.68,High,Sold Out,21.9,Safe
+P0430,102,85,17,83.33,699,365.78,Medium,Active,3.6,Safe
+P0104,64,32,32,50,312,198.84,Low,Slow Moving,30.8,Moderate
+P0727,72,33,39,45.83,96,152.74,Low,Slow Moving,28.8,Safe
+P0751,111,17,94,15.32,103,118.69,Low,Deadstock,44.3,Moderate
+P0549,109,70,39,64.22,669,422.4,High,Slow Moving,27.9,Safe
+P0459,93,59,34,63.44,664,450.15,High,Slow Moving,29.9,Safe
+P0197,78,78,0,100,155,424.2,High,Sold Out,6.1,Safe
+P0273,104,62,42,59.62,145,236.26,Medium,Slow Moving,32.1,Moderate
+P0121,106,79,27,74.53,661,217.69,Medium,Active,14.1,Safe
+P0267,86,29,57,33.72,281,300.78,Medium,Deadstock,56.8,Risky
+P0128,111,34,77,30.63,126,84.72,Low,Deadstock,43.1,Moderate
+P0344,99,83,16,83.84,483,327.46,Medium,Active,-13.9,Very Safe
+P0544,75,75,0,100,187,315.7,Medium,Sold Out,25.7,Safe
+P0602,80,80,0,100,192,338.21,Medium,Sold Out,11.8,Safe
+P0081,76,19,57,25,95,46.06,Low,Deadstock,46.1,Moderate
+P0350,95,24,71,25.26,472,312.62,Medium,Deadstock,53.4,Risky
+P0642,92,48,44,52.17,123,70.25,Low,Slow Moving,39.9,Moderate
+P0333,72,72,0,100,210,152.93,Low,Sold Out,7.2,Safe
+P0280,120,87,33,72.5,330,328.46,Medium,Active,12.6,Safe
+P0566,62,62,0,100,127,267.54,Medium,Sold Out,-3.8,Very Safe
+P0160,87,32,55,36.78,291,242.98,Medium,Deadstock,37.3,Moderate
+P0660,96,54,42,56.25,515,177.91,Low,Slow Moving,31.8,Moderate
+P0193,87,24,63,27.59,121,84.78,Low,Deadstock,34.9,Moderate
+P0023,117,55,62,47.01,303,241.8,Medium,Deadstock,41.8,Moderate
+P0182,88,60,28,68.18,475,519.21,High,Active,36.3,Moderate
+P0276,86,74,12,86.05,303,158.1,Low,Active,3.6,Safe
+P0749,81,47,34,58.02,650,166.47,Low,Slow Moving,28.1,Safe
+P0587,83,41,42,49.4,101,150.6,Low,Slow Moving,20.6,Safe
+P0123,63,30,33,47.62,651,137.07,Low,Deadstock,31,Moderate
+P0784,90,38,52,42.22,290,375.49,Medium,Deadstock,46.5,Moderate
+P0332,78,39,39,50,486,493.2,High,Slow Moving,31.4,Moderate
+P0213,104,55,49,52.88,103,224.28,Medium,Slow Moving,3.7,Safe
+P0067,115,88,27,76.52,506,222.74,Medium,Active,17.7,Safe
+P0191,98,69,29,70.41,495,401.94,High,Active,22.9,Safe
+P0085,104,45,59,43.27,694,172.92,Low,Deadstock,6.1,Safe
+P0243,97,42,55,43.3,307,440.41,High,Deadstock,35.9,Moderate
+P0156,107,37,70,34.58,314,163.55,Low,Deadstock,24.1,Safe
+P0706,114,46,68,40.35,488,480.7,High,Deadstock,19.5,Safe
+P0672,75,52,23,69.33,675,349.93,Medium,Active,21.4,Safe
+P0329,108,47,61,43.52,322,592.25,High,Deadstock,39.5,Moderate
+P0102,76,24,52,31.58,124,126.77,Low,Deadstock,62.9,Risky
+P0547,79,36,43,45.57,475,124.08,Low,Deadstock,25.1,Safe
+P0319,85,85,0,100,174,215.68,Medium,Sold Out,8.7,Safe
+P0449,85,65,20,76.47,301,592.48,High,Active,28.2,Safe
+P0789,100,82,18,82,698,441.76,High,Active,-7.2,Very Safe
+P0471,111,56,55,50.45,686,640.61,High,Slow Moving,0.3,Safe
+P0683,93,54,39,58.06,319,445.56,High,Slow Moving,24.9,Safe
+P0246,94,59,35,62.77,694,154.02,Low,Slow Moving,16.8,Safe
+P0314,99,39,60,39.39,109,109.08,Low,Slow Moving,7.1,Safe
+P0371,90,44,46,48.89,129,135.47,Low,Slow Moving,4.8,Safe
+P0548,85,81,4,95.29,280,293.35,Medium,Active,9.5,Safe
+P0758,91,56,35,61.54,484,123.55,Low,Slow Moving,19.1,Safe
+P0143,101,58,43,57.43,660,195.48,Low,Slow Moving,21.3,Safe
+P0328,115,52,63,45.22,118,153.56,Low,Slow Moving,6.5,Safe
+P0346,91,78,13,85.71,495,559.8,High,Active,23.1,Safe
+P0046,75,75,0,100,209,265.03,Medium,Sold Out,18.4,Safe
+P0422,104,83,21,79.81,297,308.8,Medium,Active,5.2,Safe
+P0374,104,21,83,20.19,128,137.62,Low,Deadstock,58.2,Risky
+P0559,75,52,23,69.33,517,357.57,Medium,Active,26.2,Safe
+P0403,112,48,64,42.86,466,400.18,High,Deadstock,30.5,Moderate
+P0027,95,24,71,25.26,110,68.32,Low,Deadstock,6,Safe
+P0269,100,59,41,59,293,374.49,Medium,Slow Moving,42.8,Moderate
+P0064,62,62,0,100,125,368.11,Medium,Sold Out,11.1,Safe
+P0595,106,67,39,63.21,473,389.58,Medium,Slow Moving,29.7,Safe
+P0379,119,63,56,52.94,131,615.25,High,Slow Moving,17.3,Safe
+P0777,63,63,0,100,101,388.12,Medium,Sold Out,2.4,Safe
+P0034,130,59,71,45.38,106,284.1,Medium,Slow Moving,-9.9,Very Safe
+P0739,82,80,2,97.56,683,793.63,Critical,Active,25.6,Safe
+P0347,60,56,4,93.33,299,517.55,High,Active,13.8,Safe
+P0119,70,48,22,68.57,689,546.31,High,Active,46.3,Moderate
+P0016,77,68,9,88.31,129,515.64,High,Active,11.6,Safe
+P0368,76,34,42,44.74,125,46.64,Low,Slow Moving,40.2,Moderate
+P0043,117,34,83,29.06,673,220.66,Medium,Deadstock,47,Moderate
+P0382,83,34,49,40.96,135,267.97,Medium,Slow Moving,22.9,Safe
+P0175,112,47,65,41.96,458,149,Low,Deadstock,32,Moderate
+P0311,79,74,5,93.67,488,617.1,High,Active,53.5,Risky
+P0722,88,32,56,36.36,112,140.32,Low,Slow Moving,38.7,Moderate
+P0588,92,52,40,56.52,668,262.49,Medium,Slow Moving,-10.8,Very Safe
+P0094,110,26,84,23.64,667,158.92,Low,Deadstock,32,Moderate
+P0364,90,25,65,27.78,324,187.08,Low,Deadstock,34.5,Moderate
+P0488,113,52,61,46.02,482,817.62,Critical,Deadstock,15.2,Safe
+P0389,115,57,58,49.57,104,244.66,Medium,Slow Moving,35,Moderate
+P0154,146,93,53,63.7,479,632.17,High,Slow Moving,-10.8,Very Safe
+P0117,97,44,53,45.36,148,148.74,Low,Slow Moving,17.8,Safe
+P0533,80,27,53,33.75,112,80.56,Low,Deadstock,7.6,Safe
+P0791,94,35,59,37.23,486,573.91,High,Deadstock,54,Risky
+P0330,118,71,47,60.17,684,242.13,Medium,Slow Moving,4.1,Safe
+P0677,116,27,89,23.28,102,57.31,Low,Deadstock,22.8,Safe
+P0019,64,15,49,23.44,656,77.22,Low,Deadstock,53.5,Risky
+P0024,96,37,59,38.54,462,115.35,Low,Deadstock,23.3,Safe
+P0277,79,79,0,100,221,783.81,Critical,Sold Out,25.7,Safe
+P0031,61,39,22,63.93,472,489.49,High,Slow Moving,37.8,Moderate
+P0584,99,66,33,66.67,699,481.71,High,Active,26.3,Safe
+P0001,116,50,66,43.1,319,218.37,Medium,Deadstock,35.6,Moderate
+P0073,114,77,37,67.54,137,174.64,Low,Active,18.2,Safe
+P0671,95,55,40,57.89,136,143.87,Low,Slow Moving,8.6,Safe
+P0750,97,45,52,46.39,285,215.34,Medium,Deadstock,21.3,Safe
+P0345,70,65,5,92.86,311,555.71,High,Active,11.9,Safe
+P0444,83,40,43,48.19,659,316.71,Medium,Deadstock,27.9,Safe
+P0116,98,28,70,28.57,108,32.32,Low,Deadstock,41.9,Moderate
+P0310,72,60,12,83.33,100,257.95,Medium,Active,25.5,Safe
+P0390,83,62,21,74.7,320,390.2,Medium,Active,-5.3,Very Safe
+P0561,101,32,69,31.68,680,132.79,Low,Deadstock,33.2,Moderate
+P0598,112,45,67,40.18,472,706.57,Critical,Deadstock,37.7,Moderate
+P0543,82,35,47,42.68,293,189.74,Low,Deadstock,42,Moderate
+P0512,112,68,44,60.71,141,153.56,Low,Slow Moving,14,Safe
+P0025,119,47,72,39.5,510,422.94,High,Deadstock,38.5,Moderate
+P0534,86,43,43,50,141,102.76,Low,Slow Moving,0.3,Safe
+P0327,89,55,34,61.8,472,318.13,Medium,Slow Moving,26.8,Safe
+P0200,64,64,0,100,120,244.97,Medium,Sold Out,18.9,Safe
+P0206,85,48,37,56.47,279,158.77,Low,Slow Moving,-10.1,Very Safe
+P0321,66,50,16,75.76,123,187.03,Low,Active,29,Safe
+P0349,100,43,57,43,318,137.6,Low,Deadstock,20.6,Safe
+P0376,136,91,45,66.91,514,440.33,High,Active,-13.3,Very Safe
+P0526,68,60,8,88.24,282,520.59,High,Active,-5.1,Very Safe
+P0454,98,43,55,43.88,697,282.29,Medium,Deadstock,39.8,Moderate
+P0742,91,69,22,75.82,495,650.45,High,Active,-5.4,Very Safe
+P0312,113,59,54,52.21,104,201.03,Medium,Slow Moving,3,Safe
+P0723,109,62,47,56.88,118,242.91,Medium,Slow Moving,4.3,Safe
+P0774,70,46,24,65.71,509,142.45,Low,Active,34.7,Moderate
+P0265,86,28,58,32.56,322,312.24,Medium,Deadstock,42.3,Moderate
+P0714,80,80,0,100,243,171.11,Low,Sold Out,17.3,Safe
+P0667,101,50,51,49.5,110,156.83,Low,Slow Moving,10.5,Safe
+P0600,60,60,0,100,137,366.05,Medium,Sold Out,11.3,Safe
+P0309,120,70,50,58.33,284,216.26,Medium,Slow Moving,-10.9,Very Safe
+P0296,66,66,0,100,152,243.63,Medium,Sold Out,24.4,Safe
+P0698,95,58,37,61.05,470,236.4,Medium,Slow Moving,-4.8,Very Safe
+P0621,94,63,31,67.02,333,417.95,High,Active,26.9,Safe
+P0283,78,48,30,61.54,283,462.89,High,Slow Moving,37,Moderate
+P0700,60,43,17,71.67,145,239.13,Medium,Active,36.4,Moderate
+P0149,85,23,62,27.06,291,97.25,Low,Deadstock,54.7,Risky
+P0493,70,67,3,95.71,314,280.28,Medium,Active,29.8,Safe
+P0740,110,46,64,41.82,684,227.97,Medium,Deadstock,29.4,Safe
+P0106,110,78,32,70.91,471,867.72,Critical,Active,27.7,Safe
+P0746,100,30,70,30,502,327.75,Medium,Deadstock,36.6,Moderate
+P0115,79,79,0,100,201,423.16,High,Sold Out,13.6,Safe
+P0235,80,46,34,57.5,666,233.1,Medium,Slow Moving,7.9,Safe
+P0462,66,37,29,56.06,651,158.73,Low,Slow Moving,22.6,Safe
+P0436,77,43,34,55.84,662,186.18,Low,Slow Moving,25.4,Safe
+P0552,93,53,40,56.99,669,271.7,Medium,Slow Moving,7.4,Safe
+P0050,74,51,23,68.92,475,378.48,Medium,Active,-4.2,Very Safe
+P0244,104,42,62,40.38,108,92.77,Low,Slow Moving,12.3,Safe
+P0303,99,50,49,50.51,658,271.28,Medium,Slow Moving,10.4,Safe
+P0279,75,68,7,90.67,332,477.15,High,Active,33.2,Moderate
+P0180,74,68,6,91.89,491,358.72,Medium,Active,20.8,Safe
+P0202,100,87,13,87,287,524.15,High,Active,-9.9,Very Safe
+P0158,90,51,39,56.67,670,194.86,Low,Slow Moving,4.9,Safe
+P0232,160,91,69,56.88,319,733.98,Critical,Slow Moving,-10.3,Very Safe
+P0731,101,57,44,56.44,690,137.27,Low,Slow Moving,34.7,Moderate
+P0634,80,48,32,60,471,250.26,Medium,Slow Moving,37.1,Moderate
+P0776,95,36,59,37.89,669,162.04,Low,Deadstock,41.8,Moderate
+P0757,61,61,0,100,161,349.07,Medium,Sold Out,16.8,Safe
+P0709,64,53,11,82.81,105,67.76,Low,Active,13.8,Safe
+P0299,120,96,24,80,326,837.76,Critical,Active,8,Safe
+P0651,102,53,49,51.96,96,167.65,Low,Slow Moving,-2.4,Very Safe
+P0772,100,28,72,28,471,441.18,High,Deadstock,51.2,Risky
+P0298,101,79,22,78.22,287,205.86,Medium,Active,21.4,Safe
+P0353,71,71,0,100,144,354.61,Medium,Sold Out,11.6,Safe
+P0033,109,26,83,23.85,97,63.53,Low,Deadstock,36.1,Moderate
+P0431,108,77,31,71.3,152,158.28,Low,Active,-17.6,Very Safe
+P0387,109,58,51,53.21,649,250.69,Medium,Slow Moving,-5.1,Very Safe
+P0205,69,60,9,86.96,458,493,High,Active,12,Safe
+P0126,93,28,65,30.11,134,43.07,Low,Deadstock,44.6,Moderate
+P0176,75,52,23,69.33,696,420.4,High,Active,23.5,Safe
+P0586,109,33,76,30.28,483,213.2,Medium,Deadstock,30.4,Moderate
+P0537,100,33,67,33,501,293.72,Medium,Deadstock,41.4,Moderate
+P0236,111,42,69,37.84,150,84.56,Low,Slow Moving,11,Safe
+P0111,86,33,53,38.37,663,172.67,Low,Deadstock,40.9,Moderate
+P0096,74,74,0,100,178,457.61,High,Sold Out,16.5,Safe
+P0775,120,80,40,66.67,685,419.75,High,Active,16.5,Safe
+P0021,80,57,23,71.25,486,310.32,Medium,Active,15,Safe
+P0684,85,83,2,97.65,292,462.31,High,Active,15.2,Safe
+P0658,115,90,25,78.26,481,365.54,Medium,Active,2.5,Safe
+P0029,117,86,31,73.5,518,241.15,Medium,Active,10.3,Safe
+P0278,117,79,38,67.52,645,302.6,Medium,Active,-8.9,Very Safe
+P0655,80,72,8,90,667,411.12,High,Active,14.6,Safe
+P0285,72,35,37,48.61,107,134.57,Low,Slow Moving,36,Moderate
+P0417,117,37,80,31.62,274,135.17,Low,Deadstock,25.9,Safe
+P0257,92,32,60,34.78,473,141.95,Low,Deadstock,29.9,Safe
+P0185,119,66,53,55.46,296,277.03,Medium,Slow Moving,36,Moderate
+P0399,100,38,62,38,654,170,Low,Deadstock,52.3,Risky
+P0469,101,69,32,68.32,689,885.86,Critical,Active,32.1,Moderate
+P0607,79,50,29,63.29,677,319.57,Medium,Slow Moving,21.9,Safe
+P0212,99,40,59,40.4,119,135.3,Low,Slow Moving,-10.2,Very Safe
+P0582,112,67,45,59.82,293,476.08,High,Slow Moving,14.4,Safe
+P0090,97,55,42,56.7,489,777.82,Critical,Slow Moving,23.9,Safe
+P0405,61,27,34,44.26,126,84.15,Low,Slow Moving,37.8,Moderate
+P0377,90,52,38,57.78,318,244.47,Medium,Slow Moving,8.2,Safe
+P0229,97,61,36,62.89,646,193.98,Low,Slow Moving,11.9,Safe
+P0192,81,41,40,50.62,508,315.48,Medium,Slow Moving,50.3,Risky
+P0448,95,61,34,64.21,511,277.36,Medium,Slow Moving,33.8,Moderate
+P0735,99,41,58,41.41,148,127.04,Low,Slow Moving,-4.6,Very Safe
+P0624,80,62,18,77.5,99,319.92,Medium,Active,32.4,Moderate
+P0532,75,75,0,100,202,520.29,High,Sold Out,25.3,Safe
+P0691,79,62,17,78.48,308,355.86,Medium,Active,20.2,Safe
+P0551,105,62,43,59.05,318,539.24,High,Slow Moving,15.2,Safe
+P0692,65,57,8,87.69,329,157.98,Low,Active,41.1,Moderate
+P0741,114,53,61,46.49,674,796.74,Critical,Deadstock,50.8,Risky
+P0028,101,85,16,84.16,504,338.75,Medium,Active,23.3,Safe
+P0453,89,47,42,52.81,502,145.05,Low,Slow Moving,13.6,Safe
+P0217,117,48,69,41.03,658,333.8,Medium,Deadstock,33.1,Moderate
+P0249,116,42,74,36.21,464,323.82,Medium,Deadstock,31.4,Moderate
+P0190,70,31,39,44.29,694,108.96,Low,Deadstock,33.6,Moderate
+P0659,113,27,86,23.89,482,131.52,Low,Deadstock,32.7,Moderate
+P0392,68,68,0,100,168,112.49,Low,Sold Out,14.5,Safe
+P0518,93,93,0,100,270,685.6,High,Sold Out,43.9,Moderate
+P0071,97,56,41,57.73,320,414.4,High,Slow Moving,33.8,Moderate
+P0288,75,37,38,49.33,142,233.96,Medium,Slow Moving,14.3,Safe
+P0668,87,10,77,11.49,129,63.7,Low,Deadstock,42.7,Moderate
+P0618,91,26,65,28.57,458,123.06,Low,Deadstock,37.7,Moderate
+P0555,105,64,41,60.95,668,173.99,Low,Slow Moving,31.8,Moderate
+P0022,96,85,11,88.54,286,252.42,Medium,Active,0.8,Safe
+P0780,111,65,46,58.56,125,163.24,Low,Slow Moving,-15.6,Very Safe
+P0785,60,32,28,53.33,471,111.91,Low,Slow Moving,38.4,Moderate
+P0451,118,35,83,29.66,135,78.37,Low,Deadstock,11.1,Safe
+P0509,87,87,0,100,240,336.39,Medium,Sold Out,0.7,Safe
+P0369,71,71,0,100,203,177.21,Low,Sold Out,-7.5,Very Safe
+P0336,90,78,12,86.67,290,755.62,Critical,Active,38.6,Moderate
+P0565,117,51,66,43.59,661,314.13,Medium,Deadstock,-12,Very Safe
+P0220,68,66,2,97.06,480,241.96,Medium,Active,16,Safe
+P0234,99,73,26,73.74,307,262.27,Medium,Active,33.2,Moderate
+P0224,101,37,64,36.63,467,165.74,Low,Deadstock,16.3,Safe
+P0477,112,39,73,34.82,697,483.35,High,Deadstock,43.6,Moderate
+P0415,85,74,11,87.06,468,416.57,High,Active,33.8,Moderate
+P0289,67,51,16,76.12,663,275.7,Medium,Active,20.7,Safe
+P0664,105,68,37,64.76,275,646.15,High,Slow Moving,37.7,Moderate
+P0519,117,60,57,51.28,314,594.36,High,Slow Moving,6.6,Safe
+P0161,78,77,1,98.72,488,332.64,Medium,Active,16.9,Safe
+P0562,100,40,60,40,497,202.1,Medium,Deadstock,11,Safe
+P0367,88,71,17,80.68,659,239.74,Medium,Active,23.3,Safe
+P0348,88,72,16,81.82,497,310.28,Medium,Active,3,Safe
+P0771,82,31,51,37.8,641,188.27,Low,Deadstock,30.5,Moderate
+P0666,87,44,43,50.57,688,462,High,Slow Moving,60,Risky
+P0480,71,39,32,54.93,126,400.8,High,Slow Moving,24.7,Safe
+P0259,78,67,11,85.9,299,270.92,Medium,Active,-7.1,Very Safe
+P0569,159,92,67,57.86,649,236.35,Medium,Slow Moving,-17,Very Safe
+P0053,74,35,39,47.3,639,400.85,High,Deadstock,44.2,Moderate
+P0506,104,41,63,39.42,480,330.38,Medium,Deadstock,47.4,Moderate
+P0614,88,88,0,100,202,529.65,High,Sold Out,12.7,Safe
+P0095,62,53,9,85.48,129,122.67,Low,Active,-14,Very Safe
+P0484,90,72,18,80,331,1279.66,Critical,Active,27.6,Safe
+P0713,78,33,45,42.31,112,162.4,Low,Slow Moving,33,Moderate
+P0766,62,62,0,100,110,247.52,Medium,Sold Out,20.4,Safe
+P0105,107,53,54,49.53,498,274.08,Medium,Deadstock,43.3,Moderate
+P0765,98,79,19,80.61,666,393.86,Medium,Active,32.5,Moderate
+P0613,85,70,15,82.35,326,398.58,Medium,Active,25.8,Safe
+P0354,62,25,37,40.32,699,167.16,Low,Deadstock,53.4,Risky
+P0737,80,39,41,48.75,489,211.97,Medium,Deadstock,38.5,Moderate
+P0781,114,56,58,49.12,496,268.4,Medium,Deadstock,8.2,Safe
+P0525,104,56,48,53.85,290,439.75,High,Slow Moving,37.9,Moderate
+P0535,102,49,53,48.04,465,469.2,High,Deadstock,33.4,Moderate
+P0242,63,48,15,76.19,279,616.58,High,Active,40.7,Moderate
+P0334,100,68,32,68,317,201.74,Medium,Active,-6.8,Very Safe
+P0072,103,71,32,68.93,670,516.4,High,Active,27.4,Safe
+P0475,100,36,64,36,129,259.84,Medium,Slow Moving,18.7,Safe
+P0357,63,63,0,100,140,188.68,Low,Sold Out,7.1,Safe
+P0007,105,68,37,64.76,640,245.7,Medium,Slow Moving,2,Safe
+P0524,107,36,71,33.64,143,177.39,Low,Deadstock,23.6,Safe
+P0404,82,82,0,100,250,204.86,Medium,Sold Out,6.5,Safe
+P0654,109,101,8,92.66,485,442.56,High,Active,-13.3,Very Safe
+P0501,116,76,40,65.52,462,345.98,Medium,Active,33.3,Moderate
+P0528,68,68,0,100,199,258.07,Medium,Sold Out,12.9,Safe
+P0529,80,67,13,83.75,282,122.87,Low,Active,-8.8,Very Safe
+P0761,103,87,16,84.47,292,318.24,Medium,Active,0.8,Safe
+P0062,91,61,30,67.03,481,279.32,Medium,Active,5.4,Safe
+P0604,113,48,65,42.48,278,474.71,High,Deadstock,36.9,Moderate
+P0446,118,46,72,38.98,680,550.16,High,Deadstock,21.9,Safe
+P0063,86,57,29,66.28,307,309.23,Medium,Active,16.2,Safe
+P0432,79,56,23,70.89,148,209.75,Medium,Active,34.3,Moderate
+P0038,117,30,87,25.64,152,193.46,Low,Deadstock,48.8,Moderate
+P0678,67,67,0,100,231,511.68,High,Sold Out,38.1,Moderate
+P0630,117,43,74,36.75,681,503.27,High,Deadstock,54.6,Risky
+P0665,72,72,0,100,228,294.26,Medium,Sold Out,-4.7,Very Safe
+P0129,104,90,14,86.54,686,720.44,Critical,Active,34.9,Moderate
+P0786,87,14,73,16.09,113,58.42,Low,Deadstock,56.2,Risky
+P0564,80,80,0,100,116,232.44,Medium,Sold Out,-3.1,Very Safe
+P0166,84,60,24,71.43,655,170.86,Low,Active,32.5,Moderate
+P0550,106,78,28,73.58,685,372.12,Medium,Active,31.4,Moderate
+P0008,65,65,0,100,176,294.71,Medium,Sold Out,4.8,Safe
+P0710,88,52,36,59.09,673,264.18,Medium,Slow Moving,26.4,Safe
+P0039,98,30,68,30.61,143,145.68,Low,Deadstock,42.2,Moderate
+P0622,72,28,44,38.89,681,241.84,Medium,Deadstock,58.6,Risky
+P0401,111,46,65,41.44,683,367.32,Medium,Deadstock,8.6,Safe
+P0702,77,64,13,83.12,319,582.78,High,Active,34.9,Moderate
+P0013,80,80,0,100,242,275.2,Medium,Sold Out,-6.1,Very Safe
+P0795,68,53,15,77.94,497,244.46,Medium,Active,14.1,Safe
+P0620,118,36,82,30.51,310,362.48,Medium,Deadstock,41.8,Moderate
+P0440,66,56,10,84.85,487,816.5,Critical,Active,20.5,Safe
+P0287,85,34,51,40,136,202.7,Medium,Slow Moving,3.7,Safe
+P0145,100,78,22,78,277,290.33,Medium,Active,5.5,Safe
+P0571,63,63,0,100,96,138.48,Low,Sold Out,-1,Very Safe
+P0414,103,27,76,26.21,467,243.22,Medium,Deadstock,42.8,Moderate
+P0619,60,60,0,100,87,49.06,Low,Sold Out,2.5,Safe
+P0581,60,53,7,88.33,94,147.21,Low,Active,32.3,Moderate
+P0478,88,64,24,72.73,151,331.99,Medium,Active,23.1,Safe
+P0026,74,26,48,35.14,139,397.59,Medium,Slow Moving,59.9,Risky
+P0082,120,70,50,58.33,639,216.37,Medium,Slow Moving,4.4,Safe
+P0362,99,44,55,44.44,640,68.4,Low,Deadstock,23.3,Safe
+P0134,95,77,18,81.05,463,278.8,Medium,Active,4.3,Safe
+P0002,105,66,39,62.86,150,214.92,Medium,Slow Moving,1,Safe
+P0594,92,42,50,45.65,683,224.7,Medium,Deadstock,8.2,Safe
+P0020,120,74,46,61.67,681,503.94,High,Slow Moving,-3.9,Very Safe
+P0030,97,58,39,59.79,330,739.09,Critical,Slow Moving,37.1,Moderate
+P0335,102,34,68,33.33,149,77.57,Low,Deadstock,29.9,Safe
+P0502,60,35,25,58.33,102,97.4,Low,Slow Moving,11.7,Safe
+P0769,115,75,40,65.22,472,140.84,Low,Active,25.8,Safe
+P0351,64,64,0,100,188,56.36,Low,Sold Out,25.6,Safe
+P0084,76,62,14,81.58,94,72.14,Low,Active,-1,Very Safe
+P0496,91,29,62,31.87,98,104.67,Low,Deadstock,22.5,Safe
+P0331,92,54,38,58.7,684,343.22,Medium,Slow Moving,25.6,Safe
+P0054,92,92,0,100,245,777.24,Critical,Sold Out,10.2,Safe
+P0800,85,50,35,58.82,281,456.17,High,Slow Moving,27.2,Safe
+P0174,81,67,14,82.72,652,361.12,Medium,Active,15.3,Safe
+P0437,114,39,75,34.21,501,157.43,Low,Deadstock,41,Moderate
+P0489,62,61,1,98.39,150,88.78,Low,Active,6.4,Safe
+P0680,74,42,32,56.76,113,278.67,Medium,Slow Moving,8.9,Safe
+P0733,90,59,31,65.56,668,274,Medium,Active,25.6,Safe
+P0467,71,37,34,52.11,108,150.2,Low,Slow Moving,29,Safe
+P0752,67,59,8,88.06,693,442.95,High,Active,26.1,Safe
+P0679,81,59,22,72.84,147,165.25,Low,Active,8.3,Safe
+P0424,84,76,8,90.48,135,147.55,Low,Active,35.7,Moderate
+P0782,61,21,40,34.43,640,99.54,Low,Deadstock,39,Moderate
+P0150,102,42,60,41.18,305,185.8,Low,Deadstock,34.4,Moderate
+P0517,80,33,47,41.25,511,369.99,Medium,Deadstock,53,Risky
+P0219,94,80,14,85.11,509,208.01,Medium,Active,-12.2,Very Safe
+P0495,98,92,6,93.88,494,546,High,Active,-7.1,Very Safe
+P0465,99,47,52,47.47,105,144.71,Low,Slow Moving,17,Safe
+P0144,75,34,41,45.33,146,221.09,Medium,Slow Moving,4.5,Safe
+P0127,111,87,24,78.38,679,373.52,Medium,Active,8.1,Safe
+P0153,60,27,33,45,99,166.53,Low,Slow Moving,40.5,Moderate
+P0239,80,50,30,62.5,467,135.75,Low,Slow Moving,35.2,Moderate
+P0536,106,89,17,83.96,675,317.33,Medium,Active,-4.4,Very Safe
+P0703,72,40,32,55.56,125,62.93,Low,Slow Moving,28.8,Safe
+P0248,82,47,35,57.32,695,264.13,Medium,Slow Moving,21.2,Safe
+P0109,89,68,21,76.4,663,148.48,Low,Active,17.1,Safe
+P0384,66,41,25,62.12,101,28,Low,Slow Moving,23.7,Safe
+P0338,87,39,48,44.83,664,121.06,Low,Deadstock,44.6,Moderate
+P0778,92,91,1,98.91,487,673.89,High,Active,32.2,Moderate
+P0045,118,37,81,31.36,275,338.4,Medium,Deadstock,31.9,Moderate
+P0406,94,93,1,98.94,483,487.67,High,Active,-1.7,Very Safe
+P0635,92,73,19,79.35,508,335.43,Medium,Active,-4.9,Very Safe
+P0507,116,20,96,17.24,492,188.01,Low,Deadstock,55.9,Risky
+P0325,119,33,86,27.73,124,291.72,Medium,Deadstock,34.5,Moderate
+P0711,144,66,78,45.83,469,331.65,Medium,Deadstock,-10.4,Very Safe
+P0169,116,50,66,43.1,696,631.5,High,Deadstock,33.3,Moderate
+P0138,118,55,63,46.61,150,128.88,Low,Slow Moving,24.3,Safe
+P0423,63,63,0,100,163,194.36,Low,Sold Out,7.3,Safe
+P0221,87,47,40,54.02,673,201.26,Medium,Slow Moving,29.9,Safe
+P0226,71,64,7,90.14,306,277.68,Medium,Active,-15.4,Very Safe
+P0455,77,48,29,62.34,94,139.81,Low,Slow Moving,28,Safe
+P0520,78,50,28,64.1,117,94.17,Low,Slow Moving,42.7,Moderate
+P0676,64,46,18,71.88,285,190.25,Low,Active,46.4,Moderate
+P0580,63,42,21,66.67,141,394.23,Medium,Active,10.5,Safe
+P0356,87,77,10,88.51,666,692.58,High,Active,8.6,Safe
+P0712,93,53,40,56.99,675,373.35,Medium,Slow Moving,42.1,Moderate
+P0137,98,62,36,63.27,279,131.83,Low,Slow Moving,-13.2,Very Safe
+P0793,62,62,0,100,111,151.16,Low,Sold Out,19.4,Safe
+P0682,111,30,81,27.03,649,306.66,Medium,Deadstock,41.3,Moderate
+P0603,98,61,37,62.24,289,444.07,High,Slow Moving,8.1,Safe
+P0730,106,71,35,66.98,113,186.42,Low,Active,32.1,Moderate
+P0697,111,70,41,63.06,645,376.26,Medium,Slow Moving,21.8,Safe
+P0725,78,67,11,85.9,118,192.91,Low,Active,30.2,Moderate
+P0294,63,41,22,65.08,140,257.26,Medium,Active,17.1,Safe
+P0755,98,29,69,29.59,93,95.31,Low,Deadstock,9.1,Safe
+P0011,75,42,33,56,484,289.4,Medium,Slow Moving,22.1,Safe
+P0768,78,66,12,84.62,504,348.37,Medium,Active,17,Safe
+P0541,67,67,0,100,217,390.4,Medium,Sold Out,-10.3,Very Safe
+P0252,60,60,0,100,90,125.18,Low,Sold Out,-5.5,Very Safe
+P0208,79,79,0,100,250,569.9,High,Sold Out,15.9,Safe
+P0394,94,41,53,43.62,146,179.11,Low,Slow Moving,39.6,Moderate
+P0070,84,84,0,100,145,739.68,Critical,Sold Out,3.6,Safe
+P0195,64,64,0,100,219,597.26,High,Sold Out,11.4,Safe
+P0573,103,33,70,32.04,489,281.01,Medium,Deadstock,53.4,Risky
+P0608,95,51,44,53.68,137,266.65,Medium,Slow Moving,33.4,Moderate
+P0113,115,38,77,33.04,124,85.59,Low,Deadstock,16.1,Safe
+P0326,103,39,64,37.86,477,199.26,Low,Deadstock,35.2,Moderate
+P0313,71,57,14,80.28,290,352.58,Medium,Active,36.1,Moderate
+P0433,100,77,23,77,278,421.35,High,Active,-10.3,Very Safe
+P0503,106,44,62,41.51,148,213.65,Medium,Slow Moving,20.2,Safe
+P0342,73,45,28,61.64,463,188.86,Low,Slow Moving,26.6,Safe
+P0612,94,39,55,41.49,507,501.7,High,Deadstock,47,Moderate
+P0708,102,70,32,68.63,655,265.06,Medium,Active,32.1,Moderate
+P0508,112,77,35,68.75,319,126.17,Low,Active,3.9,Safe
+P0442,60,40,20,66.67,698,288.94,Medium,Active,43.2,Moderate
+P0282,116,45,71,38.79,480,121.79,Low,Deadstock,-17,Very Safe
+P0408,90,25,65,27.78,126,105.43,Low,Deadstock,38.2,Moderate
+P0188,119,77,42,64.71,333,395.19,Medium,Slow Moving,8.5,Safe
+P0443,88,51,37,57.95,120,157.04,Low,Slow Moving,34.6,Moderate
+P0728,102,80,22,78.43,502,511.08,High,Active,-7.6,Very Safe
+P0460,65,65,0,100,129,246.15,Medium,Sold Out,5.9,Safe
+P0093,65,48,17,73.85,649,307.82,Medium,Active,32.4,Moderate
+P0411,76,73,3,96.05,663,154.27,Low,Active,-3,Very Safe
+P0575,102,73,29,71.57,693,319.02,Medium,Active,-2.8,Very Safe
+P0783,108,72,36,66.67,652,769.93,Critical,Active,9.1,Safe
+P0504,78,78,0,100,203,236.52,Medium,Sold Out,31.3,Moderate
+P0476,81,72,9,88.89,695,208.23,Medium,Active,6.8,Safe
+P0724,106,62,44,58.49,325,214.5,Medium,Slow Moving,35.6,Moderate
+P0558,91,39,52,42.86,152,58.41,Low,Deadstock,29.6,Safe
+P0131,99,71,28,71.72,664,218.15,Medium,Active,7.1,Safe
+P0729,68,41,27,60.29,308,323.2,Medium,Slow Moving,55.7,Risky
+P0563,97,97,0,100,238,209,Medium,Sold Out,6.4,Safe
+P0610,81,54,27,66.67,699,242.76,Medium,Active,24,Safe
+P0198,68,31,37,45.59,97,159.77,Low,Slow Moving,17.6,Safe
+P0216,101,55,46,54.46,680,129.07,Low,Slow Moving,21.2,Safe
+P0673,69,45,24,65.22,690,174.89,Low,Active,43.3,Moderate
+P0794,68,48,20,70.59,278,163.57,Low,Active,45.1,Moderate
+P0717,87,75,12,86.21,508,481.3,High,Active,32.2,Moderate
+P0482,106,25,81,23.58,675,88.16,Low,Deadstock,30.3,Moderate
+P0576,85,43,42,50.59,312,340.46,Medium,Slow Moving,45.4,Moderate
+P0472,86,36,50,41.86,120,76.91,Low,Slow Moving,35.1,Moderate
+P0441,75,42,33,56,494,568.67,High,Slow Moving,26.1,Safe
+P0657,84,49,35,58.33,101,121.49,Low,Slow Moving,4.2,Safe
+P0258,65,47,18,72.31,511,321.43,Medium,Active,-9.1,Very Safe
+P0429,100,46,54,46,112,99.2,Low,Slow Moving,28.6,Safe
+P0763,84,33,51,39.29,482,102.24,Low,Deadstock,0.7,Safe
+P0498,104,61,43,58.65,497,267.66,Medium,Slow Moving,17.1,Safe
+P0636,80,33,47,41.25,476,287.38,Medium,Deadstock,36.9,Moderate
+P0491,69,69,0,100,201,217.08,Medium,Sold Out,40.4,Moderate
+P0461,96,65,31,67.71,640,347.48,Medium,Active,40.4,Moderate
+P0077,103,87,16,84.47,286,242.26,Medium,Active,23.5,Safe
+P0553,76,76,0,100,225,335.2,Medium,Sold Out,3.2,Safe
+P0701,112,42,70,37.5,494,116.48,Low,Deadstock,16.3,Safe
+P0707,84,48,36,57.14,284,368.16,Medium,Slow Moving,40.2,Moderate
+P0066,73,66,7,90.41,302,185.75,Low,Active,39.1,Moderate
+P0736,80,47,33,58.75,650,155.82,Low,Slow Moving,21.4,Safe
+P0207,79,61,18,77.22,112,207.76,Medium,Active,26,Safe
+P0009,117,83,34,70.94,675,476.89,High,Active,27.6,Safe
+P0078,69,69,0,100,156,201.12,Medium,Sold Out,13.9,Safe
+P0693,60,60,0,100,163,377.09,Medium,Sold Out,39.4,Moderate
+P0059,117,56,61,47.86,315,876.28,Critical,Deadstock,23.8,Safe
+P0473,98,61,37,62.24,117,286.96,Medium,Slow Moving,-5.6,Very Safe
+P0425,139,66,73,47.48,102,144.75,Low,Slow Moving,-13.7,Very Safe
+P0378,66,66,0,100,155,326.97,Medium,Sold Out,-7.1,Very Safe
+P0481,84,83,1,98.81,492,165.55,Low,Active,-8.2,Very Safe
+P0497,109,46,63,42.2,276,282.92,Medium,Deadstock,16.4,Safe
+P0632,77,44,33,57.14,291,320.64,Medium,Slow Moving,33.8,Moderate
+P0770,60,56,4,93.33,661,367.19,Medium,Active,-4.1,Very Safe
+P0320,99,43,56,43.43,147,359.72,Medium,Slow Moving,16.4,Safe
+P0365,68,49,19,72.06,468,328,Medium,Active,23.4,Safe
+P0413,82,55,27,67.07,136,92.96,Low,Active,31.9,Moderate
+P0142,72,51,21,70.83,280,265.85,Medium,Active,-8.9,Very Safe
+P0089,96,64,32,66.67,465,89.5,Low,Active,26.1,Safe
+P0648,65,45,20,69.23,470,159.49,Low,Active,30.3,Moderate
+P0324,115,73,42,63.48,681,401.15,High,Slow Moving,40.3,Moderate
+P0322,71,44,27,61.97,136,137.35,Low,Slow Moving,4.5,Safe
+P0061,63,35,28,55.56,109,77.94,Low,Slow Moving,7.9,Safe
+P0487,101,50,51,49.5,283,478.12,High,Deadstock,25.8,Safe
+P0386,113,50,63,44.25,114,185.26,Low,Slow Moving,17.8,Safe
+P0420,76,61,15,80.26,482,431.16,High,Active,-9.2,Very Safe
+P0434,99,57,42,57.58,660,811.3,Critical,Slow Moving,20.7,Safe
+P0302,92,69,23,75,111,217.5,Medium,Active,31.5,Moderate
+P0779,93,50,43,53.76,682,438.09,High,Slow Moving,19.2,Safe
+P0297,67,67,0,100,202,310.05,Medium,Sold Out,7.5,Safe
+P0316,84,27,57,32.14,105,116.3,Low,Deadstock,16.9,Safe
+P0745,112,52,60,46.43,283,176.64,Low,Deadstock,33.1,Moderate
+P0047,91,44,47,48.35,324,158.11,Low,Deadstock,55.4,Risky
+P0087,114,48,66,42.11,136,255.79,Medium,Slow Moving,-7.5,Very Safe
+P0110,85,55,30,64.71,274,511.99,High,Slow Moving,22.3,Safe
+P0361,106,101,5,95.28,685,496.57,High,Active,-14.7,Very Safe
+P0646,68,29,39,42.65,111,118.8,Low,Slow Moving,9.9,Safe
+P0017,77,59,18,76.62,644,212.25,Medium,Active,21.7,Safe
+P0494,81,49,32,60.49,473,221.95,Medium,Slow Moving,27.8,Safe
+P0194,95,46,49,48.42,145,136.22,Low,Slow Moving,33.5,Moderate
+P0762,60,60,0,100,140,363.07,Medium,Sold Out,-4.5,Very Safe
+P0629,69,69,0,100,212,472.77,High,Sold Out,36.3,Moderate
+P0402,63,47,16,74.6,113,110.05,Low,Active,19.1,Safe
+P0540,102,62,40,60.78,136,465.25,High,Slow Moving,32.1,Moderate
+P0439,67,62,5,92.54,649,397.8,Medium,Active,24.6,Safe
+P0141,78,40,38,51.28,669,316.07,Medium,Slow Moving,44.4,Moderate
+P0199,97,57,40,58.76,116,84.48,Low,Slow Moving,17.1,Safe
+P0468,67,67,0,100,187,268.92,Medium,Sold Out,-1.3,Very Safe
+P0015,116,36,80,31.03,471,336.15,Medium,Deadstock,39.4,Moderate
+P0088,141,83,58,58.87,477,154.71,Low,Slow Moving,-18.7,Very Safe
+P0266,64,23,41,35.94,667,57.61,Low,Deadstock,25.6,Safe
+P0263,101,37,64,36.63,120,94.28,Low,Slow Moving,17.7,Safe
+P0223,97,42,55,43.3,123,239.4,Medium,Slow Moving,10.1,Safe
+P0260,70,70,0,100,163,477,High,Sold Out,30.5,Moderate
+P0004,99,31,68,31.31,283,464,High,Deadstock,29,Safe
+P0355,117,83,34,70.94,333,480.9,High,Active,11.9,Safe
+P0490,119,35,84,29.41,152,128.44,Low,Deadstock,32.8,Moderate
+P0616,111,105,6,94.59,649,581.31,High,Active,-3.1,Very Safe
+P0474,88,88,0,100,210,162.97,Low,Sold Out,-1.3,Very Safe
+P0662,75,43,32,57.33,114,320.53,Medium,Slow Moving,13.9,Safe
+P0140,114,38,76,33.33,666,230,Medium,Deadstock,29,Safe
+P0068,70,44,26,62.86,309,377.4,Medium,Slow Moving,22.8,Safe
+P0516,119,86,33,72.27,488,563.19,High,Active,22.8,Safe
+P0343,109,47,62,43.12,652,168.75,Low,Deadstock,28.5,Safe
+P0057,90,32,58,35.56,101,80.32,Low,Slow Moving,31.6,Moderate
+P0305,120,53,67,44.17,459,357.34,Medium,Deadstock,16.3,Safe
+P0052,78,54,24,69.23,324,433.71,High,Active,42.2,Moderate
+P0514,62,38,24,61.29,694,332.71,Medium,Slow Moving,27.6,Safe
+P0466,80,38,42,47.5,672,265.68,Medium,Deadstock,18.1,Safe
+P0531,69,31,38,44.93,462,363.44,Medium,Deadstock,54,Risky
+P0306,93,43,50,46.24,298,215.2,Medium,Deadstock,23.3,Safe
+P0435,104,37,67,35.58,113,284.2,Medium,Slow Moving,31.7,Moderate
+P0538,67,67,0,100,170,533.76,High,Sold Out,26.4,Safe
+P0696,75,71,4,94.67,641,302.05,Medium,Active,-4.1,Very Safe
+P0358,93,72,21,77.42,474,417.8,High,Active,8.9,Safe
+P0187,76,68,8,89.47,298,277.45,Medium,Active,26.9,Safe
+P0556,94,47,47,50,135,80.29,Low,Slow Moving,12.3,Safe
+P0130,68,57,11,83.82,698,615.04,High,Active,41.7,Moderate
+P0360,102,64,38,62.75,668,941.48,Critical,Slow Moving,34.2,Moderate
+P0245,80,66,14,82.5,147,436.61,High,Active,21.8,Safe
+P0256,90,77,13,85.56,292,365.84,Medium,Active,43.3,Moderate
+P0391,90,63,27,70,309,394.38,Medium,Active,34.8,Moderate
+P0721,71,71,0,100,166,752.25,Critical,Sold Out,29.1,Safe
+P0155,101,53,48,52.48,680,670.09,High,Slow Moving,55.8,Risky
+P0372,90,30,60,33.33,117,157.25,Low,Deadstock,18.1,Safe
+P0799,115,71,44,61.74,498,122.67,Low,Slow Moving,3.8,Safe
+P0583,105,59,46,56.19,672,543.32,High,Slow Moving,14,Safe
+P0760,90,51,39,56.67,96,73.26,Low,Slow Moving,37.6,Moderate
+P0159,98,30,68,30.61,329,300.53,Medium,Deadstock,57.7,Risky
+P0756,62,50,12,80.65,100,274.23,Medium,Active,34.4,Moderate
+P0272,84,20,64,23.81,144,68.67,Low,Deadstock,22.5,Safe
+P0485,79,36,43,45.57,684,119.48,Low,Deadstock,31.6,Moderate
+P0147,79,46,33,58.23,513,541.5,High,Slow Moving,20.1,Safe
+P0718,81,26,55,32.1,119,170.58,Low,Deadstock,36.1,Moderate
+P0395,92,31,61,33.7,648,482.09,High,Deadstock,48.6,Moderate
+P0419,93,52,41,55.91,509,735.44,Critical,Slow Moving,31.1,Moderate
+P0577,74,74,0,100,225,220.72,Medium,Sold Out,21.1,Safe
+P0792,82,39,43,47.56,459,129.74,Low,Deadstock,21.9,Safe
+P0681,61,47,14,77.05,124,60.18,Low,Active,9,Safe
+P0589,108,93,15,86.11,647,386.78,Medium,Active,15,Safe
+P0291,101,77,24,76.24,485,239.37,Medium,Active,1.1,Safe
+P0412,88,85,3,96.59,491,376.15,Medium,Active,19.2,Safe
+P0631,117,88,29,75.21,484,415.61,High,Active,23.4,Safe
+P0214,112,54,58,48.21,328,272.78,Medium,Deadstock,-9.5,Very Safe
+P0359,96,69,27,71.88,128,92.59,Low,Active,7,Safe
+P0181,91,44,47,48.35,106,34.92,Low,Slow Moving,17.9,Safe
+P0381,71,51,20,71.83,316,278.25,Medium,Active,16.6,Safe
+P0100,110,44,66,40,317,474.65,High,Deadstock,47.3,Moderate
+P0136,77,40,37,51.95,118,78.88,Low,Slow Moving,27.4,Safe
+P0177,103,18,85,17.48,148,175.3,Low,Deadstock,44.5,Moderate
+P0505,111,55,56,49.55,678,170.4,Low,Deadstock,-11.6,Very Safe
+P0560,76,76,0,100,109,128.72,Low,Sold Out,3.5,Safe
+P0597,102,48,54,47.06,664,357.7,Medium,Deadstock,25.8,Safe
+P0797,115,62,53,53.91,505,1033.29,Critical,Slow Moving,32.2,Moderate
+P0040,98,31,67,31.63,696,273.21,Medium,Deadstock,31.2,Moderate
+P0341,112,47,65,41.96,467,746.4,Critical,Deadstock,39.9,Moderate
+P0003,100,41,59,41,473,317.2,Medium,Deadstock,31.9,Moderate
+P0452,81,43,38,53.09,120,253.45,Medium,Slow Moving,40.8,Moderate
+P0069,73,73,0,100,166,417.12,High,Sold Out,-5.9,Very Safe
+P0209,110,55,55,50,660,458.92,High,Slow Moving,7.9,Safe
+P0609,88,61,27,69.32,128,422.1,High,Active,45.1,Moderate
+P0421,70,55,15,78.57,674,210.24,Medium,Active,25.3,Safe
+P0254,79,79,0,100,208,399.57,Medium,Sold Out,2.5,Safe
+P0340,105,51,54,48.57,515,256.53,Medium,Deadstock,49.6,Moderate
+P0410,88,46,42,52.27,484,162.89,Low,Slow Moving,29.5,Safe
+P0112,115,66,49,57.39,511,707.93,Critical,Slow Moving,12.4,Safe
+P0225,100,59,41,59,654,528.05,High,Slow Moving,19.9,Safe
+P0545,64,64,0,100,167,355.85,Medium,Sold Out,46.2,Moderate
+P0074,65,58,7,89.23,467,402.6,High,Active,22.2,Safe
+P0048,63,36,27,57.14,275,193.78,Low,Slow Moving,15.6,Safe
+P0639,93,70,23,75.27,303,293.21,Medium,Active,39.9,Moderate
+P0114,97,50,47,51.55,660,448.55,High,Slow Moving,21.1,Safe
+P0097,112,23,89,20.54,100,35.98,Low,Deadstock,34.5,Moderate
+P0738,103,36,67,34.95,109,105.76,Low,Deadstock,15.7,Safe
+P0215,88,51,37,57.95,662,280,Medium,Slow Moving,16,Safe
+P0570,95,41,54,43.16,496,385.79,Medium,Deadstock,35.4,Moderate
+P0124,91,68,23,74.73,481,415.85,High,Active,11.1,Safe
+P0107,74,74,0,100,177,361.2,Medium,Sold Out,-0.5,Very Safe
+P0596,105,40,65,38.1,110,76.18,Low,Slow Moving,14.9,Safe
+P0018,62,54,8,87.1,675,266.86,Medium,Active,48.5,Moderate
+P0743,100,46,54,46,275,242.83,Medium,Deadstock,20.8,Safe
+P0099,111,50,61,45.05,668,439.78,High,Deadstock,29.9,Safe
+P0323,109,47,62,43.12,130,478.96,High,Slow Moving,18.9,Safe
+P0383,82,42,40,51.22,475,319.33,Medium,Slow Moving,40.8,Moderate
+P0366,62,62,0,100,164,328.14,Medium,Sold Out,4.5,Safe
+P0511,73,73,0,100,205,263.69,Medium,Sold Out,26.1,Safe
